@@ -1,0 +1,2062 @@
+playerId,playerName,DOB,mlbDebutDate,birthCity,birthStateProvince,birthCountry,heightInches,weight,primaryPositionCode,primaryPositionName,playerForTestSetAndFuturePreds
+665482,Gilberto Celestino,1999-02-13,2021-06-02,Santo Domingo,NA,Dominican Republic,72,170,8,Outfielder,FALSE
+593590,Webster Rivas,1990-08-08,2021-05-28,Nagua,NA,Dominican Republic,73,219,3,First Base,TRUE
+661269,Vladimir Gutierrez,1995-09-18,2021-05-28,Havana,NA,Cuba,73,190,1,Pitcher,TRUE
+669212,Eli Morgan,1996-05-13,2021-05-28,Rancho Palos Verdes,CA,USA,70,190,1,Pitcher,TRUE
+666201,Alek Manoah,1998-01-09,2021-05-27,Homestead,FL,USA,78,260,1,Pitcher,TRUE
+680911,Owen Miller,1996-11-15,2021-05-23,Mequon,WI,USA,72,185,4,Second Base,TRUE
+670764,Taylor Walls,1996-07-10,2021-05-22,Americus,GA,USA,70,185,6,Shortstop,TRUE
+608422,Jose Godoy,1994-10-13,2021-05-21,Maracaibo,NA,Venezuela,71,200,2,Catcher,TRUE
+650496,Jean Carlos Mejia,1996-08-26,2021-05-21,Gaspar Hernandez,NA,Dominican Republic,77,240,1,Pitcher,TRUE
+642456,Luis Barrera,1995-11-15,2021-05-19,Tamboril,NA,Dominican Republic,72,195,8,Outfielder,TRUE
+664731,P.J. Higgins,1993-05-10,2021-05-19,Bridgeport,CT,USA,70,195,2,Catcher,TRUE
+641927,Bailey Ober,1995-07-12,2021-05-18,Huntersville,NC,USA,81,260,1,Pitcher,TRUE
+641561,Johneshwy Fargas,1994-12-15,2021-05-17,Trujillo Alto,NA,Puerto Rico,73,180,8,Outfielder,TRUE
+666137,Khalil Lee,1998-06-26,2021-05-17,Newark,DE,USA,70,170,9,Outfielder,TRUE
+667297,Tommy Nance,1991-03-19,2021-05-17,Long Beach,CA,USA,78,235,1,Pitcher,TRUE
+622668,Ivan Castillo,1995-05-30,2021-05-14,Santiago,NA,Dominican Republic,69,179,4,Second Base,TRUE
+669302,Logan Gilbert,1997-05-05,2021-05-13,Winter Park,FL,USA,78,225,1,Pitcher,TRUE
+672284,Jarred Kelenic,1999-07-16,2021-05-13,Waukesha,WI,USA,73,190,7,Outfielder,TRUE
+547001,Cody Poteet,1994-07-30,2021-05-12,San Diego,CA,USA,73,190,1,Pitcher,TRUE
+657011,Troy Stokes Jr.,1996-02-02,2021-05-09,Columbia,MD,USA,69,205,7,Outfielder,TRUE
+663616,Trevor Larnach,1997-02-26,2021-05-08,Walnut Creek,CA,USA,76,223,7,Outfielder,TRUE
+665861,Sebastian Rivero,1998-11-16,2021-05-08,Maracay,NA,Venezuela,73,210,2,Catcher,TRUE
+624503,Nick Gordon,1995-10-24,2021-05-06,Avon Park,FL,USA,72,160,6,Shortstop,TRUE
+664850,Patrick Mazeika,1993-10-14,2021-05-05,Springfield,MA,USA,75,210,2,Catcher,TRUE
+669622,Anthony Bender,1995-02-03,2021-05-05,Petaluma,CA,USA,76,205,1,Pitcher,TRUE
+670462,Hunter Owen,1993-09-22,2021-05-05,Evansville,IN,USA,71,200,5,Third Base,TRUE
+628451,Andy Ibanez,1993-04-03,2021-05-04,Havana,NA,Cuba,71,205,5,Third Base,TRUE
+663738,Daniel Lynch,1996-11-17,2021-05-03,Richmond,VA,USA,78,200,1,Pitcher,TRUE
+624522,Keegan Thompson,1995-03-13,2021-05-02,Cullman,AL,USA,73,210,1,Pitcher,TRUE
+676424,Alec Bettinger,1995-07-13,2021-05-02,Alexandria,VA,USA,74,210,1,Pitcher,TRUE
+656458,Lucas Gilbreath,1996-03-05,2021-05-01,Westminster,CO,USA,73,185,1,Pitcher,TRUE
+670090,Wyatt Mills,1995-01-25,2021-05-01,Spokane,WA,USA,76,190,1,Pitcher,TRUE
+680704,Nick Sandlin,1997-01-10,2021-05-01,Evans,GA,USA,71,175,1,Pitcher,TRUE
+666163,Ben Rortvedt,1997-09-25,2021-04-30,Madison,WI,USA,70,205,2,Catcher,TRUE
+670955,Edwin Uceta,1998-01-09,2021-04-30,Villa Los Almacigos,NA,Dominican Republic,72,155,1,Pitcher,TRUE
+664875,Justin Lawrence,1994-11-25,2021-04-29,Canal Zone,NA,Panama,75,213,1,Pitcher,TRUE
+664852,Jay Flaa,1992-06-10,2021-04-27,Bismarck,ND,USA,75,225,1,Pitcher,TRUE
+660365,Hyeon-Jong Yang,1988-03-01,2021-04-26,Gwangju,NA,South Korea,72,200,1,Pitcher,TRUE
+545343,Louis Head,1990-04-23,2021-04-25,Houston,TX,USA,73,180,1,Pitcher,TRUE
+675912,Zac Lowther,1996-04-30,2021-04-25,Middleburg Heights,OH,USA,74,235,1,Pitcher,TRUE
+573062,Aaron Northcraft,1990-05-28,2021-04-24,Tucson,AZ,USA,75,229,1,Pitcher,TRUE
+592288,Kent Emanuel,1992-06-04,2021-04-24,Woodstock,GA,USA,76,225,1,Pitcher,TRUE
+613564,Jason Vosler,1993-09-06,2021-04-24,West Nyack,NY,USA,73,220,5,Third Base,TRUE
+641999,Corey Ray,1994-09-22,2021-04-24,Chicago,IL,USA,72,196,8,Outfielder,TRUE
+672701,Jose Devers,1999-12-07,2021-04-24,Samana,NA,Dominican Republic,72,174,6,Shortstop,TRUE
+641682,Ryan Hendrix,1994-12-16,2021-04-23,Lufkin,TX,USA,75,215,1,Pitcher,TRUE
+656847,DJ Peters,1995-12-12,2021-04-23,Glendora,CA,USA,78,225,8,Outfielder,TRUE
+670097,Zack Short,1995-05-29,2021-04-21,Kingston,NY,USA,70,180,6,Shortstop,TRUE
+656266,J.B. Bukauskas,1996-10-11,2021-04-20,Ashburn,VA,USA,72,208,1,Pitcher,TRUE
+656529,Sam Hentges,1996-07-18,2021-04-20,Shoreview,MN,USA,78,245,1,Pitcher,TRUE
+665155,Nick Maton,1997-02-18,2021-04-19,Chatham,IL,USA,74,178,4,Second Base,TRUE
+656981,Peter Solomon,1996-08-16,2021-04-18,Washington,DC,USA,76,211,1,Pitcher,TRUE
+666808,Camilo Doval,1997-07-04,2021-04-18,Yamasa,NA,Dominican Republic,74,185,1,Pitcher,TRUE
+621008,Alex De Goti,1994-08-19,2021-04-16,Miami,FL,USA,72,192,6,Shortstop,TRUE
+656568,Scott Hurst,1996-03-25,2021-04-16,Glendora,CA,USA,70,175,8,Outfielder,TRUE
+660825,Eduard Bazardo,1995-09-01,2021-04-14,Maracay,NA,Venezuela,72,165,1,Pitcher,TRUE
+669008,Ronnie Dawson,1995-05-19,2021-04-14,Grove City,OH,USA,74,217,8,Outfielder,TRUE
+657006,Justin Steele,1995-07-11,2021-04-12,Lucedale,MS,USA,74,205,1,Pitcher,TRUE
+641703,Brent Honeywell Jr.,1995-03-31,2021-04-11,Augusta,GA,USA,74,195,1,Pitcher,TRUE
+656638,Alex Lange,1995-10-02,2021-04-10,Riverside,CA,USA,75,202,1,Pitcher,TRUE
+676701,Alan Trejo,1996-05-30,2021-04-10,Los Angeles,CA,USA,74,205,4,Second Base,TRUE
+641943,Josh Palacios,1995-07-30,2021-04-09,Brooklyn,NY,USA,73,198,8,Outfielder,TRUE
+670042,Luke Raley,1994-09-19,2021-04-09,Hinckley,OH,USA,76,235,7,Outfielder,TRUE
+676709,Ty Tice,1996-07-04,2021-04-09,Prairie Grove,AR,USA,69,185,1,Pitcher,TRUE
+621348,Sam Clay,1993-06-21,2021-04-07,Knoxville,TN,USA,75,227,1,Pitcher,TRUE
+680963,Cody Wilson,1996-07-04,2021-04-07,West Palm Beach,FL,USA,74,200,8,Outfielder,TRUE
+656821,Kevin Padlo,1996-07-15,2021-04-06,Murrieta,CA,USA,74,210,5,Third Base,TRUE
+676840,Matt Peacock,1994-02-27,2021-04-06,Saraland,AL,USA,73,185,1,Pitcher,TRUE
+663630,Ryan McKenna,1997-02-14,2021-04-05,Grants Pass,OR,USA,71,195,8,Outfielder,TRUE
+669135,Mac Sceroler,1995-04-09,2021-04-05,Baton Rouge,LA,USA,75,215,1,Pitcher,TRUE
+668731,Akil Baddoo,1998-08-16,2021-04-04,Silver Spring,MD,USA,73,214,7,Outfielder,TRUE
+669330,Tyler Wells,1994-08-26,2021-04-04,Yucaipa,CA,USA,80,255,1,Pitcher,TRUE
+676477,Garrett Whitlock,1996-06-11,2021-04-04,Snellville,GA,USA,77,190,1,Pitcher,TRUE
+641394,Jake Brentz,1994-09-14,2021-04-03,Ballwin,MO,USA,73,205,1,Pitcher,TRUE
+647315,Zach Pop,1996-09-20,2021-04-03,Brampton,ON,Canada,76,220,1,Pitcher,TRUE
+663986,Trevor Stephan,1995-11-25,2021-04-03,Magnolia,TX,USA,77,225,1,Pitcher,TRUE
+665854,Luis Oviedo,1999-05-15,2021-04-03,Barquisimeto,NA,Venezuela,76,235,1,Pitcher,TRUE
+669294,Paul Campbell,1995-07-26,2021-04-03,Malden,MA,USA,72,210,1,Pitcher,TRUE
+685503,Kohei Arihara,1992-08-11,2021-04-03,Hiroshima,NA,Japan,74,210,1,Pitcher,TRUE
+617228,Hirokazu Sawamura,1988-04-03,2021-04-02,Tochigi,NA,Japan,72,212,1,Pitcher,TRUE
+641386,Ben Bowden,1994-10-21,2021-04-02,Lynn,MA,USA,76,249,1,Pitcher,TRUE
+642068,Jordan Sheffield,1995-06-01,2021-04-02,Tullahoma,TN,USA,70,190,1,Pitcher,TRUE
+669735,Chris Rodriguez,1998-07-20,2021-04-02,Coral Springs,FL,USA,74,185,1,Pitcher,TRUE
+670351,Jose Rojas,1993-02-24,2021-04-02,Anaheim,CA,USA,72,200,5,Third Base,TRUE
+683734,Andrew Vaughn,1998-04-03,2021-04-02,Santa Rosa,CA,USA,72,215,7,Outfielder,TRUE
+663697,Jonathan India,1996-12-15,2021-04-01,Ft. Lauderdale,FL,USA,72,200,4,Second Base,TRUE
+664728,Kyle Isbel,1997-03-03,2021-04-01,Fontana,CA,USA,71,190,8,Outfielder,TRUE
+664789,Ka'ai Tom,1994-05-29,2021-04-01,Honolulu,HI,USA,69,185,7,Outfielder,TRUE
+666211,Taylor Trammell,1997-09-13,2021-04-01,Powder Springs,GA,USA,74,213,8,Outfielder,TRUE
+672779,Tucupita Marcano,1999-09-16,2021-04-01,Tucupita,NA,Venezuela,72,170,6,Shortstop,TRUE
+673490,Ha-Seong Kim,1995-10-17,2021-04-01,Bucheon,NA,South Korea,69,168,6,Shortstop,TRUE
+676684,Will Vest,1995-06-06,2021-04-01,Houston,TX,USA,72,180,1,Pitcher,TRUE
+676801,Chas McCormick,1995-04-19,2021-04-01,West Chester,PA,USA,72,208,7,Outfielder,TRUE
+676969,Brett de Geus,1997-11-04,2021-04-01,Pleasanton,CA,USA,74,190,1,Pitcher,TRUE
+677960,Ryan Weathers,1999-12-17,2020-10-06,Loretto,TN,USA,73,230,1,Pitcher,TRUE
+663556,Shane McClanahan,1997-04-28,2020-10-05,Cape Coral,FL,USA,73,200,1,Pitcher,TRUE
+666135,Alex Kirilloff,1997-11-09,2020-09-30,Pittsburgh,PA,USA,74,195,7,Outfielder,TRUE
+656353,Tucker Davidson,1996-03-25,2020-09-26,Amarillo,TX,USA,74,215,1,Pitcher,TRUE
+656382,Tommy Doyle,1996-05-01,2020-09-23,Vienna,VA,USA,78,244,1,Pitcher,FALSE
+666931,Jared Oliva,1995-11-27,2020-09-21,Santa Clarita,CA,USA,74,195,8,Outfielder,FALSE
+641907,Patrick Murphy,1995-06-10,2020-09-18,Chandler,AZ,USA,77,235,1,Pitcher,FALSE
+663770,Demarcus Evans,1996-10-22,2020-09-18,Petal,MS,USA,77,265,1,Pitcher,TRUE
+676979,Garrett Crochet,1999-06-21,2020-09-18,Ocean Springs,MS,USA,78,230,1,Pitcher,TRUE
+664076,Garrett Cleavinger,1994-04-23,2020-09-17,Lawrence,KS,USA,73,220,1,Pitcher,TRUE
+669145,Bruce Zimmermann,1995-02-09,2020-09-17,Baltimore,MD,USA,73,215,1,Pitcher,TRUE
+656716,Zach McKinstry,1995-04-29,2020-09-16,Toledo,OH,USA,72,180,9,Outfielder,TRUE
+666160,Mickey Moniak,1998-05-13,2020-09-16,Encinitas,CA,USA,74,195,8,Outfielder,TRUE
+656557,Tanner Houck,1996-06-29,2020-09-15,St. Louis,IL,USA,77,230,1,Pitcher,TRUE
+663905,Travis Blankenhorn,1996-08-03,2020-09-15,Pottsville,PA,USA,74,235,4,Second Base,TRUE
+664977,Blake Cederlind,1996-01-04,2020-09-15,Turlock,CA,USA,76,215,1,Pitcher,FALSE
+665561,Rafael Marchan,1999-02-25,2020-09-14,San Cristobal,NA,Venezuela,69,170,2,Catcher,TRUE
+666129,Braxton Garrett,1997-08-05,2020-09-13,Foley,AL,USA,74,202,1,Pitcher,TRUE
+680692,Jonathan Stiever,1997-05-12,2020-09-13,Cedarburg,WI,USA,74,210,1,Pitcher,TRUE
+656976,Pavin Smith,1996-02-06,2020-09-12,Jupiter,FL,USA,74,208,9,Outfielder,TRUE
+665947,Sherten Apostel,1999-03-11,2020-09-12,Willemstad,NA,Curacao,76,235,5,Third Base,FALSE
+672386,Alejandro Kirk,1998-11-06,2020-09-12,Tijuana,Baja California,Mexico,68,265,2,Catcher,TRUE
+593619,Domingo Tapia,1991-08-04,2020-09-11,Santo Domingo,NA,Dominican Republic,75,263,1,Pitcher,TRUE
+669087,Sam Huff,1998-01-14,2020-09-11,Phoenix,AZ,USA,77,240,2,Catcher,FALSE
+628450,Yadiel Hernandez,1987-10-09,2020-09-10,Matanzas,NA,Cuba,70,188,9,Outfielder,TRUE
+669459,Kyle Nelson,1996-07-08,2020-09-10,San Francisco,CA,USA,73,175,1,Pitcher,TRUE
+663662,Daz Cameron,1997-01-15,2020-09-09,McDonough,GA,USA,74,185,8,Outfielder,FALSE
+620445,Jose Mujica,1996-06-29,2020-09-08,Valencia,NA,Venezuela,74,249,1,Pitcher,TRUE
+621500,Wyatt Mathisen,1993-12-30,2020-09-07,Corpus Christi,TX,USA,72,217,3,First Base,TRUE
+671250,Jorge Ona,1996-12-31,2020-09-07,Havana,NA,Cuba,72,235,O,Outfield,FALSE
+642727,Sergio Alcantara,1996-07-10,2020-09-06,Santo Domingo Este,NA,Dominican Republic,69,151,6,Shortstop,TRUE
+665152,Dean Kremer,1996-01-07,2020-09-06,Stockton,CA,USA,74,200,1,Pitcher,TRUE
+622256,Patrick Weigel,1994-07-08,2020-09-04,Thousand Oaks,CA,USA,78,240,1,Pitcher,TRUE
+656537,Derek Hill,1995-12-30,2020-09-04,Des Moines,IA,USA,74,190,8,Outfielder,TRUE
+657376,Clarke Schmidt,1996-02-20,2020-09-04,Acworth,GA,USA,73,200,1,Pitcher,FALSE
+667463,John King,1994-09-14,2020-09-04,Laredo,TX,USA,74,215,1,Pitcher,TRUE
+667670,Brent Rooker,1994-11-01,2020-09-04,Germantown,TN,USA,75,225,9,Outfielder,TRUE
+669134,Luis Campusano,1998-09-29,2020-09-04,Augusta,GA,USA,71,232,2,Catcher,TRUE
+677651,Luis Garcia,1996-12-13,2020-09-04,Bolivar,NA,Venezuela,73,244,1,Pitcher,TRUE
+641576,Bernardo Flores Jr.,1995-08-23,2020-09-03,Baldwin Park,CA,USA,76,190,1,Pitcher,TRUE
+623437,Justin Topa,1991-03-07,2020-09-01,Binghamton,NY,USA,76,200,1,Pitcher,FALSE
+641360,Phil Bickford,1995-07-10,2020-09-01,Ventura,CA,USA,76,200,1,Pitcher,TRUE
+642201,Eli White,1994-06-26,2020-09-01,Greenville,SC,USA,75,195,7,Outfielder,TRUE
+663647,Ke'Bryan Hayes,1997-01-28,2020-09-01,Tomball,TX,USA,70,205,5,Third Base,TRUE
+665733,Antonio Santos,1996-10-06,2020-09-01,Villa Gonzalez,NA,Dominican Republic,75,223,1,Pitcher,TRUE
+665862,Jazz Chisholm Jr.,1998-02-01,2020-09-01,Nassau,NA,Bahamas,71,184,4,Second Base,TRUE
+672578,Carlos Hernandez,1997-03-11,2020-09-01,Guayana,NA,Venezuela,76,245,1,Pitcher,TRUE
+622490,Robinson Leyer,1993-03-13,2020-08-31,El Seibo,NA,Dominican Republic,74,185,1,Pitcher,FALSE
+663330,Jahmai Jones,1997-08-04,2020-08-31,Roswell,GA,USA,72,204,4,Second Base,FALSE
+664337,Miguel Yajure,1998-05-01,2020-08-31,Cabimas,NA,Venezuela,73,220,1,Pitcher,TRUE
+665620,Deivi Garcia,1999-05-19,2020-08-30,Bonao,NA,Dominican Republic,69,163,1,Pitcher,TRUE
+666915,Bobby Dalbec,1995-06-29,2020-08-30,Seattle,WA,USA,76,227,3,First Base,TRUE
+664069,Ben Braymer,1994-04-28,2020-08-28,Baton Rouge,LA,USA,74,212,1,Pitcher,TRUE
+664314,Estevan Florial,1997-11-25,2020-08-28,Barahona,NA,Dominican Republic,73,195,8,Outfielder,TRUE
+669952,Mitch White,1994-12-28,2020-08-28,San Jose,CA,USA,75,210,1,Pitcher,TRUE
+642772,Luis Alexander Basabe,1996-08-26,2020-08-27,El Vigia,NA,Venezuela,72,180,8,Outfielder,FALSE
+643269,Will Craig,1994-11-16,2020-08-27,Johnson City,TN,USA,75,235,3,First Base,TRUE
+642092,Riley Smith,1995-01-15,2020-08-26,Lufkin,TX,USA,73,207,1,Pitcher,TRUE
+666120,Ian Anderson,1998-05-02,2020-08-26,Rexford,NY,USA,75,170,1,Pitcher,TRUE
+641680,Jonah Heim,1995-06-27,2020-08-25,Buffalo,NY,USA,76,220,2,Catcher,TRUE
+669432,Trevor Rogers,1997-11-13,2020-08-25,Carlsbad,NM,USA,77,217,1,Pitcher,TRUE
+605335,Brandon Leibrandt,1992-12-13,2020-08-23,Alpharetta,GA,USA,76,190,1,Pitcher,FALSE
+640459,Brian Navarreto,1994-12-29,2020-08-23,Bayamon,NA,Puerto Rico,72,237,2,Catcher,FALSE
+676596,Josh Fleming,1996-05-18,2020-08-23,Bridgeton,MO,USA,74,220,1,Pitcher,TRUE
+592622,Mark Payton,1991-12-07,2020-08-22,Orland Park,IL,USA,68,180,9,Outfielder,TRUE
+640444,Wil Crowe,1994-09-09,2020-08-22,Kingston,TN,USA,74,235,1,Pitcher,TRUE
+663474,Triston McKenzie,1997-08-02,2020-08-22,Brooklyn,NY,USA,77,165,1,Pitcher,TRUE
+664350,Sixto Sanchez,1998-07-29,2020-08-22,San Cristobal,NA,Dominican Republic,72,234,1,Pitcher,FALSE
+667465,Aaron Fletcher,1996-02-25,2020-08-22,Geneseo,IL,USA,72,220,1,Pitcher,TRUE
+621129,Kyle Cody,1994-08-09,2020-08-21,Chippewa Falls,WI,USA,79,225,1,Pitcher,TRUE
+660821,Jesus Sanchez,1997-10-07,2020-08-21,Higuey,NA,Dominican Republic,75,222,9,Outfielder,FALSE
+663624,Ryan Mountcastle,1997-02-18,2020-08-21,Winter Springs,FL,USA,76,230,3,First Base,TRUE
+665506,Cristian Pache,1998-11-19,2020-08-21,Santo Domingo Centro,NA,Dominican Republic,74,215,8,Outfielder,TRUE
+668941,JoJo Romero,1996-09-09,2020-08-21,Camarillo,CA,USA,71,200,1,Pitcher,TRUE
+602104,Ramon Urias,1994-06-03,2020-08-20,Magdalena de Kino,Sonora,Mexico,72,190,4,Second Base,TRUE
+657240,Julian Merryweather,1991-10-14,2020-08-20,Berkeley,CA,USA,76,215,1,Pitcher,TRUE
+663698,Joey Bart,1996-12-15,2020-08-20,Buford,GA,USA,74,238,2,Catcher,TRUE
+664714,Ljay Newsome,1996-11-08,2020-08-20,La Plata,MD,USA,71,210,1,Pitcher,TRUE
+680777,Ryan Jeffers,1997-06-03,2020-08-20,Raleigh,NC,USA,76,235,2,Catcher,TRUE
+623485,Ashton Goudeau,1992-07-23,2020-08-19,Newport,AR,USA,78,220,1,Pitcher,TRUE
+641540,Dane Dunning,1994-12-20,2020-08-19,Orange Park,FL,USA,76,225,1,Pitcher,TRUE
+656876,Drew Rasmussen,1995-07-27,2020-08-19,Puyallup,WA,USA,73,211,1,Pitcher,TRUE
+663554,Casey Mize,1997-05-01,2020-08-19,Springville,AL,USA,75,212,1,Pitcher,TRUE
+670912,Johan Oviedo,1998-03-02,2020-08-19,Havana,NA,Cuba,77,245,1,Pitcher,TRUE
+622780,Angel Perdomo,1994-05-07,2020-08-18,San Cristobal,NA,Dominican Republic,80,265,1,Pitcher,TRUE
+669373,Tarik Skubal,1996-11-20,2020-08-18,Hayward,CA,USA,75,240,1,Pitcher,TRUE
+670768,Luis Gonzalez,1995-09-10,2020-08-18,Hermosillo,Sonora,Mexico,73,185,8,Outfielder,TRUE
+622503,Nabil Crismatt,1994-12-25,2020-08-17,Barranquilla,NA,Colombia,73,220,1,Pitcher,TRUE
+645307,Ricardo Sanchez,1997-04-11,2020-08-17,Puerto Cabello,NA,Venezuela,70,220,1,Pitcher,FALSE
+668338,Tyson Miller,1995-07-29,2020-08-17,Fairfield,CA,USA,76,225,1,Pitcher,FALSE
+670623,Isaac Paredes,1999-02-18,2020-08-17,Hermosillo,Sonora,Mexico,71,213,5,Third Base,FALSE
+596056,John Nogowski,1993-01-05,2020-08-16,Tallahassee,FL,USA,72,245,3,First Base,TRUE
+605138,Wes Benjamin,1993-07-26,2020-08-16,Winfield,IL,USA,74,210,1,Pitcher,TRUE
+621076,James Kaprielian,1994-03-02,2020-08-16,Laguna Hills,CA,USA,75,225,1,Pitcher,TRUE
+641739,Rob Kaminsky,1994-09-02,2020-08-16,Englewood Cliffs,NJ,USA,72,195,1,Pitcher,FALSE
+660688,Keibert Ruiz,1998-07-20,2020-08-16,Valencia,NA,Venezuela,72,225,2,Catcher,TRUE
+676220,Seth Elledge,1996-05-20,2020-08-16,Dallas,TX,USA,75,240,1,Pitcher,TRUE
+621011,Max Schrock,1994-10-12,2020-08-15,Bremerton,WA,USA,69,185,5,Third Base,TRUE
+650331,Lewin Diaz,1996-11-19,2020-08-15,Santiago,NA,Dominican Republic,76,217,3,First Base,TRUE
+663765,Jake Woodford,1996-10-28,2020-08-15,St. Petersburg,FL,USA,76,215,1,Pitcher,TRUE
+666185,Dylan Carlson,1998-10-23,2020-08-15,Elk Grove,CA,USA,74,205,8,Outfielder,TRUE
+663399,Brandon Waddell,1994-06-03,2020-08-14,Houston,TX,USA,75,180,1,Pitcher,TRUE
+669211,Keegan Akin,1995-04-01,2020-08-14,Alma,MI,USA,71,235,1,Pitcher,TRUE
+671277,Luis Garcia,2000-05-16,2020-08-14,New York,NY,USA,74,224,4,Second Base,TRUE
+606996,Kyle Hart,1992-11-23,2020-08-13,Cincinnati,OH,USA,77,200,1,Pitcher,FALSE
+622761,Jorge Mateo,1995-06-23,2020-08-13,Santo Domingo Oeste,NA,Dominican Republic,72,182,9,Outfielder,TRUE
+641401,Connor Brogdon,1995-01-29,2020-08-13,Clovis,CA,USA,78,205,1,Pitcher,TRUE
+656913,Seth Romero,1996-04-19,2020-08-13,West Columbia,TX,USA,75,240,1,Pitcher,FALSE
+664761,Alec Bohm,1996-08-03,2020-08-13,Omaha,NE,USA,77,218,5,Third Base,TRUE
+676886,Jeremy Beasley,1995-11-20,2020-08-11,Lyons,GA,USA,75,235,1,Pitcher,TRUE
+645305,Ali Sanchez,1997-01-20,2020-08-10,Carora,NA,Venezuela,73,200,2,Catcher,TRUE
+621290,Dakota Bacus,1991-04-02,2020-08-09,Moline,IL,USA,74,220,1,Pitcher,FALSE
+675921,Spencer Howard,1996-07-28,2020-08-09,San Luis Obispo,CA,USA,75,210,1,Pitcher,TRUE
+624418,Ryan Castellani,1996-04-01,2020-08-08,Philadelphia,PA,USA,76,218,1,Pitcher,TRUE
+641420,Zack Burdi,1995-03-09,2020-08-08,Downers Grove,IL,USA,75,210,1,Pitcher,TRUE
+641447,Daniel Castano,1994-09-17,2020-08-08,Orlando,FL,USA,75,231,1,Pitcher,TRUE
+656061,Albert Abreu,1995-09-26,2020-08-08,Guayubin,NA,Dominican Republic,74,190,1,Pitcher,TRUE
+683232,Nick Mears,1996-10-07,2020-08-08,Sacramento,CA,USA,74,200,1,Pitcher,TRUE
+650668,Humberto Mejia,1997-03-03,2020-08-07,Panama City,NA,Panama,76,235,1,Pitcher,FALSE
+660422,Jorge Guzman,1996-01-28,2020-08-06,Las Matas de Santa Cruz,NA,Dominican Republic,73,246,1,Pitcher,FALSE
+660731,Anderson Tejeda,1998-05-01,2020-08-06,Bani,NA,Dominican Republic,72,200,6,Shortstop,TRUE
+643532,Sterling Sharp,1995-05-30,2020-08-05,Southfield,MI,USA,75,182,1,Pitcher,FALSE
+656004,Carlos Sanabria,1997-01-24,2020-08-05,La Victoria,NA,Venezuela,75,165,1,Pitcher,FALSE
+657193,Eddy Alvarez,1990-01-30,2020-08-05,Miami,FL,USA,69,185,6,Shortstop,FALSE
+672715,Luis Patino,1999-10-26,2020-08-05,Barranquilla,NA,Colombia,73,192,1,Pitcher,TRUE
+528748,Humberto Castellanos,1998-04-03,2020-08-04,Tepatitlan,Jalisco,Mexico,71,222,1,Pitcher,TRUE
+656509,Monte Harrison,1995-08-10,2020-08-04,Lee's Summit,MO,USA,75,225,8,Outfielder,TRUE
+664029,Mark Mathias,1994-08-02,2020-08-04,Santa Clara,CA,USA,72,200,4,Second Base,FALSE
+666176,Jo Adell,1999-04-08,2020-08-04,Shelby,NC,USA,75,215,8,Outfielder,FALSE
+680702,Joey Gerber,1997-05-03,2020-08-04,Maple Grove,MN,USA,76,215,1,Pitcher,FALSE
+606213,Yermin Mercedes,1993-02-14,2020-08-02,La Romana,NA,Dominican Republic,71,245,3,First Base,TRUE
+664074,Cody Ponce,1994-04-25,2020-08-02,Pomona,CA,USA,78,255,1,Pitcher,TRUE
+641582,Matt Foster,1995-01-27,2020-08-01,Valley,AL,USA,72,215,1,Pitcher,TRUE
+642584,Franklyn Kilome,1995-06-25,2020-08-01,La Romana,NA,Dominican Republic,78,175,1,Pitcher,FALSE
+656793,Nick Nelson,1995-12-05,2020-08-01,Panama City,FL,USA,73,205,1,Pitcher,TRUE
+670370,Andrew Young,1994-05-10,2020-08-01,West Fargo,ND,USA,72,200,4,Second Base,TRUE
+624647,Victor Gonzalez,1995-11-16,2020-07-31,Tuxpan,Nayarit,Mexico,72,180,1,Pitcher,TRUE
+663460,Kris Bubic,1997-08-19,2020-07-31,Cupertino,CA,USA,75,225,1,Pitcher,TRUE
+663611,Nick Madrigal,1997-03-05,2020-07-31,Sacramento,CA,USA,68,175,4,Second Base,TRUE
+662139,Daulton Varsho,1996-07-02,2020-07-30,Marshfield,WI,USA,70,207,8,Outfielder,TRUE
+670084,Nick Heath,1993-11-27,2020-07-30,Atlanta,GA,USA,73,190,8,Outfielder,TRUE
+621139,Brooks Kriske,1994-02-03,2020-07-29,Scottsdale,AZ,USA,75,190,1,Pitcher,TRUE
+644433,Chadwick Tromp,1995-03-21,2020-07-29,Oranjestad,NA,Aruba,68,221,2,Catcher,TRUE
+663878,Nate Pearson,1996-08-20,2020-07-29,Odessa,FL,USA,78,250,1,Pitcher,TRUE
+607179,Jordan Weems,1992-11-07,2020-07-28,Columbus,GA,USA,75,175,1,Pitcher,TRUE
+641929,Joseph Odom,1992-01-09,2020-07-28,Birmingham,AL,USA,74,215,2,Catcher,TRUE
+656849,David Peterson,1995-09-03,2020-07-28,Denver,CO,USA,78,240,1,Pitcher,TRUE
+665621,Rony Garcia,1997-12-19,2020-07-28,Mao,NA,Dominican Republic,75,200,1,Pitcher,TRUE
+668687,Andre Scrubb,1995-01-13,2020-07-28,Fort Bragg,NC,USA,76,270,1,Pitcher,TRUE
+670550,Nivaldo Rodriguez,1997-04-16,2020-07-28,Naguanagua,NA,Venezuela,73,214,1,Pitcher,TRUE
+608335,Kyle Funkhouser,1994-03-16,2020-07-27,Palos Heights,IL,USA,75,229,1,Pitcher,TRUE
+621593,Anthony Castro,1995-04-13,2020-07-27,Caracas,NA,Venezuela,74,182,1,Pitcher,TRUE
+622088,Tejay Antone,1993-12-05,2020-07-27,Oklahoma City,OK,USA,76,230,1,Pitcher,TRUE
+656232,Brandon Bielak,1996-04-02,2020-07-27,Edison,NJ,USA,74,208,1,Pitcher,TRUE
+663366,Beau Burrows,1996-09-18,2020-07-27,Fort Worth,TX,USA,74,210,1,Pitcher,FALSE
+663886,Tyler Stephenson,1996-08-16,2020-07-27,Atlanta,GA,USA,76,225,2,Catcher,TRUE
+605353,Vimael Machin,1993-09-25,2020-07-26,Humacao,NA,Puerto Rico,71,185,4,Second Base,TRUE
+622100,Taylor Jones,1993-12-06,2020-07-26,Kent,WA,USA,79,230,3,First Base,TRUE
+630105,Jake Cronenworth,1994-01-21,2020-07-26,St. Clair,MI,USA,72,187,4,Second Base,TRUE
+641672,Thomas Hatch,1994-09-29,2020-07-26,Tulsa,OK,USA,73,205,1,Pitcher,FALSE
+656548,Jordan Holloway,1996-06-13,2020-07-26,Arvada,CO,USA,78,230,1,Pitcher,TRUE
+657611,Cam Hill,1994-05-24,2020-07-26,Oklahoma City,OK,USA,73,200,1,Pitcher,FALSE
+664141,JT Brubaker,1993-11-17,2020-07-26,Springfield,OH,USA,75,180,1,Pitcher,TRUE
+669064,Brandon Bailey,1994-10-19,2020-07-26,Westminster,CO,USA,70,195,1,Pitcher,FALSE
+676831,Kodi Whitley,1995-02-21,2020-07-26,Clayton,NC,USA,75,220,1,Pitcher,TRUE
+685493,Shun Yamaguchi,1987-07-11,2020-07-26,Nakatsu,NA,Japan,74,225,1,Pitcher,FALSE
+640448,Kyle Finnegan,1991-09-04,2020-07-25,Detroit,MI,USA,74,200,1,Pitcher,TRUE
+642203,Taylor Widener,1994-10-24,2020-07-25,Aiken,SC,USA,72,203,1,Pitcher,TRUE
+658668,Edward Olivares,1996-03-06,2020-07-25,Caracas,NA,Venezuela,74,190,8,Outfielder,TRUE
+663734,Nick Neidert,1996-11-20,2020-07-25,Atlanta,GA,USA,73,202,1,Pitcher,TRUE
+663903,Brady Singer,1996-08-04,2020-07-25,Leesburg,FL,USA,77,215,1,Pitcher,TRUE
+664299,Cristian Javier,1997-03-26,2020-07-25,Santo Domingo,NA,Dominican Republic,73,213,1,Pitcher,TRUE
+664334,Aaron Whitefield,1996-09-02,2020-07-25,Brisbane,Queensland,Australia,76,210,8,Outfielder,FALSE
+669288,Daniel Johnson,1995-07-11,2020-07-25,Vallejo,CA,USA,70,200,9,Outfielder,TRUE
+669289,Santiago Espinal,1994-11-13,2020-07-25,Santiago,NA,Dominican Republic,70,181,5,Third Base,TRUE
+669424,Jimmy Lambert,1994-11-18,2020-07-25,Arcadia,CA,USA,74,190,1,Pitcher,TRUE
+670056,Caleb Baragar,1994-04-09,2020-07-25,Jenison,MI,USA,75,215,1,Pitcher,TRUE
+681911,Alex Vesia,1996-04-11,2020-07-25,Alpine,CA,USA,73,209,1,Pitcher,TRUE
+547942,Kwang Hyun Kim,1988-07-22,2020-07-24,Seoul,NA,South Korea,74,195,1,Pitcher,TRUE
+592530,Jose Marmolejos,1993-01-02,2020-07-24,Santo Domingo,NA,Dominican Republic,74,239,3,First Base,TRUE
+642130,Blake Taylor,1995-08-17,2020-07-24,Orange,CA,USA,75,220,1,Pitcher,TRUE
+656420,J.P. Feyereisen,1993-02-07,2020-07-24,River Falls,WI,USA,74,215,1,Pitcher,TRUE
+657044,Ryan Thompson,1992-06-26,2020-07-24,Turner,OR,USA,77,210,1,Pitcher,TRUE
+657108,Evan White,1996-04-26,2020-07-24,Columbus,OH,USA,75,220,3,First Base,TRUE
+660294,Yoshi Tsutsugo,1991-11-26,2020-07-24,Hashimoto,NA,Japan,73,225,7,Outfielder,TRUE
+660600,Enoli Paredes,1995-09-28,2020-07-24,El Limon,NA,Dominican Republic,71,171,1,Pitcher,TRUE
+660620,Jonathan Arauz,1998-08-03,2020-07-24,Alanje,NA,Panama,72,195,6,Shortstop,TRUE
+661388,William Contreras,1997-12-24,2020-07-24,Puerto Cabello,NA,Venezuela,72,180,2,Catcher,TRUE
+664948,Anthony Misiewicz,1994-11-01,2020-07-24,Detroit,MI,USA,73,200,1,Pitcher,TRUE
+665750,Leody Taveras,1998-09-08,2020-07-24,Tenares,NA,Dominican Republic,74,195,8,Outfielder,TRUE
+665759,Ramon Rosso,1996-06-09,2020-07-24,Santo Domingo Centro,NA,Dominican Republic,76,240,1,Pitcher,TRUE
+665926,Andres Gimenez,1998-09-04,2020-07-24,Barquisimeto,NA,Venezuela,71,161,6,Shortstop,TRUE
+670990,Yohan Ramirez,1995-05-06,2020-07-24,Villa Mella,NA,Dominican Republic,76,190,1,Pitcher,TRUE
+673357,Luis Robert,1997-08-03,2020-07-24,Guantanamo,NA,Cuba,74,220,8,Outfielder,TRUE
+673451,Shogo Akiyama,1988-04-16,2020-07-24,Yokosuka,NA,Japan,72,190,7,Outfielder,TRUE
+676051,Codi Heuer,1996-07-03,2020-07-24,Missoula,MT,USA,77,200,1,Pitcher,TRUE
+676604,Tyler Zuber,1995-06-16,2020-07-24,White Hall,AR,USA,71,195,1,Pitcher,TRUE
+663411,Joe McCarthy,1994-02-23,2020-07-23,Scranton,PA,USA,75,220,7,Outfielder,FALSE
+666204,Dany Jimenez,1993-12-23,2020-07-23,San Cristobal,NA,Dominican Republic,73,182,1,Pitcher,FALSE
+650633,Michael King,1995-05-25,2019-09-27,Rochester,NY,USA,75,210,1,Pitcher,TRUE
+620453,Deivy Grullon,1996-02-17,2019-09-22,Bonao,NA,Dominican Republic,71,240,2,Catcher,FALSE
+660896,Jorge Alcala,1995-07-28,2019-09-21,Bajos de Haina,NA,Dominican Republic,75,205,1,Pitcher,TRUE
+575070,Enderson Franco,1992-12-29,2019-09-18,Anaco,NA,Venezuela,74,180,1,Pitcher,FALSE
+668663,Tres Barrera,1994-09-15,2019-09-14,Eagle Pass,TX,USA,72,206,2,Catcher,TRUE
+675916,James Karinchak,1995-09-22,2019-09-14,Newburgh,NY,USA,75,215,1,Pitcher,TRUE
+605521,Art Warren,1993-03-23,2019-09-12,Defiance,OH,USA,75,230,1,Pitcher,TRUE
+643290,Justin Dunn,1995-09-22,2019-09-12,Freeport,NY,USA,74,185,1,Pitcher,TRUE
+643275,Johnny Davis,1990-04-26,2019-09-11,Compton,CA,USA,70,180,O,Outfield,FALSE
+666200,Jesus Luzardo,1997-09-30,2019-09-11,Lima,NA,Peru,72,218,1,Pitcher,TRUE
+622268,Donovan Walton,1994-05-25,2019-09-10,Dallas,TX,USA,70,175,4,Second Base,TRUE
+641786,Kyle Lewis,1995-07-13,2019-09-10,Snellville,GA,USA,76,205,8,Outfielder,TRUE
+663538,Nico Hoerner,1997-05-13,2019-09-09,Oakland,CA,USA,73,200,4,Second Base,TRUE
+543343,Danny Hultzen,1989-11-28,2019-09-08,Bethesda,MD,USA,75,210,1,Pitcher,FALSE
+621086,James Marvel,1993-09-17,2019-09-08,San Francisco,CA,USA,76,225,1,Pitcher,FALSE
+621438,Tyrone Taylor,1994-01-22,2019-09-07,Torrance,CA,USA,72,194,7,Outfielder,TRUE
+641743,Anthony Kay,1995-03-21,2019-09-07,Stony Brook,NY,USA,72,225,1,Pitcher,TRUE
+642121,Cole Sulser,1990-03-12,2019-09-06,Santa Ysabel,CA,USA,73,190,1,Pitcher,TRUE
+572383,Brian Moran,1988-09-30,2019-09-05,Port Chester,NY,USA,76,225,1,Pitcher,FALSE
+625510,Erick Mejia,1994-11-09,2019-09-05,Villa Mella,NA,Dominican Republic,71,155,4,Second Base,FALSE
+642100,Gabe Speier,1995-04-12,2019-09-05,Santa Barbara,CA,USA,71,175,1,Pitcher,FALSE
+642221,Kean Wong,1995-04-17,2019-09-05,Hilo,HI,USA,69,189,4,Second Base,TRUE
+623168,Tyler Heineman,1991-06-19,2019-09-04,Pacific Palisades,CA,USA,70,199,2,Catcher,FALSE
+623180,Seth Mejias-Brean,1991-04-05,2019-09-04,Tucson,AZ,USA,74,216,5,Third Base,FALSE
+641878,Ian Miller,1992-02-21,2019-09-04,Philadelphia,PA,USA,72,170,8,Outfielder,FALSE
+664041,Jaylin Davis,1994-07-01,2019-09-04,Greensboro,NC,USA,71,205,9,Outfielder,FALSE
+664059,Sam Haggerty,1994-05-26,2019-09-04,Phoenix,AZ,USA,71,175,7,Outfielder,TRUE
+643436,Ryan McBroom,1992-04-09,2019-09-03,Fredericksburg,VA,USA,75,220,3,First Base,TRUE
+643615,T.J. Zeuch,1995-08-01,2019-09-03,Mason,OH,USA,79,245,1,Pitcher,TRUE
+664901,Danny Mendick,1993-09-28,2019-09-03,Rochester,NY,USA,70,195,6,Shortstop,TRUE
+671790,Ronald Bolanos,1996-08-23,2019-09-03,Santa Cruz del Norte,NA,Cuba,74,230,1,Pitcher,TRUE
+650530,Bryan Garcia,1995-04-19,2019-09-02,Miami,FL,USA,73,205,1,Pitcher,TRUE
+666158,Gavin Lux,1997-11-23,2019-09-02,Kenosha,WI,USA,74,190,4,Second Base,TRUE
+660813,Brusdar Graterol,1998-08-26,2019-09-01,Calobozo,NA,Venezuela,73,265,1,Pitcher,TRUE
+670280,David Bednar,1994-10-10,2019-09-01,Pittsburgh,PA,USA,73,245,1,Pitcher,TRUE
+643511,Tyler Rogers,1990-12-17,2019-08-27,Littleton,CO,USA,75,181,1,Pitcher,TRUE
+656541,Sam Hilliard,1994-02-21,2019-08-27,Mansfield,TX,USA,77,236,8,Outfielder,TRUE
+670329,Rico Garcia,1994-01-10,2019-08-27,Honolulu,HI,USA,69,201,1,Pitcher,FALSE
+664913,Seth Brown,1992-07-13,2019-08-26,Klamath Falls,OR,USA,73,223,9,Outfielder,TRUE
+650489,Willi Castro,1997-04-24,2019-08-24,Rio Piedras,NA,Puerto Rico,73,206,4,Second Base,TRUE
+647351,Abraham Toro,1996-12-20,2019-08-22,Longueuil,QC,Canada,72,206,5,Third Base,TRUE
+606303,Joel Payamps,1994-04-07,2019-08-21,Santiago,NA,Dominican Republic,74,225,1,Pitcher,TRUE
+640462,A.J. Puk,1995-04-25,2019-08-21,Minneapolis,MN,USA,79,248,1,Pitcher,TRUE
+641584,Jake Fraley,1995-05-25,2019-08-21,Frederick,MD,USA,72,195,7,Outfielder,TRUE
+642233,Eric Yardley,1990-08-18,2019-08-21,Richland,WA,USA,72,170,1,Pitcher,TRUE
+642546,Jonathan Hernandez,1996-07-06,2019-08-21,Memphis,TN,USA,75,190,1,Pitcher,FALSE
+600887,Miguel Del Pozo,1992-10-14,2019-08-20,Santo Domingo,NA,Dominican Republic,73,205,1,Pitcher,FALSE
+656271,Brock Burke,1996-08-04,2019-08-20,Chicago,IL,USA,76,180,1,Pitcher,FALSE
+669256,Nick Solak,1995-01-11,2019-08-20,Woodridge,IL,USA,71,185,4,Second Base,TRUE
+607555,Taylor Guilbeau,1993-05-12,2019-08-17,Baton Rouge,LA,USA,76,190,1,Pitcher,FALSE
+640451,Hunter Harvey,1994-12-09,2019-08-17,Catawba,NC,USA,75,210,1,Pitcher,TRUE
+657277,Logan Webb,1996-11-18,2019-08-17,Rocklin,CA,USA,73,220,1,Pitcher,TRUE
+669270,Joel Kuhnel,1995-02-19,2019-08-16,Goldsboro,NC,USA,76,280,1,Pitcher,FALSE
+668227,Randy Arozarena,1995-02-28,2019-08-14,Havana,NA,Cuba,71,185,9,Outfielder,TRUE
+605469,Chandler Shepherd,1992-08-25,2019-08-13,Ashland,KY,USA,73,215,1,Pitcher,FALSE
+624513,Dom Nunez,1995-01-17,2019-08-13,Elk Grove,CA,USA,73,212,2,Catcher,TRUE
+650738,Adonis Rosa,1994-11-17,2019-08-13,Santiago,NA,Dominican Republic,73,170,1,Pitcher,FALSE
+621078,Brady Lail,1993-08-09,2019-08-12,South Jordan,UT,USA,74,200,1,Pitcher,TRUE
+668942,Josh Rojas,1994-06-30,2019-08-12,Litchfield Park,AZ,USA,73,207,9,Outfielder,TRUE
+658551,Junior Fernandez,1997-03-02,2019-08-11,Santo Domingo Centro,NA,Dominican Republic,75,215,1,Pitcher,TRUE
+670167,John Schreiber,1994-03-05,2019-08-09,Wyandotte,MI,USA,74,210,1,Pitcher,FALSE
+677976,Randy Dobnak,1995-01-17,2019-08-09,South Park,PA,USA,73,230,1,Pitcher,TRUE
+657434,Brian O'Grady,1992-05-17,2019-08-08,Philadelphia,PA,USA,74,215,9,Outfielder,TRUE
+642207,Devin Williams,1994-09-21,2019-08-07,St. Louis,MO,USA,74,200,1,Pitcher,TRUE
+664926,Nick Dini,1993-07-27,2019-08-07,Monroe,NJ,USA,68,180,2,Catcher,FALSE
+656371,Isan Diaz,1996-05-27,2019-08-05,Bayamon,NA,Puerto Rico,71,201,4,Second Base,TRUE
+656464,Kevin Ginkel,1994-03-24,2019-08-05,San Diego,CA,USA,76,235,1,Pitcher,TRUE
+663776,Patrick Sandoval,1996-10-18,2019-08-05,Mission Viejo,CA,USA,75,190,1,Pitcher,TRUE
+667498,Robert Dugger,1995-07-03,2019-08-05,Tucson,AZ,USA,72,198,1,Pitcher,TRUE
+660546,Yennsy Diaz,1996-11-15,2019-08-04,Azua,NA,Dominican Republic,73,210,1,Pitcher,TRUE
+661403,Emmanuel Clase,1998-03-18,2019-08-04,Rio San Juan,NA,Dominican Republic,74,206,1,Pitcher,TRUE
+664918,Kyle Keller,1993-04-28,2019-08-04,Metairie,LA,USA,76,205,1,Pitcher,TRUE
+595981,Scott Heineman,1992-12-04,2019-08-02,Pacific Palisades,CA,USA,73,220,9,Outfielder,TRUE
+596035,Reggie McClain,1992-11-16,2019-08-02,Duluth,GA,USA,74,180,1,Pitcher,FALSE
+641513,Travis Demeritte,1994-09-30,2019-08-02,New York,NY,USA,72,180,7,Outfielder,FALSE
+665093,Zac Grotz,1993-02-17,2019-08-02,San Mateo,CA,USA,74,195,1,Pitcher,FALSE
+669160,Dustin May,1997-09-06,2019-08-02,Justin,TX,USA,78,180,1,Pitcher,TRUE
+572125,Sam Selman,1990-11-14,2019-08-01,Austin,TX,USA,74,198,1,Pitcher,TRUE
+663757,Trent Grisham,1996-11-01,2019-08-01,Burleson,TX,USA,71,224,8,Outfielder,TRUE
+650556,Bryan Abreu,1997-04-22,2019-07-31,Santo Domingo Centro,NA,Dominican Republic,73,225,1,Pitcher,TRUE
+668670,Jake Rogers,1995-04-18,2019-07-30,Canyon,TX,USA,73,201,2,Catcher,TRUE
+622253,Dillon Tate,1994-05-01,2019-07-29,Harbor City,CA,USA,74,195,1,Pitcher,TRUE
+666182,Bo Bichette,1998-03-05,2019-07-29,Orlando,FL,USA,72,185,6,Shortstop,TRUE
+642578,Jose Rodriguez,1995-08-29,2019-07-27,Bolivar,NA,Venezuela,74,175,1,Pitcher,FALSE
+606956,Ryan Court,1988-05-28,2019-07-26,Elgin,IL,USA,74,210,6,Shortstop,FALSE
+668683,Jeremy Walker,1995-06-12,2019-07-26,Advance,NC,USA,77,205,1,Pitcher,FALSE
+622251,Josh Staumont,1993-12-21,2019-07-25,La Habra,CA,USA,75,200,1,Pitcher,TRUE
+621005,Tim Lopes,1994-06-24,2019-07-24,Los Angeles,CA,USA,71,180,4,Second Base,FALSE
+664054,Cody Stashak,1994-06-04,2019-07-23,Somers Point,NJ,USA,74,180,1,Pitcher,TRUE
+673258,Michel Baez,1996-01-21,2019-07-23,Havana,NA,Cuba,80,220,1,Pitcher,FALSE
+608339,Zach Green,1994-03-07,2019-07-21,Carmichael,CA,USA,75,210,3,First Base,FALSE
+669214,Conner Menez,1995-05-29,2019-07-21,Hollister,CA,USA,74,206,1,Pitcher,TRUE
+670970,Adrian Morejon,1999-02-27,2019-07-21,Havana,NA,Cuba,71,224,1,Pitcher,TRUE
+650813,Luis Escobar,1996-05-30,2019-07-13,Cartagena,NA,Colombia,73,205,1,Pitcher,FALSE
+605490,Bubba Starling,1992-08-03,2019-07-12,Gardner,KS,USA,76,215,8,Outfielder,FALSE
+662253,Andres Munoz,1999-01-16,2019-07-12,Los Mochis,Sinaloa,Mexico,74,165,1,Pitcher,FALSE
+664139,Ian Gibaut,1993-11-19,2019-07-12,Houston,TX,USA,75,250,1,Pitcher,FALSE
+623474,Jimmy Herget,1993-09-09,2019-07-07,Tampa,FL,USA,75,170,1,Pitcher,FALSE
+643289,Mauricio Dubon,1994-07-19,2019-07-07,San Pedro Sula,NA,Honduras,72,173,6,Shortstop,TRUE
+622797,Pedro Payano,1994-09-27,2019-07-06,New York,NY,USA,74,170,1,Pitcher,FALSE
+596825,Robel Garcia,1993-03-28,2019-07-03,Las Matas de Farfan,NA,Dominican Republic,72,195,4,Second Base,TRUE
+641302,Tyler Alexander,1994-07-14,2019-07-03,Chicago,IL,USA,74,203,1,Pitcher,TRUE
+642136,Matt Thaiss,1995-05-06,2019-07-03,Jackson,NJ,USA,72,215,3,First Base,FALSE
+656302,Dylan Cease,1995-12-28,2019-07-03,Milton,GA,USA,74,195,1,Pitcher,TRUE
+664353,Jose Urquidy,1995-05-01,2019-07-02,Mazatlan,Sinaloa,Mexico,72,217,1,Pitcher,TRUE
+665001,Trevor Kelley,1993-10-20,2019-07-02,Providence,RI,USA,74,210,1,Pitcher,FALSE
+664045,Thomas Eshelman,1994-06-20,2019-07-01,Carlsbad,CA,USA,75,210,1,Pitcher,FALSE
+626929,Lewis Thorpe,1995-11-23,2019-06-30,Melbourne,Victoria,Australia,73,218,1,Pitcher,TRUE
+607391,Chris Mazza,1989-10-17,2019-06-29,Walnut Creek,CA,USA,76,190,1,Pitcher,TRUE
+656713,Brendan McKay,1995-12-18,2019-06-29,Darlington,PA,USA,74,212,1,Pitcher,FALSE
+644374,Yu Chang,1995-08-18,2019-06-28,Taitung,NA,Taiwan,73,180,3,First Base,TRUE
+664774,LaMonte Wade Jr,1994-01-01,2019-06-28,Baltimore,MD,USA,73,205,7,Outfielder,TRUE
+605482,Cy Sneed,1992-10-01,2019-06-27,Elko,NV,USA,76,213,1,Pitcher,FALSE
+621458,Edwin Rios,1994-04-21,2019-06-27,Caguas,NA,Puerto Rico,75,220,3,First Base,TRUE
+622065,Alex Young,1993-09-09,2019-06-27,Westlake,OH,USA,75,220,1,Pitcher,TRUE
+664062,Tony Gonsolin,1994-05-14,2019-06-26,Vacaville,CA,USA,75,205,1,Pitcher,TRUE
+657766,Locke St. John,1993-01-31,2019-06-25,Pell City,AL,USA,75,180,1,Pitcher,FALSE
+656252,Bobby Bradley,1996-05-29,2019-06-23,Chicago,IL,USA,73,225,3,First Base,TRUE
+670712,Mike Brosseau,1994-03-15,2019-06-23,Munster,IN,USA,70,205,4,Second Base,TRUE
+642736,Domingo Leyba,1995-09-11,2019-06-22,Santo Domingo,NA,Dominican Republic,71,205,4,Second Base,TRUE
+650644,Aaron Civale,1995-06-12,2019-06-22,East Windsor,CT,USA,74,215,1,Pitcher,TRUE
+600858,Humberto Arteaga,1994-01-23,2019-06-20,Caracas,NA,Venezuela,73,160,5,Third Base,FALSE
+622250,Josh Sborz,1993-12-17,2019-06-20,Washington,DC,USA,75,215,1,Pitcher,TRUE
+640470,Adbert Alzolay,1995-03-01,2019-06-20,San Felix,NA,Venezuela,73,208,1,Pitcher,TRUE
+668678,Zac Gallen,1995-08-03,2019-06-20,Somerdale,NJ,USA,74,189,1,Pitcher,TRUE
+641470,Zack Collins,1995-02-06,2019-06-19,Pembroke Pines,FL,USA,75,220,2,Catcher,TRUE
+664092,Sean Poppen,1994-03-15,2019-06-19,Virginia Beach,VA,USA,75,210,1,Pitcher,TRUE
+668665,Stephen Nogosek,1995-01-11,2019-06-19,Roseville,CA,USA,74,205,1,Pitcher,FALSE
+663531,Logan Allen,1997-05-23,2019-06-18,West Palm Beach,FL,USA,75,220,1,Pitcher,TRUE
+592660,Rangel Ravelo,1992-04-24,2019-06-17,Havana,NA,Cuba,73,235,3,First Base,FALSE
+543592,Austin Nola,1989-12-28,2019-06-16,Baton Rouge,LA,USA,72,197,2,Catcher,TRUE
+660623,Huascar Ynoa,1998-05-28,2019-06-16,Puerto Plata,NA,Dominican Republic,74,220,1,Pitcher,TRUE
+642607,Dario Agrazal,1994-12-28,2019-06-15,Aguadulce,NA,Panama,74,225,1,Pitcher,FALSE
+660494,Rogelio Armenteros,1994-06-30,2019-06-14,La Habana,NA,Cuba,73,215,1,Pitcher,FALSE
+605447,Jordan Romano,1993-04-21,2019-06-12,Markham,ON,Canada,77,225,1,Pitcher,TRUE
+657141,Jordan Yamamoto,1996-05-11,2019-06-12,Pearl City,HI,USA,72,185,1,Pitcher,TRUE
+670426,Phillip Diehl,1994-07-16,2019-06-11,Cincinnati,OH,USA,74,169,1,Pitcher,FALSE
+664126,Pete Fairbanks,1993-12-16,2019-06-09,St. Louis,MO,USA,78,225,1,Pitcher,TRUE
+670541,Yordan Alvarez,1997-06-27,2019-06-09,Las Tunas,NA,Cuba,77,225,10,Designated Hitter,TRUE
+570488,Phillips Valdez,1991-11-16,2019-06-08,San Pedro de Macoris,NA,Dominican Republic,74,160,1,Pitcher,TRUE
+592280,Ryan Eades,1991-12-15,2019-06-08,Slidell,LA,USA,74,210,1,Pitcher,FALSE
+605463,Tayler Scott,1992-06-01,2019-06-08,Johannesburg,NA,South Africa,75,185,1,Pitcher,FALSE
+621363,Colin Poche,1994-01-17,2019-06-08,Flower Mound,TX,USA,75,235,1,Pitcher,FALSE
+643478,Joe Palumbo,1994-10-26,2019-06-08,Stony Brook,NY,USA,72,195,1,Pitcher,FALSE
+669242,Tommy Edman,1995-05-09,2019-06-08,San Diego,CA,USA,70,180,4,Second Base,TRUE
+642067,Mike Shawaryn,1994-09-17,2019-06-07,Carneys Point,NJ,USA,74,200,1,Pitcher,FALSE
+663567,Peter Lambert,1997-04-18,2019-06-06,San Dimas,CA,USA,74,185,1,Pitcher,FALSE
+656514,Adam Haseley,1996-04-12,2019-06-04,Orlando,FL,USA,73,190,8,Outfielder,TRUE
+660761,Jose Suarez,1998-01-03,2019-06-02,Naguanagua,NA,Venezuela,70,225,1,Pitcher,TRUE
+668800,Andrew Knizner,1995-02-03,2019-06-02,Glen Allen,VA,USA,73,225,2,Catcher,TRUE
+622786,Jesus Tinoco,1995-04-30,2019-05-31,San Antonio de Maturin,NA,Venezuela,76,258,1,Pitcher,FALSE
+650893,Genesis Cabrera,1996-10-10,2019-05-29,Santo Domingo,NA,Dominican Republic,74,180,1,Pitcher,TRUE
+657031,Josh Taylor,1993-03-02,2019-05-29,Phoenix,AZ,USA,77,245,1,Pitcher,TRUE
+596117,Garrett Stubbs,1993-05-26,2019-05-28,San Diego,CA,USA,70,170,2,Catcher,TRUE
+656970,Devin Smeltzer,1995-09-07,2019-05-28,Voorhees,NJ,USA,75,195,1,Pitcher,TRUE
+668676,Zach Plesac,1995-01-21,2019-05-28,Crown Point,IN,USA,75,220,1,Pitcher,TRUE
+669257,Will Smith,1995-03-28,2019-05-28,Louisville,KY,USA,70,195,2,Catcher,TRUE
+608686,Jack Mayfield,1990-09-30,2019-05-27,Del Rio,TX,USA,71,190,4,Second Base,TRUE
+621097,Jacob Waguespack,1993-11-05,2019-05-27,Prairieville,LA,USA,78,235,1,Pitcher,FALSE
+656605,Mitch Keller,1996-04-04,2019-05-27,Cedar Rapids,IA,USA,74,220,1,Pitcher,TRUE
+630263,James Bourque,1993-07-09,2019-05-26,Ann Arbor,MI,USA,76,215,1,Pitcher,FALSE
+656322,Sam Coonrod,1992-09-22,2019-05-26,St. Louis,MO,USA,73,225,1,Pitcher,TRUE
+670456,JD Hammer,1994-07-12,2019-05-26,Fort Collins,CO,USA,75,215,1,Pitcher,FALSE
+573262,Mike Yastrzemski,1990-08-23,2019-05-25,Andover,MA,USA,70,178,9,Outfielder,TRUE
+605479,Josh D. Smith,1989-10-11,2019-05-25,Kansas City,MO,USA,75,200,1,Pitcher,FALSE
+664874,Seby Zavala,1993-08-28,2019-05-25,Fort Hood,TX,USA,71,215,2,Catcher,FALSE
+605196,Kevin Cron,1993-02-17,2019-05-24,Placentia,CA,USA,77,255,3,First Base,FALSE
+624415,Cavan Biggio,1995-04-11,2019-05-24,Houston,TX,USA,74,200,5,Third Base,TRUE
+647304,Josh Naylor,1997-06-22,2019-05-24,Mississauga,ON,Canada,71,250,9,Outfielder,TRUE
+641853,David McKay,1995-03-31,2019-05-19,Melbourne,FL,USA,75,205,1,Pitcher,FALSE
+641914,Sheldon Neuse,1994-12-10,2019-05-19,Fort Worth,TX,USA,72,232,4,Second Base,TRUE
+664247,Kyle Garlick,1992-01-26,2019-05-19,La Habra,CA,USA,73,210,7,Outfielder,TRUE
+669221,Sean Murphy,1994-10-04,2019-05-19,Peekskill,NY,USA,75,228,2,Catcher,TRUE
+650333,Luis Arraez,1997-04-09,2019-05-18,San Felipe,NA,Venezuela,70,175,4,Second Base,TRUE
+664129,Geoff Hartlieb,1993-12-09,2019-05-18,Highland,IL,USA,77,240,1,Pitcher,TRUE
+663898,Brendan Rodgers,1996-08-09,2019-05-17,Winter Park,FL,USA,72,204,4,Second Base,TRUE
+641312,Shaun Anderson,1994-10-29,2019-05-15,Coral Springs,FL,USA,76,228,1,Pitcher,TRUE
+663586,Austin Riley,1997-04-02,2019-05-15,Memphis,TN,USA,75,240,5,Third Base,TRUE
+665120,Jared Walsh,1993-07-30,2019-05-15,Brookfield,WI,USA,72,210,3,First Base,TRUE
+640458,Oscar Mercado,1994-12-16,2019-05-14,Cartagena,NA,Colombia,74,197,9,Outfielder,FALSE
+669374,Keston Hiura,1996-08-02,2019-05-14,Valencia,CA,USA,72,202,3,First Base,TRUE
+670032,Nicky Lopez,1995-03-13,2019-05-14,Naperville,IL,USA,71,180,6,Shortstop,TRUE
+571917,Parker Markel,1990-09-15,2019-05-12,Newport Beach,CA,USA,77,240,1,Pitcher,FALSE
+608344,Cole Irvin,1994-01-31,2019-05-12,Anaheim,CA,USA,76,217,1,Pitcher,TRUE
+621532,Anthony Bemboom,1990-01-18,2019-05-12,St. Cloud,MN,USA,74,200,2,Catcher,TRUE
+656686,Corbin Martin,1995-12-28,2019-05-12,Hempstead,TX,USA,74,225,1,Pitcher,TRUE
+598286,Nick Ramirez,1989-08-01,2019-05-11,Anaheim Hills,CA,USA,76,232,1,Pitcher,TRUE
+623912,Harold Ramirez,1994-09-06,2019-05-11,Cartagena,NA,Colombia,70,232,8,Outfielder,TRUE
+642397,Gregory Soto,1995-02-11,2019-05-11,Haina,NA,Dominican Republic,73,234,1,Pitcher,TRUE
+643418,Shed Long Jr.,1995-08-22,2019-05-11,Birmingham,AL,USA,68,184,4,Second Base,FALSE
+664119,Austin Allen,1994-01-16,2019-05-11,St. Louis,MO,USA,74,219,2,Catcher,TRUE
+657566,Montana DuRapau,1992-03-27,2019-05-09,Deltona,FL,USA,70,190,1,Pitcher,FALSE
+621592,Eduardo Jimenez,1995-04-04,2019-05-07,Cumana,NA,Venezuela,74,225,1,Pitcher,FALSE
+658305,Edgar Garcia,1996-10-04,2019-05-06,Palenque,NA,Dominican Republic,73,205,1,Pitcher,FALSE
+642165,Josh VanMeter,1995-03-10,2019-05-05,Ossian,IN,USA,71,194,4,Second Base,TRUE
+621450,Skye Bolt,1994-01-15,2019-05-03,Atlanta,GA,USA,74,180,8,Outfielder,TRUE
+669222,Nick Senzel,1995-06-29,2019-05-03,Atlanta,GA,USA,73,205,8,Outfielder,TRUE
+615698,Cal Quantrill,1995-02-10,2019-05-01,Port Hope,ON,Canada,75,195,1,Pitcher,TRUE
+607461,Matt Beaty,1993-04-28,2019-04-30,Snellville,GA,USA,72,215,7,Outfielder,TRUE
+656288,Griffin Canning,1996-05-11,2019-04-30,Mission Viejo,CA,USA,74,180,1,Pitcher,TRUE
+663993,Nate Lowe,1995-07-07,2019-04-29,Norfolk,VA,USA,76,220,3,First Base,TRUE
+642721,Kelvin Gutierrez,1994-08-28,2019-04-27,San Francisco De Macoris,NA,Dominican Republic,74,215,5,Third Base,TRUE
+664034,Ty France,1994-07-13,2019-04-26,Downey,CA,USA,71,217,4,Second Base,TRUE
+665489,Vladimir Guerrero Jr.,1999-03-16,2019-04-26,Montreal,QC,Canada,74,250,3,First Base,TRUE
+666198,Carter Kieboom,1997-09-03,2019-04-26,Marietta,GA,USA,74,215,5,Third Base,TRUE
+543677,Matt Ramsey,1989-09-24,2019-04-25,Oak Ridge,TN,USA,71,210,1,Pitcher,FALSE
+621368,Taylor Hearn,1994-08-30,2019-04-25,Royse City,TX,USA,78,230,1,Pitcher,TRUE
+650859,Luis Rengifo,1997-02-26,2019-04-25,Naguanagua,NA,Venezuela,70,195,4,Second Base,TRUE
+650671,Jose Quijada,1995-11-09,2019-04-24,Caripito,NA,Venezuela,71,215,1,Pitcher,TRUE
+650382,Darwinzon Hernandez,1996-12-17,2019-04-23,Ciudad Bolivar,NA,Venezuela,74,255,1,Pitcher,TRUE
+658791,Wei-Chieh Huang,1993-09-26,2019-04-23,Taitung,NA,Taiwan,73,170,1,Pitcher,FALSE
+664042,Travis Lakins Sr.,1994-06-29,2019-04-23,Middletown,OH,USA,73,220,1,Pitcher,TRUE
+642731,Thairo Estrada,1996-02-22,2019-04-21,Bejuma,NA,Venezuela,70,185,4,Second Base,TRUE
+571858,Branden Kline,1991-09-29,2019-04-20,Frederick,MD,USA,75,210,1,Pitcher,FALSE
+656308,Michael Chavis,1995-08-11,2019-04-20,Atlanta,GA,USA,70,210,4,Second Base,TRUE
+657061,Cole Tucker,1996-07-03,2019-04-20,Phoenix,AZ,USA,75,205,6,Shortstop,TRUE
+664199,Taylor Clarke,1993-05-13,2019-04-20,Ashburn,VA,USA,76,217,1,Pitcher,TRUE
+668804,Bryan Reynolds,1995-01-27,2019-04-20,Baltimore,MD,USA,75,210,8,Outfielder,TRUE
+656685,Brett Martin,1995-04-28,2019-04-19,Morristown,TN,USA,76,200,1,Pitcher,TRUE
+645801,Mike Ford,1992-07-04,2019-04-18,Belle Mead,NJ,USA,72,225,3,First Base,TRUE
+657041,Lane Thomas,1995-08-23,2019-04-17,Knoxville,TN,USA,72,185,8,Outfielder,TRUE
+657097,Jacob Webb,1993-08-15,2019-04-16,Riverside,CA,USA,74,210,1,Pitcher,TRUE
+664854,Ryan Helsley,1994-07-18,2019-04-16,Tahlequah,OK,USA,74,230,1,Pitcher,TRUE
+595798,R.J. Alaniz,1991-06-14,2019-04-12,McAllen,TX,USA,76,220,1,Pitcher,FALSE
+622103,Gerardo Reyes,1993-05-13,2019-04-12,Ciudad Victoria,Tamaulipas,Mexico,71,160,1,Pitcher,FALSE
+657024,Erik Swanson,1993-09-04,2019-04-11,Fargo,ND,USA,75,220,1,Pitcher,TRUE
+658648,Pedro Avila,1997-01-14,2019-04-11,Caracas,NA,Venezuela,71,190,1,Pitcher,FALSE
+642840,Joe Harvey,1992-01-09,2019-04-10,Audobon,PA,USA,74,236,1,Pitcher,FALSE
+602074,Yonathan Daza,1994-02-28,2019-04-09,Maracay,NA,Venezuela,74,207,8,Outfielder,TRUE
+663992,Richard Lovelady,1995-07-07,2019-04-09,Hinesville,GA,USA,72,185,1,Pitcher,TRUE
+656577,Alex Jackson,1995-12-25,2019-04-07,San Diego,CA,USA,74,215,2,Catcher,TRUE
+641829,Jason Martin,1995-09-05,2019-04-06,Corona,CA,USA,69,185,7,Outfielder,TRUE
+658069,Joshua Fuentes,1993-02-19,2019-04-06,Rancho Santo Margarita,CA,USA,74,209,5,Third Base,TRUE
+642226,Matt Wotherspoon,1991-10-06,2019-04-03,Mountain Top,PA,USA,74,215,1,Pitcher,FALSE
+518876,Merrill Kelly,1988-10-14,2019-04-01,Houston,TX,USA,74,202,1,Pitcher,TRUE
+641541,Jon Duplantier,1994-07-11,2019-04-01,Newark,DE,USA,76,229,1,Pitcher,TRUE
+595939,Chris Ellis,1992-09-22,2019-03-31,Birmingham,AL,USA,77,205,1,Pitcher,FALSE
+607560,Ryne Harper,1989-03-27,2019-03-31,Nashville,TN,USA,75,217,1,Pitcher,TRUE
+622092,Kyle Zimmer,1991-09-13,2019-03-31,San Francisco,CA,USA,75,225,1,Pitcher,TRUE
+663423,Trent Thornton,1993-09-30,2019-03-31,Charlotte,NC,USA,72,195,1,Pitcher,TRUE
+663978,Chris Paddack,1996-01-08,2019-03-31,Austin,TX,USA,77,217,1,Pitcher,TRUE
+672773,Elvis Luciano,2000-02-15,2019-03-31,Boca Chica,NA,Dominican Republic,75,200,1,Pitcher,FALSE
+669738,Jake Noll,1994-03-08,2019-03-30,Punta Gorda,FL,USA,74,215,5,Third Base,FALSE
+676606,Nick Margevicius,1996-06-18,2019-03-30,Cleveland,OH,USA,77,220,1,Pitcher,TRUE
+657585,Reed Garrett,1993-01-02,2019-03-29,Henrico,VA,USA,74,210,1,Pitcher,FALSE
+664157,Travis Bergen,1993-10-08,2019-03-29,McDonough,GA,USA,73,223,1,Pitcher,TRUE
+608715,Eric Stamets,1991-09-25,2019-03-28,Dublin,OH,USA,72,190,6,Shortstop,FALSE
+613317,Kyle Bird,1993-04-12,2019-03-28,Orange Park,FL,USA,74,175,1,Pitcher,FALSE
+621006,Richie Martin,1994-12-22,2019-03-28,Detroit,MI,USA,71,190,6,Shortstop,FALSE
+623433,Nick Anderson,1990-07-05,2019-03-28,Crosby,MN,USA,76,205,1,Pitcher,FALSE
+623515,Drew Jackson,1993-07-28,2019-03-28,Berkeley,CA,USA,74,200,6,Shortstop,FALSE
+624413,Pete Alonso,1994-12-07,2019-03-28,Tampa,FL,USA,75,245,3,First Base,TRUE
+643524,Frank Schwindel,1992-06-29,2019-03-28,Livingston,NJ,USA,73,215,3,First Base,FALSE
+650391,Eloy Jimenez,1996-11-27,2019-03-28,Santo Domingo Centro,NA,Dominican Republic,76,235,7,Outfielder,FALSE
+656582,Connor Joe,1992-08-16,2019-03-28,San Diego,CA,USA,72,205,3,First Base,TRUE
+664871,Kyle Dowdy,1993-02-03,2019-03-28,Escondido,CA,USA,73,195,1,Pitcher,FALSE
+665487,Fernando Tatis Jr.,1999-01-02,2019-03-28,San Pedro De Macoris,NA,Dominican Republic,75,217,6,Shortstop,TRUE
+579328,Yusei Kikuchi,1991-06-17,2019-03-21,Morioka,NA,Japan,72,200,1,Pitcher,TRUE
+592165,Brandon Brennan,1991-07-26,2019-03-21,Mission Viejo,CA,USA,76,207,1,Pitcher,FALSE
+623323,Braden Bishop,1993-08-22,2019-03-21,Woodland,CA,USA,73,178,8,Outfielder,TRUE
+664238,Dylan Moore,1992-08-02,2019-03-20,Yorba Linda,CA,USA,72,185,4,Second Base,TRUE
+542932,Jon Berti,1990-01-22,2018-09-26,Troy,MI,USA,70,190,5,Third Base,TRUE
+607644,John Means,1993-04-24,2018-09-26,Olathe,KS,USA,75,235,1,Pitcher,TRUE
+605612,Harold Castro,1993-11-30,2018-09-23,Caracas,NA,Venezuela,70,195,4,Second Base,TRUE
+624641,Edmundo Sosa,1996-03-06,2018-09-23,Panama City,NA,Panama,72,210,6,Shortstop,TRUE
+582473,Sherman Johnson,1990-07-15,2018-09-19,Tampa,FL,USA,70,190,4,Second Base,FALSE
+656954,Justus Sheffield,1996-05-13,2018-09-19,Tullahoma,TN,USA,70,195,1,Pitcher,TRUE
+664180,Matt Hall,1993-07-23,2018-09-15,Independence,MO,USA,72,200,1,Pitcher,FALSE
+664702,Myles Straw,1994-10-17,2018-09-15,Garden Grove,CA,USA,70,178,8,Outfielder,TRUE
+605513,Spencer Turnbull,1992-09-18,2018-09-14,Demopolis,AL,USA,75,210,1,Pitcher,TRUE
+623364,Brad Wieck,1991-10-14,2018-09-14,Amarillo,TX,USA,80,257,1,Pitcher,TRUE
+621466,DJ Stewart,1993-11-30,2018-09-12,Gainesville,FL,USA,72,210,9,Outfielder,TRUE
+595897,Nick Burdi,1993-01-19,2018-09-11,Hinsdale,IL,USA,75,225,1,Pitcher,FALSE
+597113,DJ Johnson,1989-08-30,2018-09-09,Beaverton,OR,USA,76,230,1,Pitcher,FALSE
+621514,Christin Stewart,1993-12-10,2018-09-09,Atlanta,GA,USA,72,220,7,Outfielder,FALSE
+661255,Yoan Lopez,1993-01-02,2018-09-09,Nueva Gerona,NA,Cuba,75,208,1,Pitcher,TRUE
+621529,Joe Hudson,1991-05-21,2018-09-08,Tampa,FL,USA,72,210,2,Catcher,FALSE
+623214,Abiatal Avelino,1995-02-14,2018-09-08,San Pedro De Macoris,NA,Dominican Republic,71,195,6,Shortstop,FALSE
+656814,Luis Ortiz,1995-09-22,2018-09-07,Sanger,CA,USA,75,230,1,Pitcher,FALSE
+624512,Reese McGuire,1995-03-02,2018-09-06,Seattle,WA,USA,72,215,2,Catcher,TRUE
+596012,Kevin Kramer,1993-10-03,2018-09-05,Turlock,CA,USA,72,195,O,Outfield,FALSE
+641505,Jonathan Davis,1992-05-12,2018-09-05,Camden,AR,USA,68,190,8,Outfielder,TRUE
+641851,Kyle McGowin,1991-11-27,2018-09-05,Southampton,NY,USA,75,202,1,Pitcher,TRUE
+641962,CD Pelham,1995-02-21,2018-09-05,Lancaster,SC,USA,78,235,1,Pitcher,FALSE
+642133,Rowdy Tellez,1995-03-16,2018-09-05,Sacramento,CA,USA,76,255,3,First Base,TRUE
+657209,Dean Deetz,1993-11-29,2018-09-05,Nixa,MO,USA,73,195,1,Pitcher,FALSE
+602115,Gabriel Guerrero,1993-12-11,2018-09-04,Nizao,NA,Dominican Republic,75,215,9,Outfielder,FALSE
+621098,Eric Hanhold,1993-11-01,2018-09-04,Bartlett,TN,USA,77,220,1,Pitcher,FALSE
+657140,Kyle Wright,1995-10-02,2018-09-04,Huntsville,AL,USA,76,215,1,Pitcher,TRUE
+624419,Nick Ciuffo,1995-03-07,2018-09-03,Mount Pleasant,SC,USA,72,200,2,Catcher,FALSE
+641477,Ryan Cordell,1992-03-31,2018-09-03,Sacramento,CA,USA,76,200,9,Outfielder,FALSE
+664167,Blake Trahan,1993-09-05,2018-09-03,Lake Charles,LA,USA,69,180,6,Shortstop,FALSE
+605501,Stephen Tarpley,1993-02-17,2018-09-02,Los Angeles,CA,USA,72,202,1,Pitcher,TRUE
+606992,Eric Haase,1992-12-18,2018-09-02,Detroit,MI,USA,70,210,2,Catcher,TRUE
+621350,Caleb Frare,1993-07-08,2018-09-02,Miles City,MT,USA,73,210,1,Pitcher,FALSE
+622569,Pablo Reyes,1993-09-05,2018-09-02,Santo Domingo,NA,Dominican Republic,68,175,5,Third Base,TRUE
+623205,Andrew Velazquez,1994-07-14,2018-09-02,Bronx,NY,USA,69,170,5,Third Base,FALSE
+650619,Meibrys Viloria,1997-02-15,2018-09-02,Cartagena,NA,Colombia,71,225,2,Catcher,FALSE
+656257,Jeff Brigham,1992-02-16,2018-09-02,Federal Way,WA,USA,72,195,1,Pitcher,FALSE
+657117,Austen Williams,1992-12-19,2018-09-02,Ft Worth,TX,USA,75,220,1,Pitcher,FALSE
+592712,Connor Sadzeck,1991-10-01,2018-09-01,Crystal Lake,IL,USA,79,240,1,Pitcher,FALSE
+605260,Taylor Guerrieri,1992-12-01,2018-09-01,Augusta,GA,USA,74,210,1,Pitcher,FALSE
+607333,Beau Taylor,1990-02-13,2018-09-01,Rockledge,FL,USA,71,205,2,Catcher,FALSE
+607755,Andrew Vasquez,1993-09-14,2018-09-01,Rancho Cucamonga,CA,USA,78,228,1,Pitcher,FALSE
+622774,Jose Manuel Fernandez,1993-02-13,2018-09-01,Mao,NA,Dominican Republic,75,215,1,Pitcher,FALSE
+657624,Josh James,1993-03-08,2018-09-01,Hollywood,FL,USA,75,234,1,Pitcher,FALSE
+592858,Rowan Wick,1992-11-09,2018-08-31,North Vancouver,BC,Canada,75,234,1,Pitcher,FALSE
+605244,Aramis Garcia,1993-01-12,2018-08-31,Hialeah,FL,USA,73,228,2,Catcher,TRUE
+622046,Chris Shaw,1993-10-20,2018-08-31,Stoneham,MA,USA,75,226,7,Outfielder,FALSE
+641656,Ian Hamilton,1995-06-16,2018-08-31,Dover,NH,USA,73,200,1,Pitcher,FALSE
+608475,Dawel Lugo,1994-12-31,2018-08-30,Bani,NA,Dominican Republic,72,190,5,Third Base,FALSE
+642028,Josh Rogers,1994-07-10,2018-08-28,New Albany,IN,USA,75,220,1,Pitcher,FALSE
+649966,Luis Urias,1997-06-03,2018-08-28,Magdalena de Kino,Sonora,Mexico,69,186,6,Shortstop,TRUE
+573166,Murphy Smith,1987-08-25,2018-08-27,Nashua,NH,USA,75,210,1,Pitcher,FALSE
+621114,Ryan Burr,1994-05-28,2018-08-23,Highlands Ranch,CO,USA,76,220,1,Pitcher,TRUE
+656629,Michael Kopech,1996-04-30,2018-08-21,Longview,TX,USA,75,210,1,Pitcher,TRUE
+664285,Framber Valdez,1993-11-19,2018-08-21,Palenque,NA,Dominican Republic,71,239,1,Pitcher,TRUE
+623470,Jake Newberry,1994-11-20,2018-08-20,San Diego,CA,USA,74,200,1,Pitcher,TRUE
+624427,Stephen Gonsalves,1994-07-08,2018-08-20,San Diego,CA,USA,77,220,1,Pitcher,FALSE
+669060,Bryse Wilson,1997-12-20,2018-08-20,Durham,NC,USA,74,225,1,Pitcher,TRUE
+596101,Justin Shafer,1992-09-18,2018-08-19,Lake Wales,FL,USA,74,205,1,Pitcher,FALSE
+606157,Aristides Aquino,1994-04-22,2018-08-19,Santo Domingo,NA,Dominican Republic,76,220,9,Outfielder,TRUE
+623354,Daniel Zamora,1993-04-15,2018-08-17,Loma Linda,CA,USA,75,195,1,Pitcher,TRUE
+591672,Osmer Morales,1992-10-30,2018-08-16,Villa de Cura,NA,Venezuela,75,196,1,Pitcher,FALSE
+621028,Kevin Newman,1993-08-04,2018-08-16,Poway,CA,USA,72,185,6,Shortstop,TRUE
+621142,Ty Buttrey,1993-03-31,2018-08-16,Matthews,NC,USA,78,240,1,Pitcher,FALSE
+621573,Austin Dean,1993-10-14,2018-08-15,Spring,TX,USA,72,215,7,Outfielder,TRUE
+621493,Taylor Ward,1993-12-14,2018-08-14,Dayton,OH,USA,73,200,9,Outfielder,TRUE
+643376,Danny Jansen,1995-04-15,2018-08-13,Elmhurst,IL,USA,74,225,2,Catcher,TRUE
+656887,Sean Reid-Foley,1995-08-30,2018-08-13,Agana Heights,GU,USA,75,230,1,Pitcher,TRUE
+657053,Touki Toussaint,1996-06-20,2018-08-13,Pembroke Pines,FL,USA,75,215,1,Pitcher,FALSE
+621550,Patrick Wisdom,1991-08-27,2018-08-12,Murrieta,CA,USA,74,220,5,Third Base,TRUE
+640464,Kohl Stewart,1994-10-07,2018-08-12,Houston,TX,USA,75,200,1,Pitcher,TRUE
+623381,Thomas Pannone,1994-04-28,2018-08-10,Cranston,RI,USA,72,200,1,Pitcher,FALSE
+656775,Cedric Mullins,1994-10-01,2018-08-10,Greensboro,NC,USA,68,175,8,Outfielder,TRUE
+656798,Jacob Nix,1996-01-09,2018-08-10,Los Alamitos,CA,USA,76,220,1,Pitcher,FALSE
+656977,Chad Sobotka,1993-07-10,2018-08-10,Sarasota,FL,USA,79,225,1,Pitcher,FALSE
+607030,Adam McCreery,1992-12-31,2018-08-09,La Verne,CA,USA,81,250,1,Pitcher,FALSE
+641149,Wes Parsons,1992-09-06,2018-08-09,Clarksville,TN,USA,77,204,1,Pitcher,FALSE
+664028,Brett Kennedy,1994-08-04,2018-08-08,Pomona,NJ,USA,72,200,1,Pitcher,FALSE
+666969,Adolis Garcia,1993-03-02,2018-08-08,Ciego de Avila,NA,Cuba,73,205,8,Outfielder,TRUE
+605301,Williams Jerez,1992-05-16,2018-08-07,Santiago,NA,Dominican Republic,76,205,1,Pitcher,FALSE
+622259,Trey Wingenter,1994-04-15,2018-08-07,Huntsville,AL,USA,79,200,1,Pitcher,FALSE
+664040,Brandon Lowe,1994-07-06,2018-08-05,Newport News,VA,USA,70,185,4,Second Base,TRUE
+660875,Jesus Reyes,1993-02-21,2018-08-04,Santo Domingo,NA,Dominican Republic,74,180,1,Pitcher,FALSE
+664856,Chance Adams,1994-08-10,2018-08-04,Scottsdale,AZ,USA,73,215,1,Pitcher,FALSE
+657656,Ramon Laureano,1994-07-15,2018-08-03,Santo Domingo,NA,Dominican Republic,71,203,8,Outfielder,TRUE
+622772,Jimmy Cordero,1991-10-19,2018-08-02,San Cristobal,NA,Dominican Republic,76,235,1,Pitcher,FALSE
+606944,Cody Carroll,1992-10-15,2018-08-01,Mt. Juliet,TN,USA,77,215,1,Pitcher,FALSE
+656725,Alex McRae,1993-04-06,2018-08-01,West Allis,WI,USA,74,220,1,Pitcher,TRUE
+543194,Isaac Galloway,1989-10-10,2018-07-31,Pomona Valley,CA,USA,74,205,9,Outfielder,FALSE
+605488,Jeffrey Springs,1992-09-20,2018-07-31,Belmont,NC,USA,75,218,1,Pitcher,TRUE
+656811,Ryan O'Hearn,1993-07-26,2018-07-31,Dunedin,FL,USA,75,220,3,First Base,TRUE
+663465,Kolby Allard,1997-08-13,2018-07-31,Anaheim,CA,USA,73,195,1,Pitcher,TRUE
+641712,Dakota Hudson,1994-09-15,2018-07-28,Dunlap,TN,USA,77,215,1,Pitcher,FALSE
+516472,Francisco Arcia,1989-09-14,2018-07-26,Maiquetia,NA,Venezuela,71,200,2,Catcher,FALSE
+605421,Michael Perez,1992-08-07,2018-07-26,Bayamon,NA,Puerto Rico,70,195,2,Catcher,TRUE
+624133,Ranger Suarez,1995-08-26,2018-07-26,Pie de Cuesta,NA,Venezuela,73,217,1,Pitcher,TRUE
+643446,Jeff McNeil,1992-04-08,2018-07-24,Santa Barbara,CA,USA,73,195,4,Second Base,TRUE
+594965,Daniel Ponce de Leon,1992-01-16,2018-07-23,Anaheim,CA,USA,75,200,1,Pitcher,TRUE
+641658,Garrett Hampson,1994-10-10,2018-07-21,Reno,NV,USA,71,196,8,Outfielder,TRUE
+642211,Justin Williams,1995-08-20,2018-07-21,Houma,LA,USA,73,235,9,Outfielder,TRUE
+608723,Austin Voth,1992-06-26,2018-07-14,Redmond,WA,USA,74,211,1,Pitcher,TRUE
+670036,Matt Festa,1993-03-11,2018-07-14,Staten Island,NY,USA,74,195,1,Pitcher,FALSE
+542946,Jeremy Bleich,1987-06-18,2018-07-13,New Orleans,LA,USA,74,215,1,Pitcher,FALSE
+656803,James Norwood,1993-12-24,2018-07-11,New York,NY,USA,74,215,1,Pitcher,FALSE
+672335,Cionel Perez,1996-04-21,2018-07-11,La Habana,NA,Cuba,71,162,1,Pitcher,TRUE
+543193,Drew Gagnon,1990-06-26,2018-07-10,Columbia,CA,USA,76,215,1,Pitcher,FALSE
+660853,Enyel De Los Santos,1995-12-25,2018-07-10,San Pedro de Macoris,NA,Dominican Republic,75,235,1,Pitcher,TRUE
+669203,Corbin Burnes,1994-10-22,2018-07-10,Bakersfield,CA,USA,75,225,1,Pitcher,TRUE
+605143,Ray Black,1990-06-26,2018-07-08,Wilkes-Barre,PA,USA,75,230,1,Pitcher,FALSE
+621453,Steven Duggar,1993-11-04,2018-07-08,Spartanburg,SC,USA,73,187,8,Outfielder,TRUE
+663656,Kyle Tucker,1997-01-17,2018-07-07,Tampa,FL,USA,76,199,9,Outfielder,TRUE
+623465,Evan Phillips,1994-09-11,2018-07-03,Salisbury,MD,USA,74,215,1,Pitcher,FALSE
+607216,Joey Krehbiel,1992-12-20,2018-07-02,Seminole,FL,USA,74,185,1,Pitcher,FALSE
+644337,Nate Orf,1990-02-01,2018-07-02,St. Charles,MO,USA,68,181,4,Second Base,FALSE
+664196,Tanner Anderson,1993-05-27,2018-07-02,Boynton Beach,FL,USA,74,203,1,Pitcher,FALSE
+553902,Willians Astudillo,1991-10-14,2018-06-30,Barcelona,NA,Venezuela,69,225,3,First Base,TRUE
+641154,Pablo Lopez,1996-03-07,2018-06-30,Cabimas,NA,Venezuela,76,225,1,Pitcher,TRUE
+643316,Paul Fry,1992-07-26,2018-06-29,Pontiac,MI,USA,72,205,1,Pitcher,TRUE
+664682,Ryan Meisinger,1994-05-04,2018-06-29,Prince Frederick,MD,USA,76,235,1,Pitcher,FALSE
+621366,Ryan Borucki,1994-03-31,2018-06-26,Highland Park,IL,USA,76,215,1,Pitcher,TRUE
+621249,Duane Underwood Jr.,1994-07-20,2018-06-25,Raleigh,NC,USA,74,210,1,Pitcher,TRUE
+641341,Tyler Bashlor,1993-04-16,2018-06-25,Springfield,GA,USA,72,195,1,Pitcher,FALSE
+476594,Robert Stock,1989-11-21,2018-06-24,Bellevue,WA,USA,73,214,1,Pitcher,FALSE
+641571,Heath Fillmyer,1994-05-16,2018-06-24,Roebling,NJ,USA,73,195,1,Pitcher,FALSE
+664842,Kevin Kaczmarski,1991-12-31,2018-06-24,Cary,IL,USA,72,192,O,Outfield,FALSE
+622098,Drew Smith,1993-09-24,2018-06-23,Fort Worth,TX,USA,74,190,1,Pitcher,TRUE
+622075,Yency Almonte,1994-06-04,2018-06-21,Miami,FL,USA,77,223,1,Pitcher,TRUE
+592859,Stevie Wilkerson,1992-01-11,2018-06-20,Roswell,GA,USA,74,200,4,Second Base,TRUE
+656354,Austin Davis,1993-02-03,2018-06-20,Scottsdale,AZ,USA,76,235,1,Pitcher,TRUE
+605255,Brett Graves,1993-01-30,2018-06-17,St Charles,MO,USA,73,170,1,Pitcher,FALSE
+657228,Jake Jewell,1993-05-16,2018-06-16,Norman,OK,USA,75,200,1,Pitcher,FALSE
+624431,Jose Trevino,1992-11-28,2018-06-15,Corpus Christi,TX,USA,71,210,2,Catcher,TRUE
+642528,Jonathan Loaisiga,1994-11-02,2018-06-15,Managua,NA,Nicaragua,71,165,1,Pitcher,TRUE
+606162,Yefry Ramirez,1993-11-28,2018-06-13,Santo Domingo,NA,Dominican Republic,74,215,1,Pitcher,FALSE
+664058,David Fletcher,1994-05-31,2018-06-13,Orange,CA,USA,69,185,4,Second Base,TRUE
+607572,Sam Howard,1993-03-05,2018-06-10,Cartersville,GA,USA,76,195,1,Pitcher,TRUE
+657786,Jerry Vasto,1992-02-12,2018-06-10,Atlantic Highlands,NJ,USA,74,195,1,Pitcher,FALSE
+628336,Jose Miguel Fernandez,1988-04-27,2018-06-08,Villa Clara,NA,Cuba,70,185,4,Second Base,FALSE
+641343,Jake Bauers,1995-10-06,2018-06-07,Newport Beach,CA,USA,73,195,3,First Base,TRUE
+656222,Jalen Beeks,1993-07-10,2018-06-07,Fayetteville,AR,USA,71,215,1,Pitcher,FALSE
+656738,Ben Meyer,1993-01-30,2018-06-07,Minneapolis,MN,USA,78,203,1,Pitcher,FALSE
+605361,Nick Martini,1990-06-27,2018-06-06,Crystal Lake,IL,USA,71,205,9,Outfielder,TRUE
+650895,Diego Castillo,1994-01-18,2018-06-06,Cabrera,NA,Dominican Republic,75,250,1,Pitcher,TRUE
+657571,Caleb Ferguson,1996-07-02,2018-06-06,Columbus,OH,USA,75,226,1,Pitcher,FALSE
+641793,Zack Littell,1995-10-05,2018-06-05,Burlington,NC,USA,76,220,1,Pitcher,TRUE
+642851,Austin Wynns,1990-12-10,2018-06-05,San Diego,CA,USA,72,190,2,Catcher,TRUE
+622783,Sandy Baez,1993-11-25,2018-06-04,Juan Baron,NA,Dominican Republic,74,245,1,Pitcher,FALSE
+622446,Jefry Rodriguez,1993-07-26,2018-06-03,Haina,NA,Dominican Republic,78,232,1,Pitcher,FALSE
+596295,Austin Gomber,1993-11-23,2018-06-02,Winter Garden,FL,USA,77,220,1,Pitcher,TRUE
+620454,Jose Castillo,1996-01-10,2018-06-02,Valencia,NA,Venezuela,77,246,1,Pitcher,FALSE
+621141,Walker Lockett,1994-05-03,2018-06-01,Jacksonville,FL,USA,77,225,1,Pitcher,FALSE
+622226,Dylan Cozens,1994-05-31,2018-06-01,Scottsdale,AZ,USA,78,235,9,Outfielder,FALSE
+642701,Dennis Santana,1996-04-12,2018-06-01,San Pedro de Macoris,NA,Dominican Republic,74,190,1,Pitcher,TRUE
+500135,Ronny Rodriguez,1992-04-17,2018-05-31,Santiago,NA,Dominican Republic,72,200,6,Shortstop,FALSE
+669456,Shane Bieber,1995-05-31,2018-05-31,Orange,CA,USA,75,200,1,Pitcher,TRUE
+605520,Mitch Walding,1992-09-10,2018-05-30,Lodi,CA,USA,75,190,5,Third Base,FALSE
+623402,Tim Peterson,1991-02-22,2018-05-30,Puyallup,WA,USA,73,215,1,Pitcher,FALSE
+605446,Dereck Rodriguez,1992-06-05,2018-05-29,Arlington,TX,USA,72,208,1,Pitcher,FALSE
+621289,Jaime Schultz,1991-06-20,2018-05-29,Albany,NY,USA,70,205,1,Pitcher,FALSE
+605474,Matt Skole,1989-07-30,2018-05-28,Woodstock,GA,USA,76,220,3,First Base,FALSE
+640460,Dustin Peterson,1994-09-10,2018-05-28,Phoenix,AZ,USA,74,210,9,Outfielder,FALSE
+554054,Alfredo Gonzalez,1992-07-13,2018-05-26,Santa Teresa del Tuy,NA,Venezuela,72,220,2,Catcher,FALSE
+593993,Jose Briceno,1992-09-19,2018-05-26,Caracas,NA,Venezuela,73,225,2,Catcher,FALSE
+607430,John Andreoli,1990-06-09,2018-05-23,Worcester,MA,USA,73,218,O,Outfield,TRUE
+641525,Brandon Dixon,1992-01-29,2018-05-22,La Jolla,CA,USA,74,215,3,First Base,FALSE
+642715,Willy Adames,1995-09-02,2018-05-22,Santiago,NA,Dominican Republic,72,210,6,Shortstop,TRUE
+595909,Jake Cave,1992-12-04,2018-05-19,Hampton,VA,USA,72,200,8,Outfielder,TRUE
+642558,Ariel Jurado,1996-01-30,2018-05-19,Aguadulce,NA,Panama,74,240,1,Pitcher,FALSE
+640457,Austin Meadows,1995-05-03,2018-05-18,Atlanta,GA,USA,75,225,7,Outfielder,TRUE
+641684,Michael Hermosillo,1995-01-17,2018-05-18,Mesa,AZ,USA,72,205,8,Outfielder,FALSE
+665742,Juan Soto,1998-10-25,2018-05-15,Santo Domingo,NA,Dominican Republic,74,224,9,Outfielder,TRUE
+614177,Franmil Reyes,1995-07-07,2018-05-14,Palenque,NA,Dominican Republic,77,265,9,Outfielder,TRUE
+448167,Brandon Mann,1984-05-16,2018-05-13,Tacoma,WA,USA,74,200,1,Pitcher,FALSE
+642547,Freddy Peralta,1996-06-04,2018-05-13,Moca,NA,Dominican Republic,71,199,1,Pitcher,TRUE
+605276,David Hess,1993-07-10,2018-05-12,Pembroke Pines,FL,USA,73,215,1,Pitcher,FALSE
+641645,Luis Guillorme,1994-09-27,2018-05-11,Caracas,NA,Venezuela,70,190,5,Third Base,TRUE
+622694,Elieser Hernandez,1995-05-03,2018-05-10,Ocumare del Tuy,NA,Venezuela,72,214,1,Pitcher,TRUE
+606995,Justin Hancock,1990-10-28,2018-05-09,Defiance,OH,USA,76,185,1,Pitcher,FALSE
+622554,Seranthony Dominguez,1994-11-25,2018-05-07,Esperanza Valverde Mao,NA,Dominican Republic,73,185,1,Pitcher,FALSE
+664869,P.J. Conlon,1993-11-11,2018-05-07,Belfast,NA,Northern Ireland,71,192,1,Pitcher,FALSE
+606988,Grayson Greiner,1992-10-11,2018-05-06,Columbia,SC,USA,78,238,2,Catcher,TRUE
+592094,Jason Adam,1991-08-04,2018-05-05,Omaha,NE,USA,75,229,1,Pitcher,TRUE
+642770,Javy Guerra,1995-09-25,2018-05-04,David,NA,Panama,72,185,1,Pitcher,FALSE
+622864,Fernando Romero,1994-12-24,2018-05-02,San Juan de la Maguana,NA,Dominican Republic,72,215,1,Pitcher,FALSE
+593833,Wander Suero,1991-09-15,2018-05-01,Sabana Larga,NA,Dominican Republic,76,216,1,Pitcher,TRUE
+647336,Mike Soroka,1997-08-04,2018-05-01,Calgary,AB,Canada,77,225,1,Pitcher,FALSE
+605130,Scott Barlow,1992-12-18,2018-04-30,New London,CT,USA,75,210,1,Pitcher,TRUE
+592468,Nick Kingham,1991-11-08,2018-04-29,Houston,TX,USA,77,235,1,Pitcher,FALSE
+621044,Jesmuel Valentin,1994-05-12,2018-04-29,Manati,NA,Puerto Rico,69,180,5,Third Base,FALSE
+592769,D.J. Snelten,1992-05-29,2018-04-28,Ingleside,IL,USA,78,240,1,Pitcher,FALSE
+656805,Trevor Oaks,1993-03-26,2018-04-28,Riverside,CA,USA,75,225,1,Pitcher,FALSE
+594011,Rosell Herrera,1992-10-16,2018-04-26,Santo Domingo,NA,Dominican Republic,75,195,O,Outfield,FALSE
+594953,Daniel Palka,1991-10-28,2018-04-25,Greenville,SC,USA,74,220,9,Outfielder,FALSE
+621261,Corey Oswalt,1993-09-03,2018-04-25,San Diego,CA,USA,77,250,1,Pitcher,FALSE
+657770,Eric Stout,1993-03-27,2018-04-25,Glen Ellyn,IL,USA,75,205,1,Pitcher,FALSE
+660670,Ronald Acuna Jr.,1997-12-18,2018-04-25,La Guaira,NA,Venezuela,72,205,9,Outfielder,TRUE
+641778,Eric Lauer,1995-06-03,2018-04-24,Elyria,OH,USA,75,228,1,Pitcher,TRUE
+605121,Justin Anderson,1992-09-28,2018-04-23,Houston,TX,USA,75,230,1,Pitcher,FALSE
+643466,Harrison Musgrave,1992-03-03,2018-04-23,Nutter Fort,WV,USA,73,206,1,Pitcher,FALSE
+571595,Noel Cuevas,1991-10-02,2018-04-22,Camuy,NA,Puerto Rico,74,224,7,Outfielder,FALSE
+650402,Gleyber Torres,1996-12-13,2018-04-22,Caracas,NA,Venezuela,73,205,6,Shortstop,TRUE
+592145,Jesse Biddle,1991-10-22,2018-04-21,Philadelphia,PA,USA,77,220,1,Pitcher,TRUE
+623520,David Bote,1993-04-07,2018-04-21,Longmont,CO,USA,73,205,4,Second Base,TRUE
+595222,Mike Gerber,1992-07-08,2018-04-20,Nashville,TN,USA,72,190,8,Outfielder,FALSE
+666971,Lourdes Gurriel Jr.,1993-10-10,2018-04-20,Sancti Spiritus,NA,Cuba,76,215,7,Outfielder,TRUE
+641933,Tyler O'Neill,1995-06-22,2018-04-19,Burnaby,BC,Canada,71,200,7,Outfielder,TRUE
+642571,Merandy Gonzalez,1995-10-09,2018-04-19,Cotui,NA,Dominican Republic,72,216,1,Pitcher,FALSE
+639373,Gerson Bautista,1995-05-31,2018-04-17,San Juan,NA,Dominican Republic,75,195,1,Pitcher,FALSE
+642152,Lou Trivino,1991-10-01,2018-04-17,Green Lane,PA,USA,77,235,1,Pitcher,TRUE
+641924,Jacob Nottingham,1995-04-03,2018-04-16,Redlands,CA,USA,74,220,2,Catcher,TRUE
+608654,Johnny Field,1992-02-20,2018-04-14,Las Vegas,NV,USA,70,195,9,Outfielder,FALSE
+608597,Ronald Guzman,1994-10-20,2018-04-13,La Vega,NA,Dominican Republic,77,235,3,First Base,TRUE
+622713,Engelb Vielma,1994-06-22,2018-04-13,Maracaibo,NA,Venezuela,71,155,6,Shortstop,FALSE
+592848,Zack Weiss,1992-06-16,2018-04-12,Irvine,CA,USA,75,210,1,Pitcher,FALSE
+605155,Colten Brewer,1992-10-29,2018-04-12,Dallas,TX,USA,76,222,1,Pitcher,TRUE
+605498,Andrew Suarez,1992-09-11,2018-04-11,Miami,FL,USA,72,202,1,Pitcher,FALSE
+642545,Jaime Barria,1996-07-18,2018-04-11,Panama City,NA,Panama,73,210,1,Pitcher,TRUE
+595881,Tyler Beede,1993-05-23,2018-04-10,Worcester,MA,USA,75,211,1,Pitcher,FALSE
+607468,Alex Blandino,1992-11-06,2018-04-10,Palo Alto,CA,USA,72,190,3,First Base,TRUE
+643396,Isiah Kiner-Falefa,1995-03-23,2018-04-10,Honolulu,HI,USA,71,190,6,Shortstop,TRUE
+663432,Tanner Rainey,1992-12-25,2018-04-10,Folsom,LA,USA,74,247,1,Pitcher,TRUE
+641755,Tyler Kinley,1991-01-31,2018-04-07,Plantation,FL,USA,76,220,1,Pitcher,TRUE
+605280,Clay Holmes,1993-03-27,2018-04-06,Dothan,AL,USA,77,245,1,Pitcher,TRUE
+670950,Trevor Richards,1993-05-15,2018-04-02,Aviston,IL,USA,74,195,1,Pitcher,TRUE
+519393,Marcus Walden,1988-09-13,2018-04-01,Fresno,CA,USA,70,198,1,Pitcher,FALSE
+543001,Ryan Carpenter,1990-08-22,2018-04-01,Glendale,AZ,USA,77,230,1,Pitcher,FALSE
+622682,Victor Reyes,1994-10-05,2018-04-01,Barcelona,NA,Venezuela,77,194,8,Outfielder,TRUE
+630023,Yonny Chirinos,1993-12-26,2018-04-01,Bachaquero,NA,Venezuela,74,225,1,Pitcher,FALSE
+572703,Luke Bard,1990-11-13,2018-03-31,Charlotte,NC,USA,75,200,1,Pitcher,FALSE
+596074,Bobby Poyner,1992-12-01,2018-03-31,West Palm Beach,FL,USA,72,205,1,Pitcher,FALSE
+606478,Pedro Araujo,1993-07-02,2018-03-31,San Cristobal,NA,Dominican Republic,75,215,1,Pitcher,FALSE
+624636,Carlos Tocci,1995-08-23,2018-03-31,Maracay,NA,Venezuela,74,160,8,Outfielder,FALSE
+641482,Nestor Cortes,1994-12-10,2018-03-31,Surgidero de Batabano,NA,Cuba,71,210,1,Pitcher,TRUE
+642232,Ryan Yarbrough,1991-12-31,2018-03-31,Austin,TX,USA,77,205,1,Pitcher,TRUE
+628318,Kazuhisa Makita,1984-11-10,2018-03-30,Yaizu,NA,Japan,70,181,1,Pitcher,FALSE
+641856,Billy McKinney,1994-08-23,2018-03-30,Dallas,TX,USA,73,205,7,Outfielder,TRUE
+657658,Braxton Lee,1993-08-23,2018-03-30,Picayune,MS,USA,70,185,O,Outfield,FALSE
+664068,Scott Kingery,1994-04-29,2018-03-30,Phoenix,AZ,USA,70,180,8,Outfielder,TRUE
+664192,Joey Lucchesi,1993-06-06,2018-03-30,Newark,CA,USA,77,225,1,Pitcher,TRUE
+622168,Yairo Munoz,1995-01-23,2018-03-29,Nagua,NA,Dominican Republic,71,200,4,Second Base,FALSE
+641745,Brad Keller,1995-07-27,2018-03-29,Snellville,GA,USA,77,255,1,Pitcher,TRUE
+643256,Adam Cimber,1990-08-15,2018-03-29,Portland,OR,USA,75,195,1,Pitcher,TRUE
+657612,Tim Hill,1990-02-10,2018-03-29,Mission Hills,CA,USA,76,200,1,Pitcher,TRUE
+660271,Shohei Ohtani,1994-07-05,2018-03-29,Oshu,NA,Japan,76,210,1,Pitcher,TRUE
+663855,Jordan Hicks,1996-09-06,2018-03-29,Houston,TX,USA,74,220,1,Pitcher,TRUE
+673633,Yoshihisa Hirano,1984-03-08,2018-03-29,"Uji, Kyoto",NA,Japan,73,185,1,Pitcher,FALSE
+641796,Tim Locastro,1992-07-14,2017-09-29,Syracuse,NY,USA,73,190,8,Outfielder,TRUE
+622492,Keury Mella,1993-08-02,2017-09-20,Bonao,NA,Dominican Republic,74,230,1,Pitcher,FALSE
+656945,Tanner Scott,1994-07-22,2017-09-20,Warren,OH,USA,72,235,1,Pitcher,TRUE
+570799,Christian Villanueva,1991-06-19,2017-09-18,Guadalajara,Jalisco,Mexico,71,210,5,Third Base,FALSE
+658792,Aaron Wilkerson,1989-05-24,2017-09-15,Fort Worth,TX,USA,75,190,1,Pitcher,FALSE
+627500,Jen-Ho Tseng,1994-10-03,2017-09-14,Taipei,NA,Taiwan,73,210,1,Pitcher,FALSE
+621512,Tomas Nido,1994-04-12,2017-09-13,Guaynabo,NA,Puerto Rico,72,211,2,Catcher,TRUE
+592547,Deck McGuire,1989-06-23,2017-09-12,Richmond,VA,USA,78,220,1,Pitcher,FALSE
+622382,Gabriel Moya,1995-01-09,2017-09-12,Cabimas,NA,Venezuela,72,225,1,Pitcher,FALSE
+641432,Willie Calhoun,1994-11-04,2017-09-12,Vallejo,CA,USA,68,200,7,Outfielder,TRUE
+644364,Victor Arano,1995-02-07,2017-09-12,Cosamaloapan,Veracruz,Mexico,74,228,1,Pitcher,TRUE
+543089,Taylor Davis,1989-11-28,2017-09-08,Tampa,FL,USA,70,200,2,Catcher,FALSE
+595943,Phillip Evans,1992-09-10,2017-09-08,Whittier,CA,USA,70,210,5,Third Base,TRUE
+621111,Walker Buehler,1994-07-28,2017-09-07,Lexington,KY,USA,74,185,1,Pitcher,TRUE
+645302,Victor Robles,1997-05-19,2017-09-07,Santo Domingo Este,NA,Dominican Republic,72,205,8,Outfielder,TRUE
+669720,Austin Hays,1995-07-05,2017-09-07,Daytona Beach,FL,USA,72,205,7,Outfielder,TRUE
+592865,Taylor Williams,1991-07-21,2017-09-06,Vancouver,WA,USA,71,185,1,Pitcher,TRUE
+627894,Luiz Gohara,1996-07-31,2017-09-06,Tupa,NA,Brazil,75,265,1,Pitcher,FALSE
+591971,Breyvic Valera,1992-01-08,2017-09-05,Montalban,NA,Venezuela,71,160,4,Second Base,FALSE
+596816,Roberto  Gomez,1989-08-03,2017-09-05,Santiago,NA,Dominican Republic,78,200,1,Pitcher,FALSE
+605240,Jace Fry,1993-07-09,2017-09-05,Portland,OR,USA,73,220,1,Pitcher,FALSE
+606625,Reyes Moronta,1993-01-06,2017-09-05,Santiago,NA,Dominican Republic,70,265,1,Pitcher,TRUE
+622505,Victor Alcantara,1993-04-03,2017-09-05,Santo Domingo,NA,Dominican Republic,74,190,1,Pitcher,FALSE
+641487,J.P. Crawford,1995-01-11,2017-09-05,Long Beach,CA,USA,74,199,6,Shortstop,TRUE
+592499,Artie Lewicki,1992-04-08,2017-09-04,Wyckoff,NJ,USA,75,195,1,Pitcher,FALSE
+596027,Dillon Maples,1992-05-09,2017-09-03,Sanford,NC,USA,74,230,1,Pitcher,TRUE
+600466,Raudy Read,1993-10-29,2017-09-03,San Jose de Ocoa,NA,Dominican Republic,72,220,2,Catcher,FALSE
+605357,Mike Marjama,1989-07-20,2017-09-03,Roseville,CA,USA,74,205,2,Catcher,FALSE
+645261,Sandy Alcantara,1995-09-07,2017-09-03,Azua,NA,Dominican Republic,77,200,1,Pitcher,TRUE
+592348,Niko Goodrum,1992-02-28,2017-09-02,Atlanta,GA,USA,75,215,6,Shortstop,TRUE
+593144,Richard Rodriguez,1990-03-04,2017-09-02,Santiago,NA,Dominican Republic,76,220,1,Pitcher,TRUE
+600921,Andres Machado,1993-04-22,2017-09-02,Carabobo,NA,Venezuela,72,220,1,Pitcher,FALSE
+608601,Luis Santos,1991-02-11,2017-09-02,Bonao,NA,Dominican Republic,72,225,1,Pitcher,FALSE
+642008,Jacob Rhame,1993-03-16,2017-09-02,Atlanta,GA,USA,73,215,1,Pitcher,FALSE
+642082,Chance Sisco,1995-02-24,2017-09-02,Corona,CA,USA,75,210,2,Catcher,TRUE
+570702,Carlos Ramirez,1991-04-24,2017-09-01,Santo Domingo,NA,Dominican Republic,77,205,1,Pitcher,FALSE
+572227,Zach Vincej,1991-05-01,2017-09-01,San Diego,CA,USA,72,190,6,Shortstop,FALSE
+596071,Dillon Peters,1992-08-31,2017-09-01,Indianapolis,IN,USA,71,190,1,Pitcher,TRUE
+605119,Brian Anderson,1993-05-19,2017-09-01,Edmond,OK,USA,75,208,5,Third Base,TRUE
+620446,Richard Urena,1996-02-26,2017-09-01,San Francisco de Macoris,NA,Dominican Republic,72,195,6,Shortstop,FALSE
+642336,Francisco Mejia,1995-10-27,2017-09-01,Bani,NA,Dominican Republic,68,188,2,Catcher,TRUE
+656185,Greg Allen,1993-03-15,2017-09-01,San Diego,CA,USA,72,185,7,Outfielder,FALSE
+656427,Jack Flaherty,1995-10-15,2017-09-01,Burbank,CA,USA,76,225,1,Pitcher,TRUE
+657077,Alex Verdugo,1996-05-15,2017-09-01,Tucson,AZ,USA,72,192,8,Outfielder,TRUE
+571679,David Freitas,1989-03-18,2017-08-30,Wilton,CA,USA,74,250,2,Catcher,FALSE
+595453,Chad Wallach,1991-11-04,2017-08-27,Yorba Linda,CA,USA,74,246,2,Catcher,TRUE
+641816,Tyler Mahle,1994-09-29,2017-08-27,Newport Beach,CA,USA,75,210,1,Pitcher,TRUE
+643617,Zac Reininger,1993-01-28,2017-08-27,San Antonio,TX,USA,75,190,1,Pitcher,FALSE
+595411,Ryan Sherriff,1990-05-25,2017-08-25,Culver City,CA,USA,73,190,1,Pitcher,TRUE
+595928,John Curtiss,1993-04-05,2017-08-25,Dallas,TX,USA,77,220,1,Pitcher,TRUE
+621345,A.J. Minter,1993-09-02,2017-08-23,Tyler,TX,USA,72,215,1,Pitcher,TRUE
+605441,Yacksel Rios,1993-06-27,2017-08-22,Caguas,NA,Puerto Rico,75,215,1,Pitcher,TRUE
+643320,Nick Gardewine,1993-08-15,2017-08-22,Effingham,IL,USA,73,179,1,Pitcher,FALSE
+642073,James Sherfy,1991-12-27,2017-08-20,Camarillo,CA,USA,72,175,1,Pitcher,FALSE
+572998,Josh Lucas,1990-11-05,2017-08-19,Lakeland,FL,USA,78,185,1,Pitcher,FALSE
+641598,Mitch Garver,1991-01-15,2017-08-19,Albuquerque,NM,USA,73,220,2,Catcher,TRUE
+623993,Anthony Santander,1994-10-19,2017-08-18,Margarita,NA,Venezuela,74,235,9,Outfielder,TRUE
+642083,Aaron Slegers,1992-09-04,2017-08-17,Long Beach,CA,USA,82,260,1,Pitcher,TRUE
+641835,Tim Mayza,1992-01-15,2017-08-15,Allentown,PA,USA,75,220,1,Pitcher,TRUE
+600965,Ricardo Rodriguez,1992-08-31,2017-08-14,Maracay,NA,Venezuela,74,220,1,Pitcher,FALSE
+600986,Thyago Vieira,1993-07-01,2017-08-14,Sao Paulo,NA,Brazil,74,210,1,Pitcher,FALSE
+635903,Chris Rowley,1990-08-14,2017-08-12,Atlanta,GA,USA,74,195,1,Pitcher,FALSE
+641857,Ryan McMahon,1994-12-14,2017-08-12,Yorba Linda,CA,USA,74,219,4,Second Base,TRUE
+642086,Dominic Smith,1995-06-15,2017-08-11,Los Angeles,CA,USA,72,239,7,Outfielder,TRUE
+656555,Rhys Hoskins,1993-03-17,2017-08-10,Sacramento,CA,USA,76,245,3,First Base,TRUE
+518566,Taylor Cole,1989-08-20,2017-08-09,Simi Valley,CA,USA,73,200,1,Pitcher,FALSE
+527049,Cesar Puello,1991-04-01,2017-08-09,La Romana,NA,Dominican Republic,74,220,O,Outfield,FALSE
+608331,Max Fried,1994-01-18,2017-08-08,Santa Monica,CA,USA,76,190,1,Pitcher,TRUE
+595956,Cam Gallagher,1992-12-06,2017-08-06,Lancaster,PA,USA,75,230,2,Catcher,TRUE
+605204,J.D. Davis,1993-04-27,2017-08-05,Elk Grove,CA,USA,75,218,5,Third Base,TRUE
+605540,Brandon Woodruff,1993-02-10,2017-08-04,Tupelo,MS,USA,76,243,1,Pitcher,TRUE
+547170,Nicky Delmonico,1992-07-12,2017-08-01,Knoxville,TN,USA,75,230,O,Outfield,FALSE
+595373,Jack Reinheimer,1992-07-19,2017-08-01,Charlotte,NC,USA,73,185,6,Shortstop,FALSE
+608371,Lucas Sims,1994-05-10,2017-08-01,Lawrenceville,GA,USA,74,225,1,Pitcher,TRUE
+623454,Drew Anderson,1994-03-22,2017-08-01,Reno,NV,USA,75,205,1,Pitcher,FALSE
+642708,Amed Rosario,1995-11-20,2017-08-01,Santo Domingo Centro,NA,Dominican Republic,74,190,6,Shortstop,TRUE
+645277,Ozzie Albies,1997-01-07,2017-08-01,Willemstad,NA,Curacao,68,165,4,Second Base,TRUE
+571657,Kyle Farmer,1990-08-17,2017-07-30,Atlanta,GA,USA,72,205,6,Shortstop,TRUE
+607200,Erick Fedde,1993-02-25,2017-07-30,Las Vegas,NV,USA,76,200,1,Pitcher,TRUE
+657681,Kyle McGrath,1992-07-31,2017-07-30,Louisville,KY,USA,74,185,1,Pitcher,FALSE
+644428,Troy Scribner,1991-07-02,2017-07-29,Washington Depot,CT,USA,75,190,1,Pitcher,FALSE
+656669,Jordan Luplow,1993-09-26,2017-07-28,Visalia,CA,USA,73,195,8,Outfielder,TRUE
+607481,Aaron Bummer,1993-09-21,2017-07-27,Valencia,CA,USA,75,215,1,Pitcher,TRUE
+623167,Chris Flexen,1994-07-01,2017-07-27,Newark,CA,USA,75,250,1,Pitcher,TRUE
+646240,Rafael Devers,1996-10-24,2017-07-25,Sanchez,NA,Dominican Republic,72,240,5,Third Base,TRUE
+664056,Harrison Bader,1994-06-03,2017-07-25,Bronxville,NY,USA,72,210,8,Outfielder,TRUE
+487675,Edward Paredes,1986-09-30,2017-07-24,Villa Arriva,NA,Dominican Republic,72,180,1,Pitcher,FALSE
+614179,Jose Ruiz,1994-10-21,2017-07-24,Guacara,NA,Venezuela,73,245,1,Pitcher,TRUE
+664057,Andrew Stevenson,1994-06-01,2017-07-23,Lafayette,LA,USA,72,192,8,Outfielder,TRUE
+607455,Anthony Banda,1993-08-10,2017-07-22,Corpus Christi,TX,USA,74,230,1,Pitcher,FALSE
+552640,Andrew Kittredge,1990-03-17,2017-07-18,Spokane,WA,USA,73,230,1,Pitcher,TRUE
+592761,Caleb Smith,1991-07-28,2017-07-17,Huntsville,TX,USA,72,207,1,Pitcher,TRUE
+613534,Austin Adams,1991-05-05,2017-07-15,Tampa,FL,USA,75,220,1,Pitcher,TRUE
+643265,Garrett Cooper,1990-12-25,2017-07-14,Torrance,CA,USA,77,235,9,Outfielder,TRUE
+622217,Chris O'Grady,1990-04-17,2017-07-08,Congers,NY,USA,76,225,1,Pitcher,FALSE
+643335,Zack Granite,1992-09-17,2017-07-08,Staten Island,NY,USA,73,175,O,Outfield,FALSE
+622497,Miguel Gomez,1992-12-17,2017-07-07,Santo Domingo,NA,Dominican Republic,69,206,4,Second Base,FALSE
+608652,Luke Farrell,1991-06-07,2017-07-01,Westlake,OH,USA,78,200,1,Pitcher,TRUE
+621112,Paul Blackburn,1993-12-04,2017-07-01,Antioch,CA,USA,73,196,1,Pitcher,FALSE
+623451,Jackson Stephens,1994-05-11,2017-07-01,Oxford,AL,USA,74,220,1,Pitcher,FALSE
+640449,Clint Frazier,1994-09-06,2017-07-01,Decatur,GA,USA,71,212,7,Outfielder,TRUE
+506703,Adrian Sanchez,1990-08-16,2017-06-30,Maracaibo,NA,Venezuela,72,216,6,Shortstop,FALSE
+608384,Nick Williams,1993-09-08,2017-06-30,Galveston,TX,USA,75,215,O,Outfield,TRUE
+642098,Glenn Sparkman,1992-05-11,2017-06-30,Victoria,TX,USA,74,215,1,Pitcher,FALSE
+545121,Ildemaro Vargas,1991-07-16,2017-06-29,Caripito,NA,Venezuela,72,180,5,Third Base,TRUE
+592473,Adam Kolarek,1989-01-14,2017-06-29,Baltimore,MD,USA,75,215,1,Pitcher,TRUE
+594992,Kevin Shackelford,1989-04-07,2017-06-29,Charlotte,NC,USA,77,210,1,Pitcher,FALSE
+641583,Dustin Fowler,1994-12-29,2017-06-29,Cadwell,GA,USA,72,195,8,Outfielder,TRUE
+605170,Victor Caratini,1993-08-17,2017-06-28,Ponce,NA,Puerto Rico,73,215,2,Catcher,TRUE
+609280,Miguel Andujar,1995-03-02,2017-06-28,San Cristobal,NA,Dominican Republic,72,211,7,Outfielder,TRUE
+642180,Tyler Wade,1994-11-23,2017-06-27,Murrieta,CA,USA,73,188,6,Shortstop,TRUE
+643565,Mike Tauchman,1990-12-03,2017-06-27,Palatine,IL,USA,74,220,7,Outfielder,TRUE
+572228,Luke Voit,1991-02-13,2017-06-25,Wildwood,MO,USA,75,255,3,First Base,TRUE
+607473,Chasen Bradford,1989-08-05,2017-06-25,Las Vegas,NV,USA,73,229,1,Pitcher,FALSE
+571948,Hoby Milner,1991-01-13,2017-06-24,Dallas,TX,USA,75,175,1,Pitcher,TRUE
+620439,Franklin Barreto,1996-02-27,2017-06-24,Caracas,NA,Venezuela,70,208,4,Second Base,FALSE
+624407,Tzu-Wei Lin,1994-02-15,2017-06-24,Kaohsiung County,NA,Taiwan,69,180,7,Outfielder,TRUE
+624507,Ryder Jones,1994-06-07,2017-06-24,Seattle,WA,USA,74,221,5,Third Base,FALSE
+643778,Tyler Webb,1990-07-20,2017-06-24,Nassawadox,VA,USA,77,240,1,Pitcher,TRUE
+622161,Eduardo Paredes,1995-03-06,2017-06-23,Valera,NA,Venezuela,73,250,1,Pitcher,FALSE
+622491,Luis Castillo,1992-12-12,2017-06-23,Bani,NA,Dominican Republic,74,200,1,Pitcher,TRUE
+657610,Trevor Hildenberger,1990-12-15,2017-06-23,Mountain View,CA,USA,74,205,1,Pitcher,TRUE
+605195,Kyle Crick,1992-11-30,2017-06-22,Fort Worth,TX,USA,76,225,1,Pitcher,TRUE
+621058,Andrew Moore,1994-06-02,2017-06-22,Springfield,OR,USA,72,195,1,Pitcher,FALSE
+657145,Mark Zagunis,1993-02-05,2017-06-22,Willingboro,NJ,USA,72,215,9,Outfielder,FALSE
+641427,Alan Busenitz,1990-08-22,2017-06-17,Watkinsville,GA,USA,73,180,1,Pitcher,FALSE
+656305,Matt Chapman,1993-04-28,2017-06-15,Victorville,CA,USA,72,215,5,Third Base,TRUE
+605233,Derek Fisher,1993-08-21,2017-06-14,Lebanon,PA,USA,75,215,9,Outfielder,FALSE
+605254,Daniel Gossett,1992-11-13,2017-06-14,Lyman,SC,USA,72,192,1,Pitcher,FALSE
+543867,Nik Turley,1989-09-11,2017-06-11,La Canada,CA,USA,76,235,1,Pitcher,FALSE
+593334,Domingo German,1992-08-04,2017-06-11,San Pedro de Macoris,NA,Dominican Republic,74,181,1,Pitcher,TRUE
+621446,Lewis Brinson,1994-05-08,2017-06-11,Fort Lauderdale,FL,USA,77,212,8,Outfielder,TRUE
+642231,Jimmy Yacabonis,1992-03-21,2017-06-11,Elizabeth,NJ,USA,75,225,1,Pitcher,FALSE
+664208,Phil Maton,1993-03-25,2017-06-11,Paducah,KY,USA,74,206,1,Pitcher,TRUE
+623352,Josh Hader,1994-04-07,2017-06-10,Millersville,MD,USA,75,180,1,Pitcher,TRUE
+650828,Edgar Santana,1991-10-16,2017-06-10,Puerto Plata,NA,Dominican Republic,74,205,1,Pitcher,TRUE
+656794,Sean Newcomb,1993-06-12,2017-06-10,Brockton,MA,USA,77,255,1,Pitcher,TRUE
+571676,Seth Frankoff,1988-08-27,2017-06-09,Raleigh,NC,USA,77,206,1,Pitcher,TRUE
+593527,Ramon Torres,1993-01-22,2017-06-07,Santiago Rodriguez,NA,Dominican Republic,71,190,6,Shortstop,FALSE
+607188,Jake Faria,1993-07-30,2017-06-07,La Palma,CA,USA,76,225,1,Pitcher,FALSE
+621433,Brett Phillips,1994-05-30,2017-06-05,Seminole,FL,USA,72,195,8,Outfielder,TRUE
+594902,Ben Lively,1992-03-05,2017-06-03,Pensacola,FL,USA,76,190,1,Pitcher,FALSE
+596103,Austin Slater,1992-12-13,2017-06-02,Jacksonville,FL,USA,73,204,8,Outfielder,TRUE
+600968,Randy Rosario,1994-05-18,2017-06-02,Nagua,NA,Dominican Republic,73,210,1,Pitcher,FALSE
+594056,Reymin Guduan,1992-03-16,2017-05-31,San Pedro de Macoris,NA,Dominican Republic,76,205,1,Pitcher,TRUE
+620982,Ricardo Pinto,1994-01-20,2017-05-31,Guacara Carabobo,NA,Venezuela,72,195,1,Pitcher,FALSE
+607215,Eric Skoglund,1992-10-26,2017-05-30,Sarasota,FL,USA,79,210,1,Pitcher,FALSE
+621056,Hunter Wood,1993-08-12,2017-05-30,Rogers,AR,USA,73,175,1,Pitcher,TRUE
+605154,John Brebbia,1990-05-30,2017-05-28,Sharon,MA,USA,73,185,1,Pitcher,FALSE
+657557,Paul DeJong,1993-08-02,2017-05-28,Orlando,FL,USA,72,205,6,Shortstop,TRUE
+614173,Franchy Cordero,1994-09-02,2017-05-27,Azua,NA,Dominican Republic,75,226,7,Outfielder,TRUE
+641553,Adam Engel,1991-12-09,2017-05-27,Cincinnati,OH,USA,74,215,8,Outfielder,TRUE
+659275,Dinelson Lamet,1992-07-18,2017-05-25,Santiago,NA,Dominican Republic,75,228,1,Pitcher,TRUE
+607752,Sam Travis,1993-08-27,2017-05-24,Chicago,IL,USA,72,205,3,First Base,FALSE
+608716,Drew Steckenrider,1991-01-10,2017-05-24,Atlanta,GA,USA,76,217,1,Pitcher,TRUE
+545337,Nolan Fontana,1991-06-06,2017-05-22,Winter Garden,FL,USA,71,195,6,Shortstop,FALSE
+502179,Paolo Espino,1987-01-10,2017-05-19,Panama City,NA,Panama,70,215,1,Pitcher,TRUE
+546990,Anthony Alford,1994-07-20,2017-05-19,Columbia,MS,USA,73,215,8,Outfielder,TRUE
+572955,Pierce Johnson,1991-05-10,2017-05-19,Denver,CO,USA,74,202,1,Pitcher,TRUE
+584171,Hector Velazquez,1988-11-26,2017-05-18,Ciudad Obregon,Sonora,Mexico,72,180,1,Pitcher,FALSE
+596105,Dwight Smith,1992-10-26,2017-05-18,Peachtree City,GA,USA,72,210,7,Outfielder,FALSE
+502212,Austin Bibens-Dirkx,1985-04-29,2017-05-17,Salem,OR,USA,73,210,1,Pitcher,FALSE
+605548,Bradley Zimmer,1992-11-27,2017-05-16,San Francisco,CA,USA,76,185,8,Outfielder,TRUE
+592773,Ryne Stanek,1991-07-26,2017-05-14,St. Louis,MO,USA,76,226,1,Pitcher,TRUE
+664023,Ian Happ,1994-08-12,2017-05-13,Pittsburgh,PA,USA,72,205,8,Outfielder,TRUE
+606149,Giovanny Gallegos,1991-08-14,2017-05-12,Ciudad Obregon,Sonora,Mexico,74,215,1,Pitcher,TRUE
+543208,Sam Gaviglio,1990-05-22,2017-05-11,Ashland,OR,USA,73,215,1,Pitcher,FALSE
+518445,Chad Bell,1989-02-28,2017-05-10,Knoxville,TN,USA,75,200,1,Pitcher,FALSE
+607471,Christopher Bostick,1993-03-24,2017-05-08,Rochester,NY,USA,70,200,4,Second Base,FALSE
+642423,Magneuris Sierra,1996-04-07,2017-05-07,San Cristobal,NA,Dominican Republic,71,178,8,Outfielder,TRUE
+641871,Keynan Middleton,1993-09-12,2017-05-05,Portland,OR,USA,75,215,1,Pitcher,TRUE
+592833,Bobby Wahl,1992-03-21,2017-05-03,Alexandria,VA,USA,75,216,1,Pitcher,FALSE
+621237,Jose Alvarado,1995-05-21,2017-05-03,Maracaibo,NA,Venezuela,74,245,1,Pitcher,TRUE
+641941,Emilio Pagan,1991-05-07,2017-05-03,Simpsonville,SC,USA,74,208,1,Pitcher,TRUE
+601713,Nick Pivetta,1993-02-14,2017-04-30,Victoria,BC,Canada,77,214,1,Pitcher,TRUE
+622441,Rafael Bautista,1993-03-08,2017-04-30,Santo Domingo,NA,Dominican Republic,74,194,8,Outfielder,FALSE
+621471,Boog Powell,1993-01-14,2017-04-29,Irvine,CA,USA,70,185,O,Outfield,FALSE
+643410,Mark Leiter Jr.,1991-03-13,2017-04-28,Fort Lauderdale,FL,USA,72,195,1,Pitcher,FALSE
+547912,Gift Ngoepe,1990-01-18,2017-04-26,Pietersburg,NA,South Africa,68,200,5,Third Base,FALSE
+641355,Cody Bellinger,1995-07-13,2017-04-25,Scottsdale,AZ,USA,76,203,8,Outfielder,TRUE
+596720,Dovydas Neverauskas,1993-01-14,2017-04-24,Vilnius,NA,Lithuania,75,225,1,Pitcher,FALSE
+624414,Christian Arroyo,1995-05-30,2017-04-24,Tampa,FL,USA,73,210,4,Second Base,TRUE
+629496,Chih-Wei Hu,1993-11-04,2017-04-24,Taichung,NA,Taiwan,72,220,1,Pitcher,FALSE
+640447,Phillip Ervin,1992-07-15,2017-04-22,Mobile,AL,USA,70,207,9,Outfielder,FALSE
+593528,Jorge Bonifacio,1993-06-04,2017-04-21,Santo Domingo,NA,Dominican Republic,73,220,O,Outfield,FALSE
+591741,Jose Osuna,1992-12-12,2017-04-18,Trujillo,NA,Venezuela,74,235,5,Third Base,FALSE
+592233,Stefan Crichton,1992-02-29,2017-04-16,Houston,TX,USA,75,208,1,Pitcher,TRUE
+607219,Sal Romano,1993-10-12,2017-04-16,Syosset,NY,USA,77,255,1,Pitcher,TRUE
+592229,Dylan Covey,1991-08-14,2017-04-14,Glendale,CA,USA,73,215,1,Pitcher,FALSE
+606424,Jarlin Garcia,1993-01-18,2017-04-14,Santo Domingo,NA,Dominican Republic,75,215,1,Pitcher,TRUE
+608385,Jesse Winker,1993-08-17,2017-04-14,Buffalo,NY,USA,75,215,7,Outfielder,TRUE
+641438,Shane Carle,1991-08-30,2017-04-14,Santa Cruz,CA,USA,76,210,1,Pitcher,FALSE
+641729,Joe Jimenez,1995-01-17,2017-04-13,San Juan,NA,Puerto Rico,75,277,1,Pitcher,TRUE
+596001,Jakob Junis,1992-09-16,2017-04-12,Jacksonville,AR,USA,75,220,1,Pitcher,TRUE
+656756,Jordan Montgomery,1992-12-27,2017-04-12,Sumter,SC,USA,78,228,1,Pitcher,TRUE
+595375,JT Riddle,1991-10-12,2017-04-11,Frankfort,KY,USA,73,190,6,Shortstop,TRUE
+622666,Johan Camargo,1993-12-13,2017-04-11,Panama City,NA,Panama,72,195,4,Second Base,TRUE
+543309,Kyle Higashioka,1990-04-20,2017-04-10,Huntington Beach,CA,USA,73,202,2,Catcher,TRUE
+596271,Casey Lawrence,1987-10-28,2017-04-08,McSherrystown,PA,USA,74,170,1,Pitcher,FALSE
+623149,Paul Sewald,1990-05-26,2017-04-08,Las Vegas,NV,USA,75,207,1,Pitcher,TRUE
+623434,Mike Hauschild,1990-01-22,2017-04-08,Dayton,OH,USA,75,210,1,Pitcher,FALSE
+607237,Amir Garrett,1992-05-03,2017-04-07,Victorville,CA,USA,77,239,1,Pitcher,TRUE
+607536,Kyle Freeland,1993-05-14,2017-04-07,Denver,CO,USA,76,204,1,Pitcher,TRUE
+664701,Ben Taylor,1992-11-12,2017-04-07,Montgomery,AL,USA,75,225,1,Pitcher,FALSE
+595284,Andrew Knapp,1991-11-09,2017-04-06,Roseville,CA,USA,73,189,2,Catcher,TRUE
+606959,Rookie Davis,1993-04-29,2017-04-06,Sneads Ferry,NC,USA,77,255,1,Pitcher,FALSE
+622608,Antonio Senzatela,1995-01-21,2017-04-06,Valencia,NA,Venezuela,73,236,1,Pitcher,TRUE
+592685,Drew Robinson,1992-04-20,2017-04-05,Las Vegas,NV,USA,73,200,O,Outfield,FALSE
+595234,Justin Haley,1991-06-16,2017-04-05,Sacramento,CA,USA,77,230,1,Pitcher,FALSE
+608328,Chase De Jong,1993-12-29,2017-04-05,Long Beach,CA,USA,76,230,1,Pitcher,TRUE
+621002,Daniel Robertson,1994-03-22,2017-04-04,Upland,CA,USA,71,210,6,Shortstop,TRUE
+620443,Luis Torrens,1996-05-02,2017-04-03,Valencia,NA,Venezuela,72,208,2,Catcher,TRUE
+622766,Miguel Diaz,1994-11-28,2017-04-03,San Cristobal,NA,Dominican Republic,72,224,1,Pitcher,TRUE
+650490,Yandy Diaz,1991-08-08,2017-04-03,Sagua la Grande,NA,Cuba,74,215,3,First Base,TRUE
+643493,Austin Pruitt,1989-08-31,2017-04-02,The Woodlands,TX,USA,70,185,1,Pitcher,FALSE
+571851,Spencer Kieboom,1991-03-16,2016-10-02,Mount Pleasant,SC,USA,72,210,2,Catcher,FALSE
+592644,Adam Plutko,1991-10-03,2016-09-24,Upland,CA,USA,75,215,1,Pitcher,TRUE
+592669,Hunter Renfroe,1992-01-28,2016-09-21,Crystal Springs,MS,USA,73,230,9,Outfielder,TRUE
+622534,Manuel Margot,1994-09-28,2016-09-21,San Cristobal,NA,Dominican Republic,71,180,9,Outfielder,TRUE
+641319,Carlos Asuaje,1991-11-02,2016-09-21,Barquisimeto,NA,Venezuela,69,158,4,Second Base,FALSE
+641820,Trey Mancini,1992-03-18,2016-09-20,Winter Haven,FL,USA,75,230,3,First Base,TRUE
+547004,Rio Ruiz,1994-05-22,2016-09-18,Covina,CA,USA,74,220,4,Second Base,TRUE
+595751,Jorge Alfaro,1993-06-11,2016-09-12,Sincelejo,NA,Colombia,75,230,2,Catcher,TRUE
+596129,Daniel Vogelbach,1992-12-17,2016-09-12,Orlando,FL,USA,72,270,3,First Base,TRUE
+600524,Renato Nunez,1994-04-04,2016-09-12,Valencia,NA,Venezuela,73,220,3,First Base,TRUE
+621566,Matt Olson,1994-03-29,2016-09-12,Atlanta,GA,USA,77,225,3,First Base,TRUE
+641531,Hunter Dozier,1991-08-22,2016-09-12,Wichita Falls,TX,USA,76,220,5,Third Base,TRUE
+570257,Joely Rodriguez,1991-11-14,2016-09-11,Santo Domingo,NA,Dominican Republic,73,200,1,Pitcher,TRUE
+596451,Roman Quinn,1993-05-14,2016-09-11,Port St Joe,FL,USA,70,175,8,Outfielder,TRUE
+571863,Matt Koch,1990-11-02,2016-09-09,Cherokee,IA,USA,75,215,1,Pitcher,FALSE
+641838,Kevin McCarthy,1992-02-22,2016-09-09,Rockville Centre,NY,USA,75,210,1,Pitcher,FALSE
+600944,David Paulino,1994-02-06,2016-09-08,Nizao,NA,Dominican Republic,78,240,1,Pitcher,FALSE
+608566,German Marquez,1995-02-22,2016-09-08,San Felix,NA,Venezuela,73,230,1,Pitcher,TRUE
+641958,Jordan Patterson,1992-02-12,2016-09-08,Mobile,AL,USA,76,227,9,Outfielder,FALSE
+592866,Trevor Williams,1992-04-25,2016-09-07,San Diego,CA,USA,75,235,1,Pitcher,TRUE
+500874,Jose Martinez,1988-07-25,2016-09-06,La Guaira,NA,Venezuela,78,215,3,First Base,FALSE
+642162,Pat Valaika,1992-09-09,2016-09-06,Valencia,CA,USA,72,200,4,Second Base,TRUE
+608348,Carson Kelly,1994-07-14,2016-09-05,Chicago,IL,USA,74,212,2,Catcher,TRUE
+621389,Ty Blach,1990-10-20,2016-09-05,Denver,CO,USA,73,213,1,Pitcher,FALSE
+622795,Yohander Mendez,1995-01-17,2016-09-05,Valencia,NA,Venezuela,77,200,1,Pitcher,FALSE
+592254,Jose De Leon,1992-08-07,2016-09-04,Isabela,NA,Puerto Rico,74,215,1,Pitcher,TRUE
+593974,Wandy Peralta,1991-07-27,2016-09-04,San Francisco de Macoris,NA,Dominican Republic,72,217,1,Pitcher,TRUE
+571616,Matt Dermody,1990-07-04,2016-09-03,Norwalk,IA,USA,77,190,1,Pitcher,FALSE
+572086,Brady Rodgers,1990-09-17,2016-09-03,Richmond,TX,USA,74,210,1,Pitcher,FALSE
+573009,Joe Mantiply,1991-03-01,2016-09-03,Danville,VA,USA,76,219,1,Pitcher,TRUE
+492802,Juan Graterol,1989-02-14,2016-09-02,Maracay,NA,Venezuela,73,205,2,Catcher,FALSE
+582494,Robby Scott,1989-08-29,2016-09-02,Miami,FL,USA,75,220,1,Pitcher,FALSE
+606132,Raimel Tapia,1994-02-04,2016-09-02,San Pedro de Macoris,NA,Dominican Republic,75,175,7,Outfielder,TRUE
+656547,Jonathan Holder,1993-06-09,2016-09-02,Gulfport,MS,USA,74,232,1,Pitcher,FALSE
+573668,Juan Minaya,1990-09-18,2016-09-01,Maimon,NA,Dominican Republic,76,210,1,Pitcher,TRUE
+607345,Kevan Smith,1988-06-28,2016-09-01,Pittsburgh,PA,USA,76,230,2,Catcher,TRUE
+621563,Joey Wendle,1990-04-26,2016-08-31,Wilmington,DE,USA,73,195,5,Third Base,TRUE
+592444,JaCoby Jones,1992-05-10,2016-08-30,Chickasha,OK,USA,74,211,8,Outfielder,TRUE
+656186,Dan Altavilla,1992-09-08,2016-08-27,McKeesport,PA,USA,71,226,1,Pitcher,TRUE
+621294,Ben Heller,1991-08-05,2016-08-26,Milwaukee,WI,USA,75,210,1,Pitcher,FALSE
+607229,Robert Gsellman,1993-07-18,2016-08-23,Santa Monica,CA,USA,76,200,1,Pitcher,TRUE
+493329,Yuli Gurriel,1984-06-09,2016-08-21,Sancti Spiritus,NA,Cuba,72,215,3,First Base,TRUE
+592170,Parker Bridwell,1991-08-02,2016-08-21,Hereford,TX,USA,76,185,1,Pitcher,FALSE
+606167,Adalberto Mejia,1993-06-20,2016-08-20,Bonao,NA,Dominican Republic,75,195,1,Pitcher,FALSE
+623182,Patrick Kivlehan,1989-12-22,2016-08-20,Nyack,NY,USA,74,215,O,Outfield,TRUE
+640461,Chad Pinder,1992-03-29,2016-08-20,Richmond,VA,USA,74,210,7,Outfielder,TRUE
+656546,Jeff Hoffman,1993-01-08,2016-08-20,Latham,NY,USA,77,235,1,Pitcher,TRUE
+519294,Josh Smoker,1988-11-26,2016-08-19,Calhoun,GA,USA,73,232,1,Pitcher,FALSE
+570240,Felix Pena,1990-02-25,2016-08-19,San Pedro de Macoris,NA,Dominican Republic,74,220,1,Pitcher,TRUE
+608718,Brent Suter,1989-08-29,2016-08-19,Chicago,IL,USA,76,213,1,Pitcher,TRUE
+642239,Rob Zastryzny,1992-03-26,2016-08-19,Edmonton,AB,Canada,75,205,1,Pitcher,FALSE
+621020,Dansby Swanson,1994-02-11,2016-08-17,Kennesaw,GA,USA,73,190,6,Shortstop,TRUE
+571745,Mitch Haniger,1990-12-23,2016-08-16,Mountain View,CA,USA,74,213,9,Outfielder,TRUE
+592122,Tyler Austin,1991-09-06,2016-08-13,Conyers,GA,USA,74,220,3,First Base,FALSE
+592450,Aaron Judge,1992-04-26,2016-08-13,Linden,CA,USA,79,282,9,Outfielder,TRUE
+593679,Gabriel Ynoa,1993-05-26,2016-08-13,La Vega,NA,Dominican Republic,74,205,1,Pitcher,FALSE
+596133,Luke Weaver,1993-08-21,2016-08-13,DeLand,FL,USA,74,183,1,Pitcher,TRUE
+571539,Matt Carasiti,1991-07-23,2016-08-12,New Britain,CT,USA,75,210,1,Pitcher,FALSE
+592169,Austin Brice,1992-06-19,2016-08-12,Hong Kong,NA,China,76,238,1,Pitcher,TRUE
+606192,Teoscar Hernandez,1992-10-15,2016-08-12,Cotui,NA,Dominican Republic,74,205,9,Outfielder,TRUE
+594311,Jandel Gustave,1992-10-12,2016-08-11,Pimentel,NA,Dominican Republic,74,210,1,Pitcher,FALSE
+621052,Alex Reyes,1994-08-29,2016-08-09,Elizabeth,NJ,USA,76,220,1,Pitcher,TRUE
+571718,Brian Goodwin,1990-11-02,2016-08-06,Rocky Mount,NC,USA,72,200,7,Outfielder,FALSE
+622097,Jake Thompson,1994-01-31,2016-08-06,Dallas,TX,USA,76,225,1,Pitcher,FALSE
+547007,Rob Whalen,1994-01-31,2016-08-03,Stroudsburg,PA,USA,74,220,1,Pitcher,FALSE
+624586,James Hoyt,1986-09-30,2016-08-03,Boise,ID,USA,78,230,1,Pitcher,TRUE
+573113,Tony Renda,1991-01-24,2016-08-02,Hillsborough,CA,USA,68,179,4,Second Base,FALSE
+592130,Danny Barnes,1989-10-21,2016-08-02,Manhasset,NY,USA,73,215,1,Pitcher,FALSE
+605397,Joe Musgrove,1992-12-04,2016-08-02,El Cajon,CA,USA,77,230,1,Pitcher,TRUE
+605508,Charlie Tilson,1992-12-02,2016-08-02,Wilmette,IL,USA,72,185,9,Outfielder,FALSE
+606115,Orlando Arcia,1994-08-04,2016-08-02,Anaco,NA,Venezuela,72,187,6,Shortstop,TRUE
+643217,Andrew Benintendi,1994-07-06,2016-08-02,Cincinnati,OH,USA,69,180,7,Outfielder,TRUE
+621381,Matt Strahm,1991-11-12,2016-07-31,West Fargo,ND,USA,74,190,1,Pitcher,FALSE
+621559,Max Moroff,1993-05-13,2016-07-31,Winter Park,FL,USA,70,190,4,Second Base,TRUE
+602922,Jose Rondon,1994-03-03,2016-07-29,Villa de Cura,NA,Venezuela,73,215,6,Shortstop,TRUE
+628338,Guillermo Heredia,1991-01-31,2016-07-29,Matanzas,NA,Cuba,70,195,8,Outfielder,TRUE
+609275,Adalberto Mondesi,1995-07-27,2016-07-26,Los Angeles,CA,USA,73,200,6,Shortstop,TRUE
+608324,Alex Bregman,1994-03-30,2016-07-25,Albuquerque,NM,USA,72,192,5,Third Base,TRUE
+621311,David Dahl,1994-04-01,2016-07-25,Birmingham,AL,USA,74,197,7,Outfielder,TRUE
+640463,Braden Shipley,1992-02-22,2016-07-25,Medford,OR,USA,73,190,1,Pitcher,FALSE
+594577,Mike Mayers,1991-12-06,2016-07-24,Grove City,OH,USA,74,220,1,Pitcher,TRUE
+622194,Bruce Maxwell,1990-12-20,2016-07-23,Weisbaden,NA,Germany,73,250,2,Catcher,FALSE
+594795,Grant Dayton,1987-11-25,2016-07-22,Huntsville,AL,USA,74,210,1,Pitcher,TRUE
+606983,Koda Glover,1993-04-13,2016-07-20,Monroe,OK,USA,77,215,1,Pitcher,FALSE
+625643,Reynaldo Lopez,1994-01-04,2016-07-19,San Pedro de Macoris,NA,Dominican Republic,73,220,1,Pitcher,FALSE
+502273,Mike Freeman,1987-08-04,2016-07-17,Orlando,FL,USA,72,195,4,Second Base,TRUE
+553882,Omar Narvaez,1992-02-10,2016-07-17,Maracay,NA,Venezuela,71,220,2,Catcher,TRUE
+608334,Carson Fulmer,1993-12-13,2016-07-17,Lakeland,FL,USA,72,210,1,Pitcher,TRUE
+643354,Donnie Hart,1990-09-06,2016-07-17,Bedford,TX,USA,71,180,1,Pitcher,FALSE
+570481,Erik Gonzalez,1991-08-31,2016-07-16,Puerto Plata,NA,Dominican Republic,75,205,5,Third Base,TRUE
+571473,Buddy Baumann,1987-12-09,2016-07-16,Chicago,IL,USA,71,198,1,Pitcher,FALSE
+592387,Ryon Healy,1992-01-10,2016-07-15,West Hills,CA,USA,76,230,5,Third Base,FALSE
+592808,Andrew Toles,1992-05-24,2016-07-08,Decatur,GA,USA,69,192,7,Outfielder,FALSE
+605137,Josh Bell,1992-08-14,2016-07-08,Irving,TX,USA,76,255,3,First Base,TRUE
+571670,Dylan Floro,1990-12-27,2016-07-07,Merced,CA,USA,74,203,1,Pitcher,TRUE
+607192,Tyler Glasnow,1993-08-23,2016-07-07,Newhall,CA,USA,80,225,1,Pitcher,TRUE
+600917,Jose Leclerc,1993-12-19,2016-07-06,Esperanza,NA,Dominican Republic,72,195,1,Pitcher,FALSE
+572044,Brooks Pounders,1990-09-26,2016-07-05,Riverside,CA,USA,77,265,1,Pitcher,FALSE
+643230,Steven Brault,1992-04-29,2016-07-05,La Mesa,CA,USA,72,195,1,Pitcher,FALSE
+600869,Jeimer Candelario,1993-11-24,2016-07-03,New York,NY,USA,73,216,5,Third Base,TRUE
+664641,Ariel Miranda,1989-01-10,2016-07-03,Havana,NA,Cuba,74,190,1,Pitcher,FALSE
+596049,Shawn Morimando,1992-11-20,2016-07-02,Canandaigua,NY,USA,72,206,1,Pitcher,TRUE
+607625,Seth Lugo,1989-11-17,2016-07-01,Shreveport,LA,USA,76,225,1,Pitcher,TRUE
+592779,Brock Stewart,1991-10-03,2016-06-29,Normal,IL,USA,75,215,1,Pitcher,FALSE
+608337,Lucas Giolito,1994-07-14,2016-06-28,Santa Monica,CA,USA,78,245,1,Pitcher,TRUE
+607043,Brandon Nimmo,1993-03-27,2016-06-26,Cheyenne,WY,USA,75,206,8,Outfielder,TRUE
+641771,Chad Kuhl,1992-09-10,2016-06-26,Newark,DE,USA,75,205,1,Pitcher,TRUE
+607223,AJ Reed,1993-05-10,2016-06-25,Terre Haute,IN,USA,76,275,3,First Base,FALSE
+591693,Edubray Ramos,1992-12-19,2016-06-24,Caracas,NA,Venezuela,72,160,1,Pitcher,FALSE
+624428,Adam Frazier,1991-12-14,2016-06-24,Athens,GA,USA,70,185,4,Second Base,TRUE
+607732,Jacob Stallings,1989-12-22,2016-06-19,Lawrence,KS,USA,77,225,2,Catcher,TRUE
+592716,Adrian Sampson,1991-10-07,2016-06-18,Redmond,WA,USA,74,210,1,Pitcher,FALSE
+642003,Cody Reed,1993-04-15,2016-06-18,Memphis,TN,USA,77,230,1,Pitcher,TRUE
+575929,Willson Contreras,1992-05-13,2016-06-17,Puerto Cabello,NA,Venezuela,73,225,2,Catcher,TRUE
+572114,Ryan Schimpf,1988-04-11,2016-06-14,New Orleans,LA,USA,69,180,5,Third Base,FALSE
+621107,Zach Eflin,1994-04-08,2016-06-14,Orlando,FL,USA,78,220,1,Pitcher,TRUE
+542881,Tyler Anderson,1989-12-30,2016-06-12,Las Vegas,NV,USA,74,220,1,Pitcher,TRUE
+596043,Daniel Mengden,1993-02-19,2016-06-11,Houston,TX,USA,73,215,1,Pitcher,FALSE
+608638,JT Chargois,1990-12-03,2016-06-11,Sulphur,LA,USA,75,200,1,Pitcher,TRUE
+641501,Tyler Danish,1994-09-12,2016-06-11,Brandon,FL,USA,72,200,1,Pitcher,FALSE
+641313,Tim Anderson,1993-06-23,2016-06-10,Tuscaloosa,AL,USA,73,185,6,Shortstop,TRUE
+592791,Jameson Taillon,1991-11-18,2016-06-08,Lakeland,FL,USA,77,230,1,Pitcher,TRUE
+546991,Albert Almora Jr.,1994-04-16,2016-06-07,Hialeah,FL,USA,74,190,8,Outfielder,TRUE
+621242,Edwin Diaz,1994-03-22,2016-06-06,Naguabo,NA,Puerto Rico,75,165,1,Pitcher,TRUE
+606930,Jacob Barnes,1990-04-14,2016-06-03,St. Petersburg,FL,USA,74,231,1,Pitcher,TRUE
+542947,Richard Bleier,1987-04-16,2016-05-30,Miami Beach,FL,USA,75,215,1,Pitcher,TRUE
+608717,Chris Stratton,1990-08-22,2016-05-30,Tupelo,MS,USA,74,205,1,Pitcher,TRUE
+518649,Brett Eibner,1988-12-02,2016-05-27,San Diego,CA,USA,76,215,1,Pitcher,FALSE
+628711,Julio Urias,1996-08-12,2016-05-27,Culiacan Rosales,Sinaloa,Mexico,72,225,1,Pitcher,TRUE
+623439,Ryan Garton,1989-12-05,2016-05-26,Clearwater,FL,USA,70,190,1,Pitcher,FALSE
+571841,Ty Kelly,1988-07-20,2016-05-24,Dallas,TX,USA,72,180,4,Second Base,FALSE
+592567,Colin Moran,1992-10-01,2016-05-18,Port Chester,NY,USA,76,225,3,First Base,TRUE
+593160,Whit Merrifield,1989-01-24,2016-05-18,Florence,SC,USA,73,195,4,Second Base,TRUE
+605182,Mike Clevinger,1990-12-21,2016-05-18,Jacksonville,FL,USA,76,215,1,Pitcher,FALSE
+621219,Alec Mills,1991-11-30,2016-05-18,Clarksville,TN,USA,76,205,1,Pitcher,TRUE
+594027,Tayron Guerrero,1991-01-09,2016-05-17,Bocachica,NA,Colombia,80,210,1,Pitcher,FALSE
+608703,Matt Reynolds,1990-12-03,2016-05-17,Tulsa,OK,USA,73,200,6,Shortstop,FALSE
+643393,Tony Kemp,1991-10-31,2016-05-17,Franklin,TN,USA,66,160,4,Second Base,TRUE
+593700,Alen Hanson,1992-10-22,2016-05-16,La Romana,NA,Dominican Republic,72,170,4,Second Base,FALSE
+600301,Taylor Motter,1989-09-18,2016-05-16,West Palm Beach,FL,USA,73,195,6,Shortstop,FALSE
+643338,Chad Green,1991-05-24,2016-05-16,Greenville,SC,USA,75,215,1,Pitcher,TRUE
+518883,Dean Kiekhefer,1989-06-07,2016-05-14,Louisville,KY,USA,72,175,1,Pitcher,FALSE
+599683,Warwick Saupold,1990-01-16,2016-05-14,Perth,NA,Australia,74,223,1,Pitcher,FALSE
+456713,Matt Bush,1986-02-08,2016-05-13,San Diego,CA,USA,69,180,1,Pitcher,TRUE
+594943,Zach Neal,1988-11-09,2016-05-11,Columbia,SC,USA,75,220,1,Pitcher,FALSE
+605525,J.B. Wendelken,1993-03-24,2016-05-08,Savannah,GA,USA,73,242,1,Pitcher,TRUE
+592325,Ben Gamel,1992-05-17,2016-05-06,Neptune Beach,FL,USA,71,177,7,Outfielder,TRUE
+657205,Zac Curtis,1992-07-04,2016-04-30,Panama City Beach,FL,USA,69,190,1,Pitcher,FALSE
+605242,Michael Fulmer,1993-03-15,2016-04-29,Oklahoma City,OK,USA,75,224,1,Pitcher,TRUE
+640455,Sean Manaea,1992-02-01,2016-04-29,Valparaiso,IN,USA,77,245,1,Pitcher,TRUE
+621244,Jose Berrios,1994-05-27,2016-04-27,Bayamon,NA,Puerto Rico,72,205,1,Pitcher,TRUE
+592811,Andrew Triggs,1989-03-16,2016-04-25,Nashville,TN,USA,76,233,1,Pitcher,FALSE
+605483,Blake Snell,1992-12-04,2016-04-23,Seattle,WA,USA,76,225,1,Pitcher,TRUE
+608032,Carlos Estevez,1992-12-28,2016-04-23,Santo Domingo,NA,Dominican Republic,78,277,1,Pitcher,TRUE
+571035,William Cuevas,1990-10-14,2016-04-21,Caracas,NA,Venezuela,74,215,1,Pitcher,FALSE
+595345,Steven Okert,1991-07-09,2016-04-19,Riverside,CA,USA,74,202,1,Pitcher,FALSE
+621295,Nick Wittgren,1991-05-29,2016-04-19,Torrance,CA,USA,74,216,1,Pitcher,TRUE
+593523,Marco Hernandez,1992-09-06,2016-04-17,Santiago,NA,Dominican Republic,72,200,4,Second Base,FALSE
+571882,Derek Law,1990-09-14,2016-04-15,Pittsburgh,PA,USA,75,225,1,Pitcher,TRUE
+573124,Taylor Rogers,1990-12-17,2016-04-14,Denver,CO,USA,75,190,1,Pitcher,TRUE
+605480,Mallex Smith,1993-05-06,2016-04-11,Tallahassee,FL,USA,70,180,8,Outfielder,FALSE
+543532,Tim Melville,1989-10-09,2016-04-10,Alexandria,VA,USA,76,225,1,Pitcher,FALSE
+608577,Nomar Mazara,1995-04-26,2016-04-10,Santo Domingo,NA,Dominican Republic,76,224,9,Outfielder,TRUE
+548389,Ross Stripling,1989-11-23,2016-04-08,Bluebell,PA,USA,75,220,1,Pitcher,TRUE
+570666,Luis Cessa,1992-04-25,2016-04-08,Cordoba,Veracruz,Mexico,72,208,1,Pitcher,TRUE
+606965,Chris Devenski,1990-11-13,2016-04-08,Cerritos,CA,USA,75,211,1,Pitcher,TRUE
+607352,Joe Biagini,1990-05-29,2016-04-08,Menlo Park,CA,USA,77,235,1,Pitcher,FALSE
+596112,Robert Stephenson,1993-02-24,2016-04-07,Martinez,CA,USA,75,205,1,Pitcher,TRUE
+621385,Daniel Stumpf,1991-01-04,2016-04-07,Humble,TX,USA,74,208,1,Pitcher,FALSE
+607231,John Gant,1992-08-06,2016-04-06,Savannah,GA,USA,76,200,1,Pitcher,TRUE
+621199,Matt Bowman,1991-05-31,2016-04-06,Chevy Chase,MD,USA,72,185,1,Pitcher,FALSE
+628317,Kenta Maeda,1988-04-11,2016-04-06,Osaka,NA,Japan,73,185,1,Pitcher,TRUE
+501817,Tony Barnette,1983-11-09,2016-04-05,Anchorage,AK,USA,73,190,1,Pitcher,FALSE
+547172,Tony Wolters,1992-06-09,2016-04-05,Vista,CA,USA,70,195,2,Catcher,TRUE
+571980,Tyler Naquin,1991-04-24,2016-04-05,Spring,TX,USA,74,195,8,Outfielder,TRUE
+592127,Johnny Barbato,1992-07-11,2016-04-05,Miami,FL,USA,73,231,1,Pitcher,FALSE
+596847,Ji-Man Choi,1991-05-19,2016-04-05,Incheon,NA,South Korea,73,260,3,First Base,TRUE
+643603,Tyler White,1990-10-29,2016-04-05,Mooresboro,NC,USA,71,225,3,First Base,FALSE
+649557,Aledmys Diaz,1990-08-01,2016-04-05,Santa Clara,NA,Cuba,73,195,4,Second Base,TRUE
+518466,Jabari Blash,1989-07-04,2016-04-04,St. Thomas,VI,USA,77,235,9,Outfielder,FALSE
+545332,Jake Barrett,1991-07-22,2016-04-04,Upland,CA,USA,74,240,1,Pitcher,FALSE
+572073,Joey Rickard,1991-05-21,2016-04-04,Las Vegas,NV,USA,72,192,9,Outfielder,FALSE
+596115,Trevor Story,1992-11-15,2016-04-04,Irving,TX,USA,74,213,6,Shortstop,TRUE
+606131,Luis Perdomo,1993-05-09,2016-04-04,Santo Domingo,NA,Dominican Republic,74,201,1,Pitcher,FALSE
+493200,Seunghwan Oh,1982-07-15,2016-04-03,Jeongeup,NA,South Korea,70,205,1,Pitcher,FALSE
+596142,Gary Sanchez,1992-12-02,2015-10-03,Santo Domingo,NA,Dominican Republic,74,230,2,Catcher,TRUE
+605347,Jorge Lopez,1993-02-10,2015-09-29,Caguas,NA,Puerto Rico,75,200,1,Pitcher,TRUE
+596146,Max Kepler,1993-02-10,2015-09-27,Berlin,NA,Germany,76,225,9,Outfielder,TRUE
+605288,Adrian Houser,1993-02-02,2015-09-26,Tahlequah,OK,USA,75,222,1,Pitcher,TRUE
+605439,Michael Reed,1992-11-18,2015-09-26,Maplewood,MN,USA,72,215,8,Outfielder,FALSE
+607776,Mac Williamson,1990-07-15,2015-09-23,Jacksonville,FL,USA,76,237,7,Outfielder,FALSE
+592680,Yadiel Rivera,1992-05-02,2015-09-22,Caguas,NA,Puerto Rico,75,190,5,Third Base,FALSE
+542979,Keon Broxton,1990-05-07,2015-09-21,Lakeland,FL,USA,75,195,8,Outfielder,FALSE
+595465,Dan Winkler,1990-02-02,2015-09-21,Effingham,IL,USA,75,205,1,Pitcher,TRUE
+600474,Pedro Severino,1993-07-20,2015-09-20,Bonao,NA,Dominican Republic,73,235,2,Catcher,TRUE
+542908,Jett Bandy,1990-03-26,2015-09-14,West Hills,CA,USA,76,235,2,Catcher,FALSE
+543351,Jay Jackson,1987-10-27,2015-09-14,Greenville,SC,USA,73,195,1,Pitcher,FALSE
+591720,Ronald Torreyes,1992-09-02,2015-09-13,Libertador de Barinas,NA,Venezuela,68,155,6,Shortstop,TRUE
+553869,Elias Diaz,1990-11-17,2015-09-12,Maracaibo,NA,Venezuela,73,223,2,Catcher,TRUE
+608596,Tom Murphy,1991-04-03,2015-09-12,West Monroe,NY,USA,73,218,2,Catcher,TRUE
+598284,Peter O'Brien,1990-07-15,2015-09-11,Hialeah,FL,USA,76,235,O,Outfield,FALSE
+571467,Steven Baron,1990-12-07,2015-09-09,Miami,FL,USA,72,205,2,Catcher,FALSE
+543901,Ryan Weber,1990-08-12,2015-09-08,St. Petersburg,FL,USA,73,175,1,Pitcher,FALSE
+593647,Socrates Brito,1992-09-06,2015-09-08,Azua,NA,Dominican Republic,74,220,9,Outfielder,FALSE
+605218,Carl Edwards Jr.,1991-09-03,2015-09-07,Newberry,SC,USA,75,170,1,Pitcher,TRUE
+502570,Rocky Gale,1988-02-22,2015-09-06,Portland,OR,USA,73,185,2,Catcher,FALSE
+572021,James Pazos,1991-05-05,2015-09-05,Gilbert,AZ,USA,74,252,1,Pitcher,FALSE
+592426,Luke Jackson,1991-08-24,2015-09-04,Fort Lauderdale,FL,USA,74,210,1,Pitcher,TRUE
+608369,Corey Seager,1994-04-27,2015-09-03,Charlotte,NC,USA,76,215,6,Shortstop,TRUE
+518397,Scott Alexander,1989-07-10,2015-09-02,Santa Rosa,CA,USA,74,195,1,Pitcher,TRUE
+593423,Frankie Montas,1993-03-21,2015-09-02,Sainagua,NA,Dominican Republic,74,255,1,Pitcher,TRUE
+605200,Zach Davies,1993-02-07,2015-09-02,Puyallup,WA,USA,72,180,1,Pitcher,TRUE
+571912,Luke Maile,1991-02-06,2015-09-01,Edgewood,KY,USA,75,225,2,Catcher,TRUE
+592273,Brandon Drury,1992-08-21,2015-09-01,Grants Pass,OR,USA,74,230,5,Third Base,TRUE
+602083,Miguel Almonte,1993-04-04,2015-09-01,Santiago,NA,Dominican Republic,73,210,1,Pitcher,FALSE
+623430,Ryan Dull,1989-10-02,2015-09-01,Winston-Salem,NC,USA,69,185,1,Pitcher,FALSE
+594742,Alec Asher,1991-10-04,2015-08-30,Lakeland,FL,USA,76,240,1,Pitcher,FALSE
+611093,Silvino Bracho,1992-07-17,2015-08-30,Maracaibo,NA,Venezuela,70,190,1,Pitcher,FALSE
+543308,John Hicks,1989-08-31,2015-08-29,Richmond,VA,USA,74,230,2,Catcher,FALSE
+534606,Ryan LaMarre,1988-11-21,2015-08-22,Royal Oak,MI,USA,73,215,O,Outfield,TRUE
+595191,Jerad Eickhoff,1990-07-02,2015-08-21,Evansville,IN,USA,76,246,1,Pitcher,FALSE
+607208,Trea Turner,1993-06-30,2015-08-21,Boynton Beach,FL,USA,74,185,6,Shortstop,TRUE
+608671,Travis Jankowski,1991-06-15,2015-08-21,Lancaster,PA,USA,74,190,7,Outfielder,TRUE
+572182,Darnell Sweeney,1991-02-01,2015-08-20,Hollywood,FL,USA,73,205,4,Second Base,FALSE
+572863,Dustin Garneau,1987-08-13,2015-08-20,San Pedro,CA,USA,74,205,2,Catcher,FALSE
+592230,Kaleb Cowart,1992-06-02,2015-08-18,Adel,GA,USA,75,225,5,Third Base,FALSE
+543424,John Lamb,1990-07-10,2015-08-14,La Palma,CA,USA,76,205,1,Pitcher,FALSE
+595885,Greg Bird,1992-11-09,2015-08-13,Memphis,TN,USA,76,220,3,First Base,FALSE
+607067,Colin Rea,1990-07-01,2015-08-11,Cascade,IA,USA,77,235,1,Pitcher,FALSE
+606299,Jose Peraza,1994-04-30,2015-08-10,Barinas,NA,Venezuela,72,210,4,Second Base,TRUE
+542888,Shawn Armstrong,1990-09-11,2015-08-08,New Bern,NC,USA,74,225,1,Pitcher,TRUE
+607457,Kyle Barraclough,1990-05-23,2015-08-07,Santa Clara,CA,USA,75,225,1,Pitcher,FALSE
+543105,Alex Dickerson,1990-05-26,2015-08-06,Poway,CA,USA,74,226,7,Outfielder,TRUE
+608648,Tyler Duffey,1990-12-27,2015-08-05,Houston,TX,USA,75,220,1,Pitcher,TRUE
+622663,Luis Severino,1994-02-20,2015-08-05,Sabana de la Mar,NA,Dominican Republic,74,215,1,Pitcher,FALSE
+572204,Trayce Thompson,1991-03-15,2015-08-04,Los Angeles,CA,USA,75,220,9,Outfielder,FALSE
+592351,Jon Gray,1991-11-05,2015-08-04,Shawnee,OK,USA,76,225,1,Pitcher,TRUE
+605509,Kelby Tomlinson,1990-06-16,2015-08-03,Chickasha,OK,USA,74,175,6,Shortstop,FALSE
+572308,Jose A. Valdez,1990-03-01,2015-07-31,Don Gregorio de Nizao,NA,Dominican Republic,71,210,1,Pitcher,FALSE
+606466,Ketel Marte,1993-10-12,2015-07-31,Nizao,NA,Dominican Republic,73,210,8,Outfielder,TRUE
+580792,Nick Goody,1991-07-06,2015-07-30,Orlando,FL,USA,71,200,1,Pitcher,FALSE
+624424,Michael Conforto,1993-03-01,2015-07-24,Seattle,WA,USA,73,215,9,Outfielder,TRUE
+643327,Zack Godley,1990-04-21,2015-07-23,Bamberg,SC,USA,75,250,1,Pitcher,TRUE
+572039,Stephen Piscotty,1991-01-14,2015-07-21,Pleasanton,CA,USA,76,211,9,Outfielder,TRUE
+598271,Brian Johnson,1990-12-07,2015-07-21,Lakeland,FL,USA,76,235,1,Pitcher,FALSE
+605400,Aaron Nola,1993-06-04,2015-07-21,Baton Rouge,LA,USA,74,200,1,Pitcher,TRUE
+591712,Oscar Hernandez,1993-07-09,2015-07-12,Punto de Fijo,NA,Venezuela,73,230,2,Catcher,FALSE
+608701,Rob Refsnyder,1991-03-26,2015-07-11,Seoul,NA,South Korea,72,205,8,Outfielder,TRUE
+573135,Tyler Saladino,1989-07-20,2015-07-10,San Diego,CA,USA,72,200,6,Shortstop,FALSE
+594951,Ryan O'Rourke,1988-04-30,2015-07-07,Worcester,MA,USA,75,230,1,Pitcher,FALSE
+596144,Cheslor Cuthbert,1992-11-16,2015-07-07,Corn Island,NA,Nicaragua,73,205,5,Third Base,FALSE
+527043,Jefry Marte,1991-06-21,2015-07-05,La Romana,NA,Dominican Republic,73,220,3,First Base,FALSE
+592612,Josh Osich,1988-09-03,2015-07-03,Boise,ID,USA,74,235,1,Pitcher,FALSE
+598287,Noe Ramirez,1989-12-22,2015-07-03,Los Angeles,CA,USA,75,205,1,Pitcher,TRUE
+544365,Manny Banuelos,1991-03-13,2015-07-02,Gomez Palacio,Durango,Mexico,70,215,1,Pitcher,FALSE
+593934,Miguel Sano,1993-05-11,2015-07-02,San Pedro de Macoris,NA,Dominican Republic,76,272,3,First Base,TRUE
+571918,Deven Marrero,1990-08-25,2015-06-28,Miami,FL,USA,72,190,5,Third Base,FALSE
+571927,Steven Matz,1991-05-29,2015-06-28,Stony Brook,NY,USA,74,201,1,Pitcher,TRUE
+500610,Deolis Guerra,1989-04-17,2015-06-27,San Felix,NA,Venezuela,77,245,1,Pitcher,TRUE
+571510,Matthew Boyd,1991-02-02,2015-06-27,Mercer Island,WA,USA,75,223,1,Pitcher,TRUE
+571710,Mychal Givens,1990-05-13,2015-06-24,Tampa,FL,USA,72,230,1,Pitcher,TRUE
+592705,Nick Rumbelow,1991-09-06,2015-06-23,Bullard,TX,USA,72,190,1,Pitcher,FALSE
+595001,Josh A. Smith,1987-08-07,2015-06-23,Margate,FL,USA,74,210,1,Pitcher,FALSE
+594736,Cody Anderson,1990-09-14,2015-06-21,Quincy,CA,USA,76,240,1,Pitcher,FALSE
+605388,Adam Morgan,1990-02-27,2015-06-21,Tampa,FL,USA,73,200,1,Pitcher,FALSE
+605538,Matt Wisler,1992-09-12,2015-06-19,Bryan,OH,USA,75,215,1,Pitcher,TRUE
+592570,Akeel Morris,1992-11-14,2015-06-17,St. Thomas,NA,U.S. Virgin Islands,73,205,1,Pitcher,FALSE
+593495,Daniel Castro,1992-11-14,2015-06-17,Guaymas,Sonora,Mexico,71,201,6,Shortstop,FALSE
+656941,Kyle Schwarber,1993-03-05,2015-06-16,Middletown,OH,USA,72,229,7,Outfielder,TRUE
+596019,Francisco Lindor,1993-11-14,2015-06-14,Caguas,NA,Puerto Rico,71,190,6,Shortstop,TRUE
+621439,Byron Buxton,1993-12-18,2015-06-14,Baxley,GA,USA,74,190,8,Outfielder,TRUE
+641627,Trevor Gott,1992-08-26,2015-06-14,Lexington,KY,USA,70,182,1,Pitcher,TRUE
+592620,Jarrett Parker,1989-01-01,2015-06-13,Fort Belvoir,VA,USA,76,225,7,Outfielder,FALSE
+448855,Junior Guerra,1985-01-16,2015-06-12,San Felix,NA,Venezuela,72,235,1,Pitcher,TRUE
+592863,Mason Williams,1991-08-21,2015-06-12,Pawtucket,RI,USA,73,195,7,Outfielder,TRUE
+543045,Adam Conley,1990-05-24,2015-06-10,Redmond,WA,USA,75,209,1,Pitcher,FALSE
+592826,Vince Velasquez,1992-06-07,2015-06-10,Montclair,CA,USA,75,212,1,Pitcher,TRUE
+570482,Gio Urshela,1991-10-11,2015-06-09,Cartagena,NA,Colombia,72,215,5,Third Base,TRUE
+621043,Carlos Correa,1994-09-22,2015-06-08,Ponce,NA,Puerto Rico,76,220,6,Shortstop,TRUE
+605452,Joe Ross,1993-05-21,2015-06-06,Berkeley,CA,USA,76,223,1,Pitcher,TRUE
+519381,Pat Venditte,1985-06-30,2015-06-05,Omaha,NE,USA,72,186,1,Pitcher,FALSE
+594988,Scott Schebler,1990-10-06,2015-06-05,Cedar Rapids,IA,USA,73,228,8,Outfielder,TRUE
+502051,Josh Ravin,1988-01-21,2015-06-02,West Hills,CA,USA,76,215,1,Pitcher,FALSE
+543557,Mike Montgomery,1989-07-01,2015-06-02,Mission Hills,CA,USA,77,220,1,Pitcher,FALSE
+608336,Joey Gallo,1993-11-19,2015-06-02,Henderson,NV,USA,77,250,9,Outfielder,TRUE
+593140,Michael Feliz,1993-06-28,2015-05-31,Azua,NA,Dominican Republic,76,250,1,Pitcher,TRUE
+592346,Chi Chi Gonzalez,1992-01-15,2015-05-30,Delray Beach,FL,USA,75,210,1,Pitcher,TRUE
+593643,Hanser Alberto,1992-10-17,2015-05-29,San Francisco de Macoris,NA,Dominican Republic,71,215,5,Third Base,TRUE
+571476,Chris Beck,1990-09-04,2015-05-28,Commerce,GA,USA,75,230,1,Pitcher,FALSE
+593958,Eduardo Rodriguez,1993-04-07,2015-05-28,Valencia,NA,Venezuela,74,231,1,Pitcher,TRUE
+553988,Dixon Machado,1992-02-22,2015-05-25,San Cristobal-Tachira,NA,Venezuela,73,190,6,Shortstop,FALSE
+605131,Austin Barnes,1989-12-28,2015-05-24,Riverside,CA,USA,70,187,2,Catcher,TRUE
+543118,Oliver Drake,1987-01-13,2015-05-23,Worcester,MA,USA,76,220,1,Pitcher,FALSE
+594694,Wilmer Difo,1992-04-02,2015-05-19,Santiago de los Caballeros,NA,Dominican Republic,71,200,8,Outfielder,TRUE
+621121,Lance McCullers Jr.,1993-10-02,2015-05-18,Tampa,FL,USA,73,202,1,Pitcher,TRUE
+605541,Mike Wright,1990-01-03,2015-05-17,Bennettsville,SC,USA,78,215,1,Pitcher,FALSE
+592789,Noah Syndergaard,1992-08-29,2015-05-12,Mansfield,TX,USA,78,240,1,Pitcher,FALSE
+572193,Ryan Tepera,1987-11-03,2015-05-10,Houston,TX,USA,73,195,1,Pitcher,TRUE
+543768,Travis Shaw,1990-04-16,2015-05-08,Washington Court House,OH,USA,76,230,5,Third Base,TRUE
+605512,Preston Tucker,1990-07-06,2015-05-07,Tampa,FL,USA,72,210,7,Outfielder,FALSE
+592696,Eddie Rosario,1991-09-28,2015-05-06,Guayama,NA,Puerto Rico,73,180,7,Outfielder,TRUE
+542208,Carlos Perez,1990-10-27,2015-05-05,Valencia,NA,Venezuela,72,210,2,Catcher,FALSE
+595978,Austin Hedges,1992-08-18,2015-05-04,San Juan Capistrano,CA,USA,73,223,2,Catcher,TRUE
+571577,Scott Copeland,1987-12-15,2015-05-02,Longview,TX,USA,75,220,1,Pitcher,FALSE
+596119,Blake Swihart,1992-04-03,2015-05-02,Bedford,TX,USA,73,200,2,Catcher,FALSE
+519301,Sammy Solis,1988-08-10,2015-04-30,Minneapolis,MN,USA,77,251,1,Pitcher,FALSE
+547179,Michael Lorenzen,1992-01-04,2015-04-29,Anaheim,CA,USA,75,220,1,Pitcher,FALSE
+595918,A.J. Cole,1992-01-05,2015-04-28,Winter Springs,FL,USA,77,240,1,Pitcher,TRUE
+605894,Severino Gonzalez,1992-09-28,2015-04-28,Santiago de Veragua,NA,Panama,74,155,1,Pitcher,FALSE
+543508,Cory Mazzoni,1989-10-19,2015-04-27,Evans City,PA,USA,73,210,1,Pitcher,FALSE
+571970,Max Muncy,1990-08-25,2015-04-25,Midland,TX,USA,72,215,3,First Base,TRUE
+570663,Hansel Robles,1990-08-13,2015-04-24,Bonao,NA,Dominican Republic,72,220,1,Pitcher,TRUE
+594840,Matt Grace,1988-12-14,2015-04-22,Palos Verdes Estates,CA,USA,76,215,1,Pitcher,FALSE
+607074,Carlos Rodon,1992-12-10,2015-04-21,Miami,FL,USA,75,245,1,Pitcher,TRUE
+608365,Addison Russell,1994-01-23,2015-04-21,Pensacola,FL,USA,72,200,4,Second Base,FALSE
+608700,Kevin Plawecki,1991-02-26,2015-04-21,Hinsdale,IL,USA,74,208,2,Catcher,TRUE
+553878,Felipe Vazquez,1991-07-05,2015-04-17,San Felipe,NA,Venezuela,74,225,1,Pitcher,FALSE
+571893,Adam Liberatore,1987-05-12,2015-04-17,Bellflower,CA,USA,75,243,1,Pitcher,FALSE
+592178,Kris Bryant,1992-01-04,2015-04-17,Las Vegas,NV,USA,77,230,7,Outfielder,TRUE
+630111,Yasmany Tomas,1990-11-14,2015-04-15,Havana,NA,Cuba,74,250,7,Outfielder,FALSE
+570632,Jose Urena,1991-09-12,2015-04-14,Santo Domingo,NA,Dominican Republic,74,208,1,Pitcher,TRUE
+623184,Scott Oberg,1990-03-13,2015-04-14,Tewksbury,MA,USA,74,203,1,Pitcher,FALSE
+628452,Raisel Iglesias,1990-01-04,2015-04-12,Isla de la Juventud,NA,Cuba,74,190,1,Pitcher,TRUE
+605151,Archie Bradley,1992-08-10,2015-04-11,Muskogee,OK,USA,76,215,1,Pitcher,TRUE
+542882,Matt Andriese,1989-08-28,2015-04-10,Redlands,CA,USA,74,215,1,Pitcher,TRUE
+543219,Sean Gilmartin,1990-05-08,2015-04-10,Thousand Oaks,CA,USA,74,205,1,Pitcher,FALSE
+543484,Mikie Mahtook,1989-11-30,2015-04-10,Lafayette,LA,USA,73,216,8,Outfielder,FALSE
+449181,Paulo Orlando,1985-11-01,2015-04-09,Sao Paulo,NA,Brazil,74,215,O,Outfield,FALSE
+592879,Asher Wojciechowski,1988-12-21,2015-04-09,Pensacola,FL,USA,76,235,1,Pitcher,FALSE
+532077,Roberto Osuna,1995-02-07,2015-04-08,Juan Jose Rios,Sinaloa,Mexico,74,217,1,Pitcher,FALSE
+592192,Mark Canha,1989-02-15,2015-04-08,San Jose,CA,USA,74,209,7,Outfielder,TRUE
+592261,Delino DeShields,1992-08-16,2015-04-08,Easton,MD,USA,69,190,8,Outfielder,FALSE
+628356,Jung Ho Kang,1987-04-05,2015-04-08,Gwangju,NA,South Korea,72,210,5,Third Base,FALSE
+605309,Keone Kela,1993-04-16,2015-04-07,Los Angeles,CA,USA,73,220,1,Pitcher,TRUE
+621397,Tyler Olson,1989-10-02,2015-04-07,Spokane,WA,USA,75,205,1,Pitcher,FALSE
+546318,Odubel Herrera,1991-12-29,2015-04-06,Zulia,NA,Venezuela,71,205,8,Outfielder,TRUE
+581527,Devon Travis,1991-02-21,2015-04-06,West Palm Beach,FL,USA,69,195,4,Second Base,FALSE
+612434,Miguel Castro,1994-12-24,2015-04-06,La Romana,NA,Dominican Republic,79,205,1,Pitcher,TRUE
+517369,Jose Pirela,1989-11-21,2014-09-22,Valera,NA,Venezuela,72,220,7,Outfielder,FALSE
+572233,Christian Walker,1991-03-28,2014-09-17,Norristown,PA,USA,72,208,3,First Base,TRUE
+543056,Danny Coulombe,1989-10-26,2014-09-16,St. Louis,MO,USA,70,190,1,Pitcher,FALSE
+607374,Nick Tropeano,1990-08-27,2014-09-10,West Islip,NY,USA,76,205,1,Pitcher,TRUE
+502054,Tommy Pham,1988-03-08,2014-09-09,Las Vegas,NV,USA,73,223,7,Outfielder,TRUE
+592815,Sam Tuivailala,1992-10-19,2014-09-09,San Mateo,CA,USA,75,225,1,Pitcher,FALSE
+598264,Matt Barnes,1990-06-17,2014-09-09,Danbury,CT,USA,76,208,1,Pitcher,TRUE
+545064,Jairo Diaz,1991-05-27,2014-09-08,Puerto La Cruz,NA,Venezuela,72,254,1,Pitcher,FALSE
+605232,Brandon Finnegan,1993-04-14,2014-09-06,Fort Worth,TX,USA,71,198,1,Pitcher,FALSE
+596057,Daniel Norris,1993-04-25,2014-09-05,Johnson City,TN,USA,74,207,1,Pitcher,TRUE
+608665,Kendall Graveman,1990-12-21,2014-09-05,Alexander City,AL,USA,74,200,1,Pitcher,TRUE
+592647,Dalton Pompey,1992-12-11,2014-09-02,Mississauga,ON,Canada,74,200,9,Outfielder,FALSE
+596748,Maikel Franco,1992-08-26,2014-09-02,Azua,NA,Dominican Republic,73,225,5,Third Base,TRUE
+607257,Raffy Lopez,1987-10-02,2014-09-02,Philadelphia,PA,USA,69,200,2,Catcher,FALSE
+519326,Hunter Strickland,1988-09-24,2014-09-01,Thomaston,GA,USA,75,225,1,Pitcher,TRUE
+543510,James McCann,1990-06-13,2014-09-01,Santa Barbara,CA,USA,75,220,2,Catcher,TRUE
+554340,Yimi Garcia,1990-08-18,2014-09-01,Moca,NA,Dominican Republic,74,228,1,Pitcher,TRUE
+572669,Lane Adams,1989-11-13,2014-09-01,Talihina,OK,USA,76,220,8,Outfielder,FALSE
+592340,Erik Goeddel,1988-12-20,2014-09-01,San Mateo,CA,USA,75,191,1,Pitcher,FALSE
+592626,Joc Pederson,1992-04-21,2014-09-01,Palo Alto,CA,USA,73,220,7,Outfielder,TRUE
+605476,Carson Smith,1989-10-19,2014-09-01,Midland,TX,USA,78,215,1,Pitcher,FALSE
+605486,Cory Spangenberg,1991-03-16,2014-09-01,Clarks Summit,PA,USA,72,195,5,Third Base,FALSE
+605253,Terrance Gore,1991-06-08,2014-08-31,Macon,GA,USA,67,160,8,Outfielder,FALSE
+594986,Kyle Ryan,1991-09-25,2014-08-30,Auburndale,FL,USA,77,215,1,Pitcher,TRUE
+605135,Chris Bassitt,1989-02-22,2014-08-30,Toledo,OH,USA,77,217,1,Pitcher,TRUE
+599096,Dilson Herrera,1994-03-03,2014-08-29,Cartagena,NA,Colombia,70,210,4,Second Base,FALSE
+607387,Ryan Rua,1990-03-11,2014-08-29,Amherst,OH,USA,74,205,7,Outfielder,FALSE
+624585,Jorge Soler,1992-02-25,2014-08-27,Havana,NA,Cuba,76,235,9,Outfielder,TRUE
+542289,Daniel Corcino,1990-08-26,2014-08-26,Azua,NA,Dominican Republic,71,215,1,Pitcher,FALSE
+542513,Tomas Telis,1991-06-18,2014-08-25,El Tigre,NA,Venezuela,68,220,2,Catcher,TRUE
+519333,Matt Szczur,1989-07-20,2014-08-17,Cape May,NJ,USA,72,200,8,Outfielder,FALSE
+457754,Jon Edwards,1988-01-08,2014-08-15,Chicago,IL,USA,77,240,1,Pitcher,FALSE
+571656,Buck Farmer,1991-02-20,2014-08-13,Conyers,GA,USA,76,232,1,Pitcher,TRUE
+592222,Alex Claudio,1992-01-31,2014-08-13,San Juan,NA,Puerto Rico,75,188,1,Pitcher,TRUE
+605177,Andrew Chafin,1990-06-17,2014-08-13,Kettering,OH,USA,74,235,1,Pitcher,TRUE
+572191,Michael A. Taylor,1991-03-26,2014-08-12,Fort Lauderdale,FL,USA,76,215,8,Outfielder,TRUE
+571951,Bryan Mitchell,1991-04-19,2014-08-10,Reidsville,NC,USA,75,210,1,Pitcher,FALSE
+576788,Dan Butler,1986-10-17,2014-08-10,Phoenix,AZ,USA,70,210,2,Catcher,FALSE
+543507,Trevor May,1989-09-23,2014-08-09,Longview,WA,USA,77,240,1,Pitcher,TRUE
+571875,Jake Lamb,1990-10-09,2014-08-07,Seattle,WA,USA,75,215,7,Outfielder,TRUE
+593576,Hector Neris,1989-06-14,2014-08-05,Villa Altagracia,NA,Dominican Republic,74,227,1,Pitcher,TRUE
+595879,Javier Baez,1992-12-01,2014-08-05,Bayamon,NA,Puerto Rico,72,190,6,Shortstop,TRUE
+592314,Mike Foltynewicz,1991-10-07,2014-08-02,Sterling,IL,USA,76,195,1,Pitcher,TRUE
+542436,Cristhian Adames,1991-07-26,2014-07-29,Santo Domingo,NA,Dominican Republic,72,185,6,Shortstop,FALSE
+621035,Chris Taylor,1990-08-29,2014-07-24,Virginia Beach,VA,USA,73,196,8,Outfielder,TRUE
+592717,Aaron Sanchez,1992-07-01,2014-07-23,Barstow,CA,USA,76,210,1,Pitcher,TRUE
+572403,Drew VerHagen,1990-10-22,2014-07-19,Royse City,TX,USA,78,230,1,Pitcher,FALSE
+592741,Chasen Shreve,1990-07-12,2014-07-19,Las Vegas,NV,USA,76,180,1,Pitcher,TRUE
+592200,Curt Casali,1988-11-09,2014-07-18,Walnut Creek,CA,USA,74,220,2,Catcher,TRUE
+570560,Yolmer Sanchez,1992-06-29,2014-07-13,Maracay,NA,Venezuela,68,205,4,Second Base,FALSE
+542866,Austin Adams,1986-08-19,2014-07-12,Montgomery,AL,USA,71,205,1,Pitcher,FALSE
+543294,Kyle Hendricks,1989-12-07,2014-07-10,Newport Beach,CA,USA,75,190,1,Pitcher,TRUE
+547379,Roberto Perez,1988-12-23,2014-07-10,Mayaguez,NA,Puerto Rico,71,220,2,Catcher,TRUE
+607968,Drew Rucinski,1988-12-30,2014-07-10,Neenah,WI,USA,74,190,1,Pitcher,FALSE
+543877,Christian Vazquez,1990-08-21,2014-07-09,Bayamon,NA,Puerto Rico,69,205,2,Catcher,TRUE
+519295,Jake Smolinski,1989-02-09,2014-07-07,Rockford,IL,USA,71,210,O,Outfield,FALSE
+518568,Christian Colon,1989-05-14,2014-07-01,Cayey,NA,Puerto Rico,70,215,4,Second Base,FALSE
+570267,Domingo Santana,1992-08-05,2014-07-01,Santo Domingo,NA,Dominican Republic,77,232,7,Outfielder,FALSE
+571771,Enrique Hernandez,1991-08-24,2014-07-01,San Juan,NA,Puerto Rico,71,190,8,Outfielder,TRUE
+605113,Nick Ahmed,1990-03-15,2014-06-29,East Longmeadow,MA,USA,74,201,6,Shortstop,TRUE
+605141,Mookie Betts,1992-10-07,2014-06-29,Nashville,TN,USA,69,180,9,Outfielder,TRUE
+593871,Jorge Polanco,1993-07-05,2014-06-26,San Pedro de Macoris,NA,Dominican Republic,71,208,4,Second Base,TRUE
+594807,Adam Duvall,1988-09-04,2014-06-26,Louisville,KY,USA,73,215,9,Outfielder,TRUE
+594835,Marco Gonzales,1992-02-16,2014-06-25,Fort Collins,CO,USA,73,197,1,Pitcher,TRUE
+628333,Odrisamer Despaigne,1987-04-04,2014-06-23,Havana,NA,Cuba,72,200,1,Pitcher,FALSE
+488748,Ryan Buchter,1987-02-13,2014-06-20,Reading,PA,USA,76,230,1,Pitcher,TRUE
+571760,Andrew Heaney,1991-06-05,2014-06-19,Oklahoma City,OK,USA,74,200,1,Pitcher,TRUE
+543278,Blaine Hardy,1987-03-14,2014-06-16,Seattle,WA,USA,74,218,1,Pitcher,FALSE
+571437,Aaron Altherr,1991-01-14,2014-06-16,Landstuhl,NA,Germany,77,215,8,Outfielder,FALSE
+594985,Ben Rowen,1988-11-15,2014-06-15,Dunedin,FL,USA,76,200,1,Pitcher,TRUE
+571704,Ken Giles,1990-09-20,2014-06-12,Albuquerque,NM,USA,75,210,1,Pitcher,FALSE
+554431,Tyler Matzek,1990-10-19,2014-06-11,Mission Viejo,CA,USA,75,230,1,Pitcher,TRUE
+570256,Gregory Polanco,1991-09-14,2014-06-10,Santo Domingo,NA,Dominican Republic,77,240,9,Outfielder,TRUE
+548357,Christian Bergman,1988-05-04,2014-06-09,Glendale,CA,USA,73,195,1,Pitcher,FALSE
+489446,Kirby Yates,1987-03-25,2014-06-07,Lihue,HI,USA,70,205,1,Pitcher,FALSE
+500743,Miguel Rojas,1989-02-24,2014-06-06,Los Teques,NA,Venezuela,72,188,6,Shortstop,TRUE
+572750,Eddie Butler,1991-03-13,2014-06-06,Chesapeake,VA,USA,74,180,1,Pitcher,FALSE
+571506,Justin Bour,1988-05-28,2014-06-05,Washington,DC,USA,76,270,3,First Base,FALSE
+592663,J.T. Realmuto,1991-03-18,2014-06-05,Del City,OK,USA,73,212,2,Catcher,TRUE
+542432,Jose Ramirez,1990-01-21,2014-06-04,Yaguate,NA,Dominican Republic,73,220,1,Pitcher,FALSE
+553993,Eugenio Suarez,1991-07-18,2014-06-04,Puerto Ordaz,NA,Venezuela,71,213,6,Shortstop,TRUE
+534910,Jesse Hahn,1989-07-30,2014-06-03,Norwich,CT,USA,77,205,1,Pitcher,TRUE
+592135,Cam Bedrosian,1991-10-02,2014-06-03,Senoia,GA,USA,73,225,1,Pitcher,TRUE
+444482,David Peralta,1987-08-14,2014-06-01,Valencia,NA,Venezuela,73,210,7,Outfielder,TRUE
+600303,Tommy La Stella,1989-01-31,2014-05-28,Westwood,NJ,USA,71,180,4,Second Base,TRUE
+608349,Corey Knebel,1991-11-26,2014-05-24,Denton,TX,USA,75,224,1,Pitcher,TRUE
+572180,Andrew Susac,1990-03-22,2014-05-22,Roseville,CA,USA,73,220,2,Catcher,FALSE
+605412,Joe Panik,1990-10-30,2014-05-22,Yonkers,NY,USA,73,205,5,Third Base,TRUE
+622110,Matt Duffy,1991-01-15,2014-05-22,Long Beach,CA,USA,74,190,5,Third Base,TRUE
+506747,Francisco Pena,1989-10-12,2014-05-20,Santiago,NA,Dominican Republic,74,230,2,Catcher,FALSE
+641490,Kyle Crockett,1991-12-15,2014-05-16,Newport News,VA,USA,74,180,1,Pitcher,FALSE
+542583,Jesus Aguilar,1990-06-30,2014-05-15,Maracay,NA,Venezuela,75,277,3,First Base,TRUE
+594798,Jacob deGrom,1988-06-19,2014-05-15,DeLand,FL,USA,76,180,1,Pitcher,TRUE
+595032,Chase Whitley,1989-06-14,2014-05-15,Ranburne,AL,USA,76,220,1,Pitcher,FALSE
+543101,Anthony DeSclafani,1990-04-18,2014-05-14,Freehold,NJ,USA,74,195,1,Pitcher,TRUE
+606160,Rafael Montero,1990-10-17,2014-05-14,Higuerito,NA,Dominican Republic,72,190,1,Pitcher,TRUE
+502624,Chase Anderson,1987-11-30,2014-05-11,Wichita Falls,TX,USA,73,210,1,Pitcher,TRUE
+493472,Eric Campbell,1987-04-09,2014-05-10,Norwich,CT,USA,75,215,5,Third Base,TRUE
+596059,Rougned Odor,1994-02-03,2014-05-08,Maracaibo,NA,Venezuela,71,200,4,Second Base,TRUE
+543376,Caleb Joseph,1986-06-18,2014-05-07,Nashville,TN,USA,75,205,2,Catcher,FALSE
+592662,Robbie Ray,1991-10-01,2014-05-06,Brentwood,TN,USA,74,215,1,Pitcher,TRUE
+605359,Evan Marshall,1990-04-18,2014-05-06,Sunnyvale,CA,USA,74,235,1,Pitcher,TRUE
+520980,Pedro Baez,1988-03-11,2014-05-05,Bani,NA,Dominican Republic,72,232,1,Pitcher,FALSE
+542454,Danny Santana,1990-11-07,2014-05-05,Monte Plata,NA,Dominican Republic,71,195,7,Outfielder,TRUE
+573186,Marcus Stroman,1991-05-01,2014-05-04,Medford,NY,USA,67,180,1,Pitcher,TRUE
+543068,C.J. Cron,1990-01-05,2014-05-03,Fullerton,CA,USA,76,235,3,First Base,TRUE
+605156,Aaron Brooks,1990-04-27,2014-05-03,Montclair,CA,USA,76,230,1,Pitcher,FALSE
+542255,Ender Inciarte,1990-10-29,2014-05-02,Maracaibo,NA,Venezuela,71,190,8,Outfielder,TRUE
+594987,Casey Sadler,1990-07-13,2014-05-02,Stillwater,OK,USA,75,205,1,Pitcher,TRUE
+573046,Mike Morin,1991-05-03,2014-04-30,Andover,MN,USA,76,220,1,Pitcher,FALSE
+545341,Randal Grichuk,1991-08-13,2014-04-28,Rosenberg,TX,USA,74,216,8,Outfielder,TRUE
+594824,Greg Garcia,1989-08-08,2014-04-28,El Cajon,CA,USA,72,200,4,Second Base,FALSE
+455119,Chris Martin,1986-06-02,2014-04-26,Arlington,TX,USA,80,225,1,Pitcher,TRUE
+519166,Neil Ramirez,1989-05-25,2014-04-25,Virginia Beach,VA,USA,76,215,1,Pitcher,FALSE
+534812,Kevin Quackenbush,1988-11-28,2014-04-25,Land O'Lakes,FL,USA,76,235,1,Pitcher,FALSE
+607054,Jace Peterson,1990-05-09,2014-04-25,Lake Charles,LA,USA,72,215,5,Third Base,TRUE
+572888,Shane Greene,1988-11-17,2014-04-24,Clermont,FL,USA,76,200,1,Pitcher,TRUE
+596143,Luis Sardinas,1993-05-16,2014-04-20,Bolivar,NA,Venezuela,73,180,I,Infield,FALSE
+502522,Justin Miller,1987-06-13,2014-04-18,Bakersfield,CA,USA,75,215,1,Pitcher,FALSE
+543807,George Springer,1989-09-19,2014-04-16,New Britain,CT,USA,75,221,O,Outfield,TRUE
+623913,Wei-Chung Wang,1992-04-25,2014-04-14,Taitung City,NA,Taiwan,73,160,1,Pitcher,FALSE
+519306,Steven Souza Jr.,1989-04-24,2014-04-13,Everett,WA,USA,76,225,9,Outfielder,FALSE
+595014,Blake Treinen,1988-06-30,2014-04-12,Wichita,KS,USA,77,225,1,Pitcher,TRUE
+608678,Dominic Leone,1991-10-26,2014-04-06,Norwich,CT,USA,70,215,1,Pitcher,TRUE
+547888,Masahiro Tanaka,1988-11-01,2014-04-04,Itami,NA,Japan,75,218,1,Pitcher,FALSE
+571466,Tucker Barnhart,1991-01-07,2014-04-03,Indianapolis,IN,USA,71,192,2,Catcher,TRUE
+592454,Tommy Kahnle,1989-08-07,2014-04-03,Latham,NY,USA,73,230,1,Pitcher,FALSE
+606273,Roenis Elias,1988-08-01,2014-04-03,Guantanamo,NA,Cuba,73,205,1,Pitcher,FALSE
+500208,Yangervis Solarte,1987-07-03,2014-04-02,Valencia,NA,Venezuela,71,205,5,Third Base,FALSE
+502578,Aaron Barrett,1988-01-02,2014-03-31,Evansville,IN,USA,75,230,1,Pitcher,FALSE
+547989,Jose Abreu,1987-01-29,2014-03-31,Cienfuegos,NA,Cuba,75,235,3,First Base,TRUE
+595281,Kevin Kiermaier,1990-04-22,2013-09-30,Fort Wayne,IN,USA,73,210,8,Outfielder,TRUE
+570731,Jonathan Schoop,1991-10-16,2013-09-25,Willemstad,NA,Curacao,73,247,3,First Base,TRUE
+541600,Wilfredo Tovar,1991-08-11,2013-09-22,Santa Teresa del Tuy,NA,Venezuela,67,180,6,Shortstop,TRUE
+544836,Enny Romero,1991-01-24,2013-09-22,Santo Domingo,NA,Dominican Republic,75,232,1,Pitcher,FALSE
+533167,Matt Shoemaker,1986-09-27,2013-09-20,Wyandotte,MI,USA,74,225,1,Pitcher,TRUE
+542921,Tim Beckham,1990-01-27,2013-09-19,Griffin,GA,USA,73,205,6,Shortstop,FALSE
+518542,Juan Centeno,1989-11-16,2013-09-18,Arecibo,NA,Puerto Rico,69,195,2,Catcher,FALSE
+571735,David Hale,1987-09-27,2013-09-13,Atlanta,GA,USA,74,210,1,Pitcher,TRUE
+501303,Ehire Adrianza,1989-08-21,2013-09-08,Miranda,NA,Venezuela,73,195,9,Outfielder,TRUE
+572020,James Paxton,1988-11-06,2013-09-07,Ladner,BC,Canada,76,227,1,Pitcher,TRUE
+519076,Jimmy Nelson,1989-06-05,2013-09-06,Klamath Falls,OR,USA,78,250,1,Pitcher,TRUE
+543169,Brian Flynn,1990-04-19,2013-09-04,Tulsa,OK,USA,79,255,1,Pitcher,FALSE
+543760,Marcus Semien,1990-09-17,2013-09-04,San Francisco,CA,USA,72,195,4,Second Base,TRUE
+571740,Billy Hamilton,1990-09-09,2013-09-03,Taylorsville,MS,USA,72,160,8,Outfielder,TRUE
+572008,Chris Owings,1991-08-12,2013-09-03,Charleston,SC,USA,70,185,6,Shortstop,TRUE
+573127,Zac Rosscup,1988-06-09,2013-09-03,Clackamas,OR,USA,74,220,1,Pitcher,FALSE
+592390,Heath Hembree,1989-01-13,2013-09-03,Spartanburg,SC,USA,76,220,1,Pitcher,TRUE
+571974,John Ryan Murphy,1991-05-13,2013-09-02,Bradenton,FL,USA,71,200,2,Catcher,FALSE
+451192,Jim Adduci,1985-05-15,2013-09-01,Burnaby,BC,Canada,74,210,9,Outfielder,FALSE
+592206,Nick Castellanos,1992-03-04,2013-09-01,Hialeah,FL,USA,76,203,9,Outfielder,TRUE
+608070,Jose Ramirez,1992-09-17,2013-09-01,Bani,NA,Dominican Republic,69,190,5,Third Base,TRUE
+501659,Abraham Almonte,1989-06-27,2013-08-30,Santo Domingo,NA,Dominican Republic,70,223,9,Outfielder,TRUE
+592836,Taijuan Walker,1992-08-13,2013-08-30,Shreveport,LA,USA,76,235,1,Pitcher,TRUE
+544925,Matthew den Dekker,1987-08-10,2013-08-29,Fort Lauderdale,FL,USA,74,210,8,Outfielder,FALSE
+572365,Ryan Goins,1988-02-13,2013-08-23,Temple,TX,USA,70,180,4,Second Base,FALSE
+502593,Jake Petricka,1988-06-05,2013-08-22,Northfield,MN,USA,77,220,1,Pitcher,FALSE
+545358,Max Stassi,1991-03-15,2013-08-20,Woodland,CA,USA,70,200,2,Catcher,TRUE
+593428,Xander Bogaerts,1992-10-01,2013-08-20,Oranjestad,NA,Aruba,74,218,6,Shortstop,TRUE
+518595,Travis d'Arnaud,1989-02-10,2013-08-17,Long Beach,CA,USA,74,210,2,Catcher,TRUE
+543939,Kolten Wong,1990-10-10,2013-08-16,Hilo,HI,USA,67,185,4,Second Base,TRUE
+594838,Phil Gosselin,1988-10-03,2013-08-16,Bryn Mawr,PA,USA,73,188,5,Third Base,TRUE
+607680,Kevin Pillar,1989-01-04,2013-08-14,West Hills,CA,USA,72,200,8,Outfielder,TRUE
+571602,Matt Davidson,1991-03-26,2013-08-11,Yucaipa,CA,USA,75,230,3,First Base,FALSE
+542953,Buddy Boshers,1988-05-09,2013-08-10,Huntsville,AL,USA,75,222,1,Pitcher,FALSE
+543699,Tanner Roark,1986-10-05,2013-08-07,Wilmington,IL,USA,74,238,1,Pitcher,TRUE
+527038,Wilmer Flores,1991-08-06,2013-08-06,Valencia,NA,Venezuela,74,213,4,Second Base,TRUE
+518452,Chad Bettis,1989-04-26,2013-08-01,Lubbock,TX,USA,72,201,1,Pitcher,FALSE
+545350,Jake Marisnick,1991-03-30,2013-07-23,Riverside,CA,USA,76,220,8,Outfielder,TRUE
+592885,Christian Yelich,1991-12-05,2013-07-23,Thousand Oaks,CA,USA,75,195,7,Outfielder,TRUE
+542340,Jonathan Villar,1991-05-02,2013-07-22,La Vega,NA,Dominican Republic,72,233,5,Third Base,TRUE
+517593,Danny Salazar,1990-01-11,2013-07-11,Santo Domingo,NA,Dominican Republic,72,195,1,Pitcher,FALSE
+472610,Luis Garcia,1987-01-30,2013-07-10,Santo Domingo,NA,Dominican Republic,74,240,1,Pitcher,FALSE
+519443,Brandon Workman,1988-08-13,2013-07-10,Arlington,TX,USA,77,235,1,Pitcher,TRUE
+543243,Sonny Gray,1989-11-07,2013-07-10,Smyrna,TN,USA,70,195,1,Pitcher,TRUE
+543258,Preston Guilmet,1987-07-27,2013-07-10,Roseville,CA,USA,74,200,1,Pitcher,FALSE
+572033,Josh Phegley,1988-02-12,2013-07-05,Terre Haute,IN,USA,70,225,2,Catcher,FALSE
+475054,Chaz Roe,1986-10-09,2013-07-01,Steubenville,OH,USA,77,190,1,Pitcher,TRUE
+502043,Kyle Gibson,1987-10-23,2013-06-29,Greenfield,IN,USA,78,215,1,Pitcher,TRUE
+543543,Brad Miller,1989-10-18,2013-06-28,Orlando,FL,USA,74,195,7,Outfielder,TRUE
+500724,JC Ramirez,1988-08-16,2013-06-23,Managua,NA,Nicaragua,77,250,1,Pitcher,FALSE
+518468,Michael Blazek,1989-03-16,2013-06-22,Las Vegas,NV,USA,72,205,1,Pitcher,FALSE
+572816,Corey Dickerson,1989-05-22,2013-06-22,McComb,MS,USA,73,200,7,Outfielder,TRUE
+554430,Zack Wheeler,1990-05-30,2013-06-18,Smyrna,GA,USA,76,195,1,Pitcher,TRUE
+571976,Wil Myers,1990-12-10,2013-06-18,Thomasville,NC,USA,75,207,9,Outfielder,TRUE
+592238,Brandon Cumpton,1988-11-16,2013-06-15,Augusta,GA,USA,74,215,1,Pitcher,FALSE
+572287,Mike Zunino,1991-03-25,2013-06-12,Cape Coral,FL,USA,74,235,2,Catcher,TRUE
+543037,Gerrit Cole,1990-09-08,2013-06-11,Newport Beach,CA,USA,76,220,1,Pitcher,TRUE
+501625,Jose Alvarez,1989-05-06,2013-06-09,Barcelona,NA,Venezuela,71,195,1,Pitcher,TRUE
+571871,Ian Krol,1991-05-09,2013-06-05,Hinsdale,IL,USA,73,210,1,Pitcher,FALSE
+571697,Scooter Gennett,1990-05-01,2013-06-03,Cincinnati,OH,USA,70,185,4,Second Base,FALSE
+624577,Yasiel Puig,1990-12-07,2013-06-03,Cienfuegos,NA,Cuba,74,240,9,Outfielder,FALSE
+517008,Alex Colome,1988-12-31,2013-05-30,Santo Domingo,NA,Dominican Republic,73,225,1,Pitcher,TRUE
+608379,Michael Wacha,1991-07-01,2013-05-30,Iowa City,IA,USA,78,215,1,Pitcher,TRUE
+622072,Alex Wood,1991-01-12,2013-05-30,Charlotte,NC,USA,76,215,1,Pitcher,TRUE
+514917,Cesar Hernandez,1990-05-23,2013-05-29,Valencia,NA,Venezuela,70,195,4,Second Base,TRUE
+501992,Nate Karns,1987-11-25,2013-05-28,Franklin,PA,USA,75,225,1,Pitcher,FALSE
+592464,Mike Kickham,1988-12-12,2013-05-28,St. Louis,MO,USA,76,220,1,Pitcher,TRUE
+545338,Nick Franklin,1991-03-02,2013-05-27,Sanford,FL,USA,73,190,4,Second Base,FALSE
+491696,Jesus Sucre,1988-04-30,2013-05-24,Cumana,NA,Venezuela,72,200,2,Catcher,FALSE
+592332,Kevin Gausman,1991-01-06,2013-05-23,Centennial,CO,USA,74,190,1,Pitcher,TRUE
+544928,Tyler Lyons,1988-02-21,2013-05-22,Lubbock,TX,USA,74,210,1,Pitcher,FALSE
+573204,Caleb Thielbar,1987-01-31,2013-05-20,Northfield,MN,USA,72,205,1,Pitcher,TRUE
+543377,Corban Joseph,1988-10-28,2013-05-13,Franklin,TN,USA,72,185,4,Second Base,FALSE
+572143,Burch Smith,1990-04-12,2013-05-11,San Antonio,TX,USA,76,225,1,Pitcher,TRUE
+518618,Derek Dietrich,1989-07-18,2013-05-08,Cleveland,OH,USA,74,205,4,Second Base,FALSE
+593372,Carlos Martinez,1991-09-21,2013-05-03,Puerto Plata,NA,Dominican Republic,72,200,1,Pitcher,TRUE
+518489,Ryan Brasier,1987-08-26,2013-05-02,Wichita Falls,TX,USA,72,227,1,Pitcher,FALSE
+542303,Marcell Ozuna,1990-11-12,2013-04-30,Santo Domingo,NA,Dominican Republic,73,225,7,Outfielder,TRUE
+572362,Robbie Erlin,1990-10-08,2013-04-30,Oakland,CA,USA,71,200,1,Pitcher,FALSE
+573064,Vidal Nuno,1987-07-26,2013-04-29,National City,CA,USA,71,210,1,Pitcher,FALSE
+571448,Nolan Arenado,1991-04-16,2013-04-28,Newport Beach,CA,USA,74,215,5,Third Base,TRUE
+543483,Matt Magill,1989-11-10,2013-04-27,Simi Valley,CA,USA,75,210,1,Pitcher,FALSE
+541652,Bruce Rondon,1990-12-09,2013-04-25,Valencia,NA,Venezuela,75,275,1,Pitcher,FALSE
+543257,Robbie Grossman,1989-09-16,2013-04-24,San Diego,CA,USA,72,209,7,Outfielder,TRUE
+453214,Steven Wright,1984-08-30,2013-04-23,Torrance,CA,USA,74,215,1,Pitcher,FALSE
+501571,Juan Lagares,1989-03-17,2013-04-23,Constanza,NA,Dominican Republic,74,219,8,Outfielder,TRUE
+542585,Jose Cisnero,1989-04-11,2013-04-22,Bajos de Haina,San Cristobal,Dominican Republic,75,258,1,Pitcher,TRUE
+543685,Anthony Rendon,1990-06-06,2013-04-21,Houston,TX,USA,73,200,5,Third Base,TRUE
+543903,Allen Webster,1990-02-10,2013-04-21,Greensboro,NC,USA,74,200,1,Pitcher,FALSE
+543935,Alex Wilson,1986-11-03,2013-04-11,Dhahran,NA,Saudi Arabia,72,220,1,Pitcher,FALSE
+519008,T.J. McFarland,1989-06-08,2013-04-06,Palos Park,IL,USA,75,200,1,Pitcher,FALSE
+544725,Leury Garcia,1991-03-18,2013-04-06,Santiago,NA,Dominican Republic,68,190,8,Outfielder,TRUE
+519151,Ryan Pressly,1988-12-15,2013-04-04,Dallas,TX,USA,74,206,1,Pitcher,TRUE
+543506,Brandon Maurer,1990-07-03,2013-04-04,Newport Beach,CA,USA,77,225,1,Pitcher,FALSE
+444468,Hector Rondon,1988-02-26,2013-04-03,Guatire,NA,Venezuela,75,225,1,Pitcher,FALSE
+594828,Evan Gattis,1986-08-18,2013-04-03,Dallas,TX,USA,76,270,2,Catcher,FALSE
+451661,Josh Fields,1985-08-19,2013-04-02,Athens,GA,USA,72,191,1,Pitcher,FALSE
+547943,Hyun Jin Ryu,1987-03-25,2013-04-02,Incheon,NA,South Korea,75,255,1,Pitcher,TRUE
+501981,Khris Davis,1987-12-21,2013-04-01,Lakewood,CA,USA,71,205,7,Outfielder,TRUE
+543305,Aaron Hicks,1989-10-02,2013-04-01,San Pedro,CA,USA,73,205,8,Outfielder,TRUE
+576397,Jedd Gyorko,1988-09-23,2013-04-01,Morgantown,WV,USA,70,205,5,Third Base,FALSE
+598265,Jackie Bradley Jr.,1990-04-19,2013-04-01,Richmond,VA,USA,70,196,8,Outfielder,TRUE
+542364,Rafael Ortega,1991-05-15,2012-09-30,El Tigre,NA,Venezuela,71,180,9,Outfielder,TRUE
+543606,Jake Odorizzi,1990-03-27,2012-09-23,Breese,IL,USA,74,190,1,Pitcher,TRUE
+605164,Dylan Bundy,1992-11-15,2012-09-23,Tulsa,OK,USA,73,225,1,Pitcher,TRUE
+521655,Wilmer Font,1990-05-24,2012-09-18,La Guaira,NA,Venezuela,76,255,1,Pitcher,FALSE
+543302,Chris Herrmann,1987-11-24,2012-09-16,Tomball,TX,USA,72,200,2,Catcher,FALSE
+573131,Darin Ruf,1986-07-28,2012-09-14,Omaha,NE,USA,74,232,7,Outfielder,TRUE
+543746,Rob Scahill,1987-02-15,2012-09-11,Winfield,IL,USA,74,220,1,Pitcher,FALSE
+571561,Tony Cingrani,1989-07-05,2012-09-09,Evergreen,IL,USA,76,217,1,Pitcher,FALSE
+544369,Didi Gregorius,1990-02-18,2012-09-05,Amsterdam,NA,Netherlands,75,205,6,Shortstop,TRUE
+571946,Shelby Miller,1990-10-10,2012-09-05,Round Rock,TX,USA,75,225,1,Pitcher,TRUE
+544727,Jeurys Familia,1989-10-10,2012-09-04,Santo Domingo,NA,Dominican Republic,75,240,1,Pitcher,TRUE
+573109,AJ Ramos,1986-09-20,2012-09-04,Lubbock,TX,USA,70,200,1,Pitcher,FALSE
+594809,Adam Eaton,1988-12-06,2012-09-04,Springfield,OH,USA,69,180,9,Outfielder,TRUE
+595777,Jurickson Profar,1993-02-20,2012-09-02,Willemstad,NA,Curacao,72,184,7,Outfielder,TRUE
+571788,Brock Holt,1988-06-11,2012-09-01,Fort Worth,TX,USA,70,180,5,Third Base,TRUE
+541645,Avisail Garcia,1991-06-12,2012-08-31,Anaco,NA,Venezuela,76,250,9,Outfielder,TRUE
+543031,Tyler Cloyd,1987-05-16,2012-08-29,Papillion,NE,USA,75,210,1,Pitcher,FALSE
+543391,Casey Kelly,1989-10-04,2012-08-27,Sarasota,FL,USA,75,215,1,Pitcher,FALSE
+543521,Collin McHugh,1987-06-19,2012-08-23,Napierville,IL,USA,74,191,1,Pitcher,TRUE
+572140,Tyler Skaggs,1991-07-13,2012-08-22,Woodland Hills,CA,USA,76,225,1,Pitcher,FALSE
+543734,Chris Rusin,1986-10-22,2012-08-21,Detroit,MI,USA,74,200,1,Pitcher,FALSE
+458677,Justin Wilson,1987-08-18,2012-08-20,Anaheim,CA,USA,74,205,1,Pitcher,TRUE
+542963,Rob Brantly,1989-07-14,2012-08-14,San Diego,CA,USA,72,191,2,Catcher,FALSE
+501789,Will Harris,1984-08-28,2012-08-13,Houston,TX,USA,76,236,1,Pitcher,TRUE
+518653,Jake Elmore,1987-06-15,2012-08-11,Dothan,AL,USA,70,180,4,Second Base,FALSE
+592518,Manny Machado,1992-07-06,2012-08-09,Miami,FL,USA,75,218,5,Third Base,TRUE
+488681,Brandon Barnes,1986-05-15,2012-08-07,Orange,CA,USA,74,210,O,Outfield,FALSE
+548384,Brooks Raley,1988-06-29,2012-08-07,San Antonio,TX,USA,75,200,1,Pitcher,TRUE
+588751,Adeiny Hechavarria,1989-04-15,2012-08-04,Santiago De Cuba,NA,Cuba,72,195,4,Second Base,FALSE
+573185,Dan Straily,1988-12-01,2012-08-03,Redlands,CA,USA,74,220,1,Pitcher,FALSE
+501213,Moises Sierra,1988-09-24,2012-07-31,Santo Domingo,NA,Dominican Republic,73,233,7,Outfielder,FALSE
+516782,Starling Marte,1988-10-09,2012-07-26,Santo Domingo,NA,Dominican Republic,73,195,8,Outfielder,TRUE
+518774,Matt Harvey,1989-03-27,2012-07-26,New London,CT,USA,76,220,1,Pitcher,TRUE
+516416,Jean Segura,1990-03-17,2012-07-24,San Juan,NA,Dominican Republic,70,220,4,Second Base,TRUE
+542924,Jeff Beliveau,1987-01-17,2012-07-22,Providence,RI,USA,73,190,1,Pitcher,FALSE
+592102,Cody Allen,1988-11-20,2012-07-20,Orlando,FL,USA,73,210,1,Pitcher,FALSE
+572096,Trevor Rosenthal,1990-05-29,2012-07-18,Lee's Summit,MO,USA,74,230,1,Pitcher,FALSE
+462515,Miguel Socolovich,1986-07-24,2012-07-14,Caracas,NA,Venezuela,73,205,1,Pitcher,FALSE
+501593,Luis Avilan,1989-07-19,2012-07-14,Caracas,NA,Venezuela,74,220,1,Pitcher,TRUE
+571901,Aaron Loup,1987-12-19,2012-07-14,Raceland,LA,USA,71,210,1,Pitcher,TRUE
+473879,Sam Dyson,1988-05-07,2012-07-05,Tampa,FL,USA,73,212,1,Pitcher,FALSE
+476589,Adam Warren,1987-08-25,2012-06-29,Birmingham,AL,USA,73,224,1,Pitcher,FALSE
+545333,Trevor Bauer,1991-01-17,2012-06-28,North Hollywood,CA,USA,73,205,1,Pitcher,TRUE
+527048,Martin Perez,1991-04-04,2012-06-27,Guanare,NA,Venezuela,72,200,1,Pitcher,TRUE
+543883,Nick Vincent,1986-07-12,2012-06-26,Poway,CA,USA,70,185,1,Pitcher,FALSE
+502042,Chris Archer,1988-09-26,2012-06-20,Raleigh,NC,USA,74,195,1,Pitcher,TRUE
+592804,Tyler Thornburg,1988-09-29,2012-06-19,Houston,TX,USA,71,190,1,Pitcher,FALSE
+572971,Dallas Keuchel,1988-01-01,2012-06-17,Tulsa,OK,USA,74,205,1,Pitcher,TRUE
+518748,Justin Grimm,1988-08-16,2012-06-16,Bristol,TN,USA,75,210,1,Pitcher,FALSE
+502202,Brad Boxberger,1988-05-27,2012-06-10,Fullerton,CA,USA,70,211,1,Pitcher,TRUE
+523260,Joe Kelly,1988-06-09,2012-06-10,Anaheim,CA,USA,73,174,1,Pitcher,TRUE
+541650,Hernan Perez,1991-03-26,2012-06-09,"Villa de Cura, Aragua",NA,Venezuela,73,213,4,Second Base,TRUE
+502117,Kristopher Negron,1986-02-01,2012-06-07,Willingboro,NJ,USA,72,190,4,Second Base,FALSE
+592407,Bryan Holaday,1987-11-19,2012-06-06,Dallas,TX,USA,72,215,2,Catcher,FALSE
+448281,Sean Doolittle,1986-09-26,2012-06-05,Rapid City,SD,USA,74,204,1,Pitcher,TRUE
+518735,Yasmani Grandal,1988-11-08,2012-06-02,Havana,NA,Cuba,74,225,2,Catcher,TRUE
+592743,Andrelton Simmons,1989-09-04,2012-06-02,Mundo-Novo,NA,Curacao,74,195,6,Shortstop,TRUE
+518693,Sam Freeman,1987-06-24,2012-06-01,Houston,TX,USA,71,180,1,Pitcher,FALSE
+456068,Miguel Gonzalez,1984-05-27,2012-05-29,Gudalajara,Jalisco,Mexico,73,180,1,Pitcher,FALSE
+474568,Jordy Mercer,1986-08-27,2012-05-29,Taloga,OK,USA,75,210,4,Second Base,TRUE
+519293,Will Smith,1989-07-10,2012-05-23,Newnan,GA,USA,77,255,1,Pitcher,TRUE
+594777,Kole Calhoun,1987-10-14,2012-05-22,Tempe,AZ,USA,70,205,9,Outfielder,TRUE
+456781,Donovan Solano,1987-12-17,2012-05-21,Barranquilla,NA,Colombia,68,210,4,Second Base,TRUE
+491676,Gorkys Hernandez,1987-09-07,2012-05-21,Guiria,NA,Venezuela,73,196,8,Outfielder,FALSE
+571431,Matt Adams,1988-08-31,2012-05-20,Philipsburg,PA,USA,75,245,3,First Base,TRUE
+453284,Blake Parker,1985-06-19,2012-05-17,Fayetteville,AR,USA,75,225,1,Pitcher,TRUE
+543228,Yan Gomes,1987-07-19,2012-05-17,Sao Paulo,NA,Brazil,74,212,2,Catcher,TRUE
+518617,Jake Diekman,1987-01-21,2012-05-15,Wymore,NE,USA,76,195,1,Pitcher,TRUE
+506702,Sandy Leon,1989-03-13,2012-05-14,Maracaibo,NA,Venezuela,70,235,2,Catcher,TRUE
+518586,Charlie Culberson,1989-04-10,2012-05-13,Rome,GA,USA,73,200,5,Third Base,TRUE
+500779,Jose Quintana,1989-01-24,2012-05-07,Arjona,NA,Colombia,73,220,1,Pitcher,TRUE
+572821,Brian Dozier,1987-05-15,2012-05-07,Tupelo,MS,USA,71,200,4,Second Base,FALSE
+571945,Miles Mikolas,1988-08-23,2012-05-05,Jupiter,FL,USA,76,230,1,Pitcher,TRUE
+543359,Dan Jennings,1987-04-17,2012-04-30,Berkeley,CA,USA,75,215,1,Pitcher,FALSE
+571578,Patrick Corbin,1989-07-19,2012-04-30,Clay,NY,USA,76,220,1,Pitcher,TRUE
+547180,Bryce Harper,1992-10-16,2012-04-28,Las Vegas,NV,USA,75,210,9,Outfielder,TRUE
+543331,J.J. Hoover,1987-08-13,2012-04-25,Pittsburgh,PA,USA,75,240,1,Pitcher,FALSE
+503449,Wily Peralta,1989-05-08,2012-04-22,Samana,NA,Dominican Republic,73,255,1,Pitcher,FALSE
+571800,Drew Hutchison,1990-08-22,2012-04-21,Lakeland,FL,USA,75,215,1,Pitcher,FALSE
+572041,AJ Pollock,1987-12-05,2012-04-18,Hebron,CT,USA,73,210,7,Outfielder,TRUE
+592767,Drew Smyly,1989-06-13,2012-04-12,Little Rock,AR,USA,74,188,1,Pitcher,TRUE
+612672,Wei-Yin Chen,1985-07-21,2012-04-10,Kaohsiung City,NA,Taiwan,72,200,1,Pitcher,FALSE
+506433,Yu Darvish,1986-08-16,2012-04-09,Osaka,NA,Japan,77,220,1,Pitcher,TRUE
+541640,Erasmo Ramirez,1990-05-02,2012-04-09,Rivas,NA,Nicaragua,72,220,1,Pitcher,TRUE
+475479,David Phelps,1986-10-09,2012-04-08,St. Louis,MO,USA,74,198,1,Pitcher,TRUE
+518858,Nate Jones,1986-01-28,2012-04-08,Butler,KY,USA,77,230,1,Pitcher,TRUE
+462480,Rhiner Cruz,1986-11-01,2012-04-07,Santo Domingo,NA,Dominican Republic,74,210,1,Pitcher,FALSE
+475247,Ryan Flaherty,1986-07-27,2012-04-07,Portland,ME,USA,75,205,5,Third Base,FALSE
+476595,Lucas Luetge,1987-03-24,2012-04-07,Brenham,TX,USA,76,205,1,Pitcher,TRUE
+519096,Dan Otero,1985-02-19,2012-04-07,Miami,FL,USA,75,205,1,Pitcher,FALSE
+503556,Marwin Gonzalez,1989-03-14,2012-04-06,Puerto Ordaz,NA,Venezuela,73,205,4,Second Base,TRUE
+519390,Stephen Vogt,1984-11-01,2012-04-06,Visalia,CA,USA,72,216,2,Catcher,TRUE
+520471,Freddy Galvis,1989-11-14,2012-04-05,Punto Fijo,NA,Venezuela,70,190,6,Shortstop,TRUE
+493316,Yoenis Cespedes,1985-10-18,2012-03-28,Granma,NA,Cuba,71,225,7,Outfielder,FALSE
+503569,Rafael Dolis,1988-01-10,2011-09-26,La Romana,NA,Dominican Republic,76,235,1,Pitcher,TRUE
+476454,Dellin Betances,1988-03-23,2011-09-22,New York,NY,USA,80,265,1,Pitcher,TRUE
+516969,Kelvin Herrera,1989-12-31,2011-09-21,Tenares,NA,Dominican Republic,70,220,1,Pitcher,FALSE
+458584,Xavier Cedeno,1986-08-26,2011-09-16,Guayanilla,NA,Puerto Rico,71,210,1,Pitcher,FALSE
+519043,Matt Moore,1989-06-18,2011-09-14,Fort Walton Beach,FL,USA,75,210,1,Pitcher,TRUE
+571666,Mike Fiers,1985-06-15,2011-09-14,Hollywood,FL,USA,74,211,1,Pitcher,TRUE
+543144,Danny Farquhar,1987-02-17,2011-09-13,Pembroke Pines,FL,USA,69,185,1,Pitcher,FALSE
+519141,Drew Pomeranz,1988-11-22,2011-09-11,Memphis,TN,USA,77,246,1,Pitcher,TRUE
+519222,Austin Romine,1988-11-22,2011-09-11,Lake Forest,CA,USA,73,216,2,Catcher,TRUE
+543148,Tim Federowicz,1987-08-05,2011-09-11,Erie,PA,USA,70,215,2,Catcher,FALSE
+465753,Pedro Florimon,1986-12-10,2011-09-10,La Romana,NA,Dominican Republic,74,185,6,Shortstop,FALSE
+502004,George Kontos,1985-06-12,2011-09-10,Lincolnwood,IL,USA,75,225,1,Pitcher,FALSE
+453172,Jared Hughes,1985-07-04,2011-09-07,Stamford,CT,USA,79,240,1,Pitcher,FALSE
+502748,Brad Peacock,1988-02-02,2011-09-06,Palm Beach,FL,USA,73,207,1,Pitcher,FALSE
+521230,Liam Hendriks,1989-02-10,2011-09-06,Perth,Western Australia,Australia,72,235,1,Pitcher,TRUE
+592665,Addison Reed,1988-12-27,2011-09-04,Montclair,CA,USA,76,230,1,Pitcher,FALSE
+455117,Martin Maldonado,1986-08-16,2011-09-03,Naguabo,NA,Puerto Rico,72,230,2,Catcher,TRUE
+519023,Devin Mesoraco,1988-06-19,2011-09-03,Punxsutawney,PA,USA,73,229,2,Catcher,FALSE
+543548,Tommy Milone,1987-02-16,2011-09-03,Saugus,CA,USA,72,215,1,Pitcher,TRUE
+500871,Eduardo Escobar,1989-01-05,2011-09-02,"La Pica, Maracay",NA,Venezuela,70,193,4,Second Base,TRUE
+519068,Efren Navarro,1986-05-14,2011-09-02,Lynwood,CA,USA,72,210,3,First Base,FALSE
+547982,Leonys Martin,1988-03-06,2011-09-02,Villa Clara,NA,Cuba,74,200,8,Outfielder,FALSE
+446372,Corey Kluber,1986-04-10,2011-09-01,Birmingham,AL,USA,76,215,1,Pitcher,TRUE
+542960,Brad Brach,1986-04-12,2011-08-31,Freehold,NJ,USA,78,215,1,Pitcher,TRUE
+489119,Wade Miley,1986-11-13,2011-08-20,Hammond,LA,USA,74,220,1,Pitcher,TRUE
+543432,Ryan Lavarnway,1987-08-07,2011-08-18,Woodland Hills,CA,USA,75,239,2,Catcher,FALSE
+521692,Salvador Perez,1990-05-10,2011-08-10,Valencia,NA,Venezuela,75,255,2,Catcher,TRUE
+527055,Arodys Vizcaino,1990-11-13,2011-08-10,Yaguate,NA,Dominican Republic,72,245,1,Pitcher,FALSE
+572070,Garrett Richards,1988-05-27,2011-08-10,Riverside,CA,USA,74,210,1,Pitcher,TRUE
+543135,Nathan Eovaldi,1990-02-13,2011-08-06,Houston,TX,USA,74,217,1,Pitcher,TRUE
+543776,JB Shuck,1987-06-18,2011-08-05,Westerville,OH,USA,71,195,7,Outfielder,FALSE
+444489,Manny Pina,1987-06-05,2011-08-03,Barquisimeto,NA,Venezuela,72,222,2,Catcher,TRUE
+502671,Paul Goldschmidt,1987-09-10,2011-08-01,Wilmington,DE,USA,75,220,3,First Base,TRUE
+502110,J.D. Martinez,1987-08-21,2011-07-30,Miami,FL,USA,75,230,7,Outfielder,TRUE
+545363,Jacob Turner,1991-05-21,2011-07-30,St. Charles,MO,USA,77,215,1,Pitcher,FALSE
+543401,Jason Kipnis,1987-04-03,2011-07-22,Northbrook,IL,USA,71,200,4,Second Base,FALSE
+475857,Ryan Cook,1987-06-30,2011-07-20,Clovis,CA,USA,74,215,1,Pitcher,FALSE
+514888,Jose Altuve,1990-05-06,2011-07-20,Maracay,NA,Venezuela,66,166,4,Second Base,TRUE
+455139,Robinson Chirinos,1984-06-05,2011-07-18,Punto Fijo,NA,Venezuela,73,220,2,Catcher,FALSE
+545361,Mike Trout,1991-08-07,2011-07-08,Vineland,NJ,USA,74,235,8,Outfielder,TRUE
+446359,Zack Cozart,1985-08-12,2011-07-07,Memphis,TN,USA,72,205,5,Third Base,FALSE
+502083,Zach McAllister,1987-12-08,2011-07-07,Peoria,IL,USA,78,240,1,Pitcher,FALSE
+572122,Kyle Seager,1987-11-03,2011-07-07,Charlotte,NC,USA,72,216,5,Third Base,TRUE
+502327,Hector Santiago,1987-12-16,2011-07-06,Newark,NJ,USA,72,215,1,Pitcher,TRUE
+502304,David Carpenter,1985-07-15,2011-06-30,Morgantown,WV,USA,75,250,1,Pitcher,FALSE
+502082,Lonnie Chisenhall,1988-10-04,2011-06-27,Morehead City,NC,USA,74,190,O,Outfield,FALSE
+488818,Chase d'Arnaud,1987-01-21,2011-06-24,Torrance,CA,USA,73,197,5,Third Base,FALSE
+517414,Randall Delgado,1990-02-09,2011-06-17,Las Tablas,NA,Panama,76,220,1,Pitcher,FALSE
+542914,Anthony Bass,1987-11-01,2011-06-13,Dearborn,MI,USA,74,200,1,Pitcher,TRUE
+519058,Mike Moustakas,1988-09-11,2011-06-10,Los Angeles,CA,USA,72,225,5,Third Base,TRUE
+543766,Bryan Shaw,1987-11-08,2011-06-10,Livermore,CA,USA,73,226,1,Pitcher,TRUE
+519203,Anthony Rizzo,1989-08-08,2011-06-09,Parkland,FL,USA,75,240,3,First Base,TRUE
+453265,Tony Watson,1985-05-30,2011-06-08,Sioux City,IA,USA,75,224,1,Pitcher,TRUE
+453568,Charlie Blackmon,1986-07-01,2011-06-07,Dallas,TX,USA,75,221,9,Outfielder,TRUE
+543272,Brad Hand,1990-03-20,2011-06-07,Minneapolis,MN,USA,75,224,1,Pitcher,TRUE
+543829,Dee Strange-Gordon,1988-04-22,2011-06-06,Avon Park,FL,USA,71,166,4,Second Base,FALSE
+571521,Rex Brothers,1987-12-18,2011-06-06,Unionville,TN,USA,72,205,1,Pitcher,TRUE
+572761,Matt Carpenter,1985-11-26,2011-06-04,Galveston,TX,USA,76,210,4,Second Base,TRUE
+458681,Lance Lynn,1987-05-12,2011-06-02,Marion County,IN,USA,77,270,1,Pitcher,TRUE
+458676,Josh Lindblom,1987-06-15,2011-06-01,Lafayette,IN,USA,76,240,1,Pitcher,TRUE
+543281,Josh Harrison,1987-07-08,2011-05-31,Cincinnati,OH,USA,68,190,4,Second Base,TRUE
+543475,Jordan Lyles,1990-10-19,2011-05-31,Hartsville,SC,USA,77,230,1,Pitcher,TRUE
+518934,DJ LeMahieu,1988-07-13,2011-05-30,Visalia,CA,USA,76,220,4,Second Base,TRUE
+504379,Juan Nicasio,1986-08-31,2011-05-28,San Francisco de Macoris,NA,Dominican Republic,76,250,1,Pitcher,FALSE
+543063,Brandon Crawford,1987-01-21,2011-05-27,Mountain View,CA,USA,73,223,6,Shortstop,TRUE
+488810,Tony Cruz,1986-08-18,2011-05-24,Palm Beach,FL,USA,71,215,2,Catcher,FALSE
+453943,Todd Frazier,1986-02-12,2011-05-23,Point Pleasant,NJ,USA,75,215,3,First Base,TRUE
+456051,Hector Noesi,1987-01-26,2011-05-18,Esperanza,NA,Dominican Republic,77,220,1,Pitcher,FALSE
+518633,Danny Duffy,1988-12-21,2011-05-18,Goleta,CA,USA,75,205,1,Pitcher,TRUE
+518902,Pete Kozma,1988-04-11,2011-05-18,Tulsa,OK,USA,72,190,6,Shortstop,FALSE
+519346,Eric Thames,1986-11-10,2011-05-18,San Jose,CA,USA,71,235,3,First Base,FALSE
+457915,Javy Guerra,1985-10-31,2011-05-15,Denton,TX,USA,73,216,1,Pitcher,FALSE
+578428,Jose Iglesias,1990-01-05,2011-05-08,Havana,NA,Cuba,71,195,6,Shortstop,TRUE
+527054,Julio Teheran,1991-01-27,2011-05-07,Cartagena,NA,Colombia,74,205,1,Pitcher,TRUE
+446386,Brandon Guyer,1986-01-28,2011-05-06,West Chester,PA,USA,74,210,O,Outfield,FALSE
+543333,Eric Hosmer,1989-10-24,2011-05-06,South Miami,FL,USA,76,226,3,First Base,TRUE
+523253,Logan Forsythe,1987-01-14,2011-05-04,Memphis,TN,USA,73,205,4,Second Base,FALSE
+502171,Alex Cobb,1987-10-07,2011-05-01,Boston,MA,USA,75,205,1,Pitcher,TRUE
+518715,Cory Gearrin,1986-04-14,2011-04-25,Chattanooga,TN,USA,73,205,1,Pitcher,FALSE
+488786,Louis Coleman,1986-04-04,2011-04-21,Greenwood,MS,USA,76,205,1,Pitcher,FALSE
+543022,Tyler Chatwood,1989-12-16,2011-04-11,Redlands,CA,USA,71,200,1,Pitcher,TRUE
+501381,Michael Pineda,1989-01-18,2011-04-05,Yaguate,NA,Dominican Republic,79,280,1,Pitcher,TRUE
+502154,Zack Britton,1987-12-22,2011-04-03,Panorama City,CA,USA,73,200,1,Pitcher,FALSE
+474832,Brandon Belt,1988-04-20,2011-03-31,Nacogdoches,TX,USA,75,231,3,First Base,TRUE
+525768,Tim Collins,1989-08-21,2011-03-31,Worcester,MA,USA,67,170,1,Pitcher,FALSE
+518553,Steve Cishek,1986-06-18,2010-09-26,Falmouth,MA,USA,78,215,1,Pitcher,TRUE
+461865,Andrew Romine,1985-12-24,2010-09-24,Winter Haven,FL,USA,73,190,6,Shortstop,FALSE
+501822,Chris Hatcher,1985-01-12,2010-09-19,Kinston,NC,USA,73,200,1,Pitcher,FALSE
+518614,Daniel Descalso,1986-10-19,2010-09-18,Redwood City,CA,USA,70,190,4,Second Base,FALSE
+459429,Jake McGee,1986-08-06,2010-09-14,San Jose,CA,USA,76,229,1,Pitcher,TRUE
+519299,Eric Sogard,1986-05-22,2010-09-14,Phoenix,AZ,USA,70,180,4,Second Base,TRUE
+444432,Mark Trumbo,1986-01-16,2010-09-11,Anaheim,CA,USA,76,225,10,Designated Hitter,FALSE
+445213,Brandon Kintzler,1984-08-01,2010-09-10,Las Vegas,NV,USA,70,200,1,Pitcher,TRUE
+474319,Brandon Snyder,1986-11-23,2010-09-10,Las Vegas,NV,USA,74,225,5,Third Base,FALSE
+500872,Gregory Infante,1987-07-10,2010-09-07,Caracas,NA,Venezuela,73,200,1,Pitcher,FALSE
+502481,Jarrod Dyson,1984-08-15,2010-09-07,McComb,MS,USA,69,165,8,Outfielder,TRUE
+446263,Lucas Duda,1986-02-03,2010-09-01,Riverside,CA,USA,76,255,3,First Base,FALSE
+475174,Yonder Alonso,1987-04-08,2010-09-01,Havana,NA,Cuba,73,230,3,First Base,FALSE
+502026,Jeremy Jeffress,1987-09-21,2010-09-01,South Boston,VA,USA,72,205,1,Pitcher,FALSE
+518692,Freddie Freeman,1989-09-12,2010-09-01,Villa Park,CA,USA,77,220,3,First Base,TRUE
+547973,Aroldis Chapman,1988-02-28,2010-08-31,Holguin,NA,Cuba,76,218,1,Pitcher,TRUE
+456488,Eduardo Nunez,1987-06-15,2010-08-19,Santo Domingo,NA,Dominican Republic,72,195,4,Second Base,FALSE
+456078,Welington Castillo,1987-04-24,2010-08-11,San Isidro,NA,Dominican Republic,70,220,2,Catcher,FALSE
+501985,Mike Minor,1987-12-26,2010-08-09,Chapel Hill,TN,USA,76,210,1,Pitcher,TRUE
+519242,Chris Sale,1989-03-30,2010-08-06,Lakeland,FL,USA,78,180,1,Pitcher,FALSE
+488721,Peter Bourjos,1987-03-31,2010-08-03,Park Ridge,IL,USA,73,190,O,Outfield,FALSE
+476451,Jeremy Hellickson,1987-04-08,2010-08-02,Des Moines,IA,USA,73,190,1,Pitcher,FALSE
+518813,Greg Holland,1985-11-20,2010-08-02,Marion,NC,USA,70,210,1,Pitcher,TRUE
+519048,Mitch Moreland,1985-09-06,2010-07-29,Amory,MS,USA,75,245,3,First Base,TRUE
+472551,Fernando Abad,1985-12-17,2010-07-28,La Romana,NA,Dominican Republic,73,220,1,Pitcher,FALSE
+458708,Josh Tomlin,1984-10-19,2010-07-27,Tyler,TX,USA,73,190,1,Pitcher,TRUE
+489149,Logan Morrison,1987-08-25,2010-07-27,Kansas City,MO,USA,75,245,3,First Base,FALSE
+445276,Kenley Jansen,1987-09-30,2010-07-24,Willemstad,NA,Curacao,77,265,1,Pitcher,TRUE
+491646,Jeanmar Gomez,1988-02-10,2010-07-18,Caracas,NA,Venezuela,75,215,1,Pitcher,FALSE
+456124,Erik Kratz,1980-06-15,2010-07-17,Telford,PA,USA,76,250,2,Catcher,FALSE
+456715,Lorenzo Cain,1986-04-13,2010-07-16,Valdosta,GA,USA,74,214,8,Outfielder,TRUE
+501697,Jhan Marinez,1988-08-12,2010-07-16,Santo Domingo,NA,Dominican Republic,73,200,1,Pitcher,FALSE
+489295,Brian Schlitter,1985-12-21,2010-06-28,Oak Park,IL,USA,75,238,1,Pitcher,FALSE
+488771,Jason Castro,1987-06-18,2010-06-22,Castro Valley,CA,USA,75,215,2,Catcher,TRUE
+476883,Pedro Alvarez,1987-02-06,2010-06-16,Santo Domingo,NA,Dominican Republic,75,250,3,First Base,FALSE
+468396,Alexi Ogando,1983-10-05,2010-06-15,San Pedro de Macoris,NA,Dominican Republic,76,200,1,Pitcher,FALSE
+467793,Carlos Santana,1986-04-08,2010-06-11,Santo Domingo,NA,Dominican Republic,71,215,3,First Base,TRUE
+453562,Jake Arrieta,1986-03-06,2010-06-10,Farmington,MO,USA,76,230,1,Pitcher,TRUE
+519317,Giancarlo Stanton,1989-11-08,2010-06-08,Panorama,CA,USA,78,245,10,Designated Hitter,TRUE
+544931,Stephen Strasburg,1988-07-20,2010-06-08,San Diego,CA,USA,77,240,1,Pitcher,TRUE
+502143,Danny Valencia,1984-09-19,2010-06-03,Miami,FL,USA,74,210,5,Third Base,FALSE
+488768,Andrew Cashner,1986-09-11,2010-05-31,Conroe,TX,USA,78,235,1,Pitcher,FALSE
+493603,Adam Ottavino,1985-11-22,2010-05-29,New York,NY,USA,77,246,1,Pitcher,TRUE
+477569,Fernando Salas,1985-05-30,2010-05-28,Huatabampo,Sonora,Mexico,74,200,1,Pitcher,FALSE
+461858,Trevor Plouffe,1986-06-15,2010-05-21,West Hills,CA,USA,74,215,5,Third Base,FALSE
+518960,Jonathan Lucroy,1986-06-13,2010-05-21,Eustis,FL,USA,72,200,2,Catcher,TRUE
+467100,Ivan Nova,1987-01-12,2010-05-13,San Cristobal,NA,Dominican Republic,77,250,1,Pitcher,FALSE
+502028,Blake Wood,1985-08-08,2010-05-12,Atlanta,GA,USA,77,233,1,Pitcher,FALSE
+516770,Starlin Castro,1990-03-24,2010-05-07,Monte Cristi,NA,Dominican Republic,74,218,5,Third Base,TRUE
+518886,Craig Kimbrel,1988-05-28,2010-05-07,Huntsville,AL,USA,72,215,1,Pitcher,TRUE
+491624,Cesar Valdez,1985-03-17,2010-05-03,Santo Domingo,NA,Dominican Republic,74,225,1,Pitcher,TRUE
+467092,Wilson Ramos,1987-08-10,2010-05-02,Valencia,NA,Venezuela,73,241,2,Catcher,TRUE
+518626,Josh Donaldson,1985-12-08,2010-04-30,Pensacola,FL,USA,73,210,5,Third Base,TRUE
+445055,Jon Jay,1985-03-15,2010-04-26,Miami,FL,USA,71,200,O,Outfield,TRUE
+475253,Justin Smoak,1986-12-05,2010-04-23,Goose Creek,SC,USA,76,220,3,First Base,FALSE
+458924,Jonny Venters,1985-03-20,2010-04-17,Pikeville,KY,USA,75,200,1,Pitcher,FALSE
+502190,Mike Leake,1987-11-12,2010-04-11,San Diego,CA,USA,70,170,1,Pitcher,FALSE
+460077,Drew Butera,1983-08-09,2010-04-09,Evansville,IN,USA,73,212,2,Catcher,TRUE
+475115,Tyson Ross,1987-04-22,2010-04-07,Berkeley,CA,USA,78,245,1,Pitcher,FALSE
+514913,Ruben Tejada,1989-10-27,2010-04-07,Veraguas,NA,Panama,71,200,4,Second Base,FALSE
+457706,Austin Jackson,1987-02-01,2010-04-05,Denton,TX,USA,73,198,8,Outfielder,FALSE
+518792,Jason Heyward,1989-08-09,2010-04-05,Ridgewood,NJ,USA,77,240,9,Outfielder,TRUE
+446192,Adam Moore,1984-05-08,2009-09-17,Longview,TX,USA,75,220,2,Catcher,FALSE
+446099,John Axford,1983-04-01,2009-09-15,Simcoe,ON,Canada,77,234,1,Pitcher,FALSE
+457763,Buster Posey,1987-03-27,2009-09-11,Leesburg,GA,USA,73,213,2,Catcher,TRUE
+435622,Ian Desmond,1985-09-20,2009-09-10,Sarasota,FL,USA,75,220,8,Outfielder,FALSE
+457759,Justin Turner,1984-11-23,2009-09-08,Long Beach,CA,USA,71,202,5,Third Base,TRUE
+518516,Madison Bumgarner,1989-08-01,2009-09-08,Hickory,NC,USA,76,257,1,Pitcher,TRUE
+451584,Wade Davis,1985-09-07,2009-09-06,Lake Wales,FL,USA,77,225,1,Pitcher,TRUE
+502226,Craig Gentry,1983-11-29,2009-09-06,Fort Smith,AR,USA,74,190,9,Outfielder,FALSE
+445197,Mike Dunn,1985-05-23,2009-09-04,Farmington,NM,USA,72,212,1,Pitcher,FALSE
+543339,Daniel Hudson,1987-03-09,2009-09-04,Lynchburg,VA,USA,75,215,1,Pitcher,TRUE
+452095,Tyler Flowers,1986-01-24,2009-09-03,Roswell,GA,USA,76,260,2,Catcher,FALSE
+435522,Neil Walker,1985-09-10,2009-09-01,Pittsburgh,PA,USA,74,214,3,First Base,FALSE
+471911,Carlos Carrasco,1987-03-21,2009-09-01,Barquisimeto,NA,Venezuela,76,224,1,Pitcher,FALSE
+488726,Michael Brantley,1987-05-15,2009-09-01,Bellevue,WA,USA,74,209,7,Outfielder,TRUE
+467008,Pedro Strop,1985-06-13,2009-08-28,San Cristobal,NA,Dominican Republic,73,220,1,Pitcher,TRUE
+458913,Eric Young Jr.,1985-05-25,2009-08-25,New Brunswick,NJ,USA,70,195,O,Outfield,FALSE
+450729,Doug Fister,1984-02-04,2009-08-08,Merced,CA,USA,80,210,1,Pitcher,FALSE
+547749,Junichi Tazawa,1986-06-06,2009-08-07,Yokohama,NA,Japan,71,200,1,Pitcher,FALSE
+488671,Alex Avila,1987-01-29,2009-08-06,Hialeah,FL,USA,71,228,2,Catcher,TRUE
+502210,Josh Reddick,1987-02-19,2009-07-31,Savannah,GA,USA,74,197,O,Outfield,TRUE
+501957,Chris Tillman,1988-04-15,2009-07-29,Anaheim,CA,USA,77,200,1,Pitcher,FALSE
+502032,Bud Norris,1985-03-02,2009-07-29,Greenbrae,CA,USA,72,215,1,Pitcher,FALSE
+468504,Jhoulys Chacin,1988-01-07,2009-07-25,Maracaibo,NA,Venezuela,75,215,1,Pitcher,TRUE
+448614,Carlos Torres,1982-10-22,2009-07-22,Santa Cruz,CA,USA,73,180,1,Pitcher,FALSE
+519240,Marc Rzepczynski,1985-08-29,2009-07-07,Oak Lawn,IL,USA,74,220,1,Pitcher,FALSE
+446653,Jose Lobaton,1984-10-21,2009-07-05,Acarigua,NA,Venezuela,73,205,2,Catcher,FALSE
+457705,Andrew McCutchen,1986-10-10,2009-06-04,Fort Meade,FL,USA,71,195,7,Outfielder,TRUE
+493596,Gordon Beckham,1986-09-16,2009-06-04,Atlanta,GA,USA,72,190,6,Shortstop,FALSE
+460269,Chris Gimenez,1982-12-27,2009-06-03,Gilroy,CA,USA,74,230,2,Catcher,FALSE
+446308,Matt Wieters,1986-05-21,2009-05-29,Charleston,SC,USA,77,235,2,Catcher,FALSE
+456696,David Hernandez,1985-05-13,2009-05-28,Sacramento,CA,USA,75,245,1,Pitcher,FALSE
+461872,Anthony Swarzak,1985-09-10,2009-05-23,Fort Lauderdale,FL,USA,76,215,1,Pitcher,TRUE
+450665,Kris Medlen,1985-10-07,2009-05-21,Artesia,CA,USA,70,190,1,Pitcher,FALSE
+489334,Craig Stammen,1984-03-09,2009-05-21,North Star,OH,USA,74,228,1,Pitcher,TRUE
+453268,Daniel Bard,1985-06-25,2009-05-13,Houston,TX,USA,76,215,1,Pitcher,TRUE
+467827,Gerardo Parra,1987-05-06,2009-05-13,Santa Barbara del Zulia,NA,Venezuela,71,210,7,Outfielder,FALSE
+453203,Shane Robinson,1984-10-30,2009-05-07,Tampa,FL,USA,69,170,7,Outfielder,FALSE
+446399,Brett Cecil,1986-07-02,2009-05-05,Dunkirk,MD,USA,75,235,1,Pitcher,FALSE
+453343,Mark Melancon,1985-03-28,2009-04-26,Wheat Ridge,CO,USA,73,215,1,Pitcher,TRUE
+448609,Tony Sipp,1983-07-12,2009-04-22,Pascagoula,MS,USA,72,190,1,Pitcher,FALSE
+502706,Derek Holland,1986-10-09,2009-04-22,Newark,OH,USA,74,223,1,Pitcher,TRUE
+519455,Jordan Zimmermann,1986-05-23,2009-04-20,Auburndale,WI,USA,74,225,1,Pitcher,TRUE
+474463,Brett Anderson,1988-02-01,2009-04-10,Midland,TX,USA,76,230,1,Pitcher,TRUE
+488846,Brian Duensing,1983-02-22,2009-04-10,Marysville,KS,USA,72,200,1,Pitcher,FALSE
+518875,Shawn Kelley,1984-04-26,2009-04-10,Louisville,KY,USA,74,237,1,Pitcher,FALSE
+519144,Rick Porcello,1988-12-27,2009-04-09,Morristown,NJ,USA,77,205,1,Pitcher,FALSE
+458675,Colby Rasmus,1986-08-11,2009-04-07,Columbus,GA,USA,74,195,8,Outfielder,FALSE
+502239,Trevor Cahill,1988-03-01,2009-04-07,Oceanside,CA,USA,76,223,1,Pitcher,TRUE
+462101,Elvis Andrus,1988-08-26,2009-04-06,Maracay,NA,Venezuela,72,210,6,Shortstop,TRUE
+501896,David Freese,1983-04-28,2009-04-06,Corpus Christi,TX,USA,74,213,3,First Base,FALSE
+502381,Luke Gregerson,1984-05-14,2009-04-06,Park Ridge,IL,USA,75,205,1,Pitcher,FALSE
+465041,Francisco Cervelli,1986-03-06,2008-09-18,Valencia,NA,Venezuela,72,220,2,Catcher,FALSE
+454560,A.J. Ellis,1981-04-09,2008-09-15,Cape Girardeau,MO,USA,74,225,2,Catcher,FALSE
+456034,David Price,1985-08-26,2008-09-14,Murfreesboro,TN,USA,77,215,1,Pitcher,TRUE
+448178,Kevin Jepsen,1984-07-26,2008-09-08,Anaheim,CA,USA,75,235,1,Pitcher,FALSE
+444876,Alcides Escobar,1986-12-16,2008-09-03,La Sabana,NA,Venezuela,73,205,6,Shortstop,FALSE
+453281,Wade LeBlanc,1984-08-07,2008-09-03,Lake Charles,LA,USA,74,195,1,Pitcher,TRUE
+446868,Wilkin Castillo,1984-06-01,2008-09-02,Bani,NA,Dominican Republic,72,215,2,Catcher,FALSE
+451594,Dexter Fowler,1986-03-22,2008-09-02,Atlanta,GA,USA,77,205,9,Outfielder,TRUE
+472528,Luis Valbuena,1985-11-30,2008-09-02,Sucre,NA,Venezuela,70,215,5,Third Base,FALSE
+445926,Jesse Chavez,1983-08-21,2008-08-27,San Gabriel,CA,USA,73,175,1,Pitcher,FALSE
+462136,Marco Estrada,1983-07-05,2008-08-20,Sonora,Sonora,Mexico,72,180,1,Pitcher,FALSE
+467055,Pablo Sandoval,1986-08-11,2008-08-14,Puerto Cabello,NA,Venezuela,70,268,3,First Base,TRUE
+453527,Sean Kazmar Jr.,1984-08-05,2008-08-13,Valdosta,GA,USA,70,185,6,Shortstop,TRUE
+460060,Cliff Pennington,1984-06-15,2008-08-12,Corpus Christi,TX,USA,70,200,6,Shortstop,FALSE
+489267,Adam Rosales,1983-05-20,2008-08-09,Chicago,IL,USA,74,200,4,Second Base,FALSE
+461829,Gio Gonzalez,1985-09-19,2008-08-06,Hialeah,FL,USA,72,205,1,Pitcher,FALSE
+502517,Daniel Murphy,1985-04-01,2008-08-02,Jacksonville,FL,USA,73,223,3,First Base,FALSE
+488984,Tommy Hunter,1986-07-03,2008-08-01,Indianapolis,IN,USA,75,250,1,Pitcher,TRUE
+502188,Jeff Samardzija,1985-01-23,2008-07-25,Merrillville,IN,USA,76,233,1,Pitcher,FALSE
+453385,Clayton Richard,1983-09-12,2008-07-23,Lafayette,IN,USA,77,240,1,Pitcher,FALSE
+448802,Jaime Garcia,1986-07-08,2008-07-11,Reynosa,Tamaulipas,Mexico,74,215,1,Pitcher,FALSE
+458690,Chris Volstad,1986-09-23,2008-07-06,Palm Beach Gardens,FL,USA,80,235,1,Pitcher,FALSE
+460026,Nick Hundley,1983-09-08,2008-07-04,Corvallis,OR,USA,72,203,2,Catcher,FALSE
+458731,Brett Gardner,1983-08-24,2008-06-30,Holly Hill,SC,USA,71,195,7,Outfielder,TRUE
+502085,David Robertson,1985-04-09,2008-06-29,Birmingham,AL,USA,71,195,1,Pitcher,FALSE
+448801,Chris Davis,1986-03-17,2008-06-26,Longview,TX,USA,75,245,3,First Base,FALSE
+489265,Sergio Romo,1983-03-04,2008-06-26,Brawley,CA,USA,71,185,1,Pitcher,TRUE
+450203,Charlie Morton,1983-11-12,2008-06-14,Flemington,NJ,USA,77,215,1,Pitcher,TRUE
+446899,Brad Ziegler,1979-10-10,2008-05-31,Pratt,KS,USA,76,220,1,Pitcher,FALSE
+471865,Carlos Gonzalez,1985-10-17,2008-05-30,Maracaibo,NA,Venezuela,73,220,9,Outfielder,FALSE
+457803,Jay Bruce,1987-04-03,2008-05-27,Beaumont,TX,USA,75,230,O,Outfield,TRUE
+477132,Clayton Kershaw,1988-03-19,2008-05-25,Dallas,TX,USA,76,225,1,Pitcher,TRUE
+463610,Gregorio Petit,1984-12-10,2008-05-18,Ocumare,NA,Venezuela,70,200,6,Shortstop,FALSE
+459964,Matt Joyce,1984-08-03,2008-05-05,Tampa,FL,USA,74,194,7,Outfielder,TRUE
+453286,Max Scherzer,1984-07-27,2008-04-29,St. Louis,MO,USA,75,208,1,Pitcher,TRUE
+435064,Bobby Wilson,1983-04-08,2008-04-28,Dunedin,FL,USA,72,230,2,Catcher,FALSE
+446481,Sean Rodriguez,1985-04-26,2008-04-19,Miami,FL,USA,72,199,5,Third Base,FALSE
+476704,Jed Lowrie,1984-04-17,2008-04-15,Salem,OR,USA,72,180,4,Second Base,TRUE
+446334,Evan Longoria,1985-10-07,2008-04-12,Downey,CA,USA,73,213,5,Third Base,TRUE
+452655,Denard Span,1984-02-27,2008-04-06,Washington,DC,USA,72,210,7,Outfielder,FALSE
+456501,Johnny Cueto,1986-02-15,2008-04-03,San Pedro de Macoris,NA,Dominican Republic,71,229,1,Pitcher,TRUE
+503285,Darren O'Day,1982-10-22,2008-03-31,Jacksonville,FL,USA,76,220,1,Pitcher,TRUE
+453923,Gregor Blanco,1983-12-24,2008-03-30,Caracas,NA,Venezuela,70,187,8,Outfielder,FALSE
+460283,Jerry Blevins,1983-09-06,2007-09-16,Johnson City,TN,USA,78,190,1,Pitcher,FALSE
+446321,Ross Detwiler,1986-03-06,2007-09-07,St. Louis,MO,USA,77,210,1,Pitcher,TRUE
+458015,Joey Votto,1983-09-10,2007-09-04,Toronto,ON,Canada,74,220,3,First Base,TRUE
+466988,Emilio Bonifacio,1985-04-23,2007-09-02,Santo Domingo,NA,Dominican Republic,70,200,O,Outfield,FALSE
+453178,Ian Kennedy,1984-12-19,2007-09-01,Huntington Beach,CA,USA,72,210,1,Pitcher,TRUE
+456665,Steve Pearce,1983-04-13,2007-09-01,Lakeland,FL,USA,71,200,3,First Base,FALSE
+453329,Clay Buchholz,1984-08-14,2007-08-17,Nederland,TX,USA,75,190,1,Pitcher,FALSE
+457727,Cameron Maybin,1987-04-04,2007-08-17,Asheville,NC,USA,75,215,7,Outfielder,TRUE
+452678,Asdrubal Cabrera,1985-11-13,2007-08-08,Puerto La Cruz,NA,Venezuela,72,235,5,Third Base,TRUE
+457708,Justin Upton,1987-08-25,2007-08-02,Norfolk,VA,USA,73,215,7,Outfielder,TRUE
+457918,J.A. Happ,1982-10-19,2007-06-30,Peru,IL,USA,77,205,1,Pitcher,TRUE
+451596,Yovani Gallardo,1986-02-27,2007-06-18,Penjamillo,Michoacan,Mexico,74,205,1,Pitcher,FALSE
+452104,Chase Headley,1984-05-09,2007-06-15,Fountain,CO,USA,74,215,5,Third Base,FALSE
+435559,Kurt Suzuki,1983-10-04,2007-06-12,Wailuku,HI,USA,71,210,2,Catcher,TRUE
+456701,Homer Bailey,1986-05-03,2007-06-08,La Grange,TX,USA,76,223,1,Pitcher,FALSE
+460075,Ryan Braun,1983-11-17,2007-05-25,Mission Hills,CA,USA,74,205,7,Outfielder,FALSE
+489448,Mike Zagurski,1983-01-27,2007-05-25,Omaha,NE,USA,72,240,1,Pitcher,FALSE
+461325,Tyler Clippard,1985-02-14,2007-05-20,Lexington,KY,USA,75,200,1,Pitcher,FALSE
+448602,Mark Reynolds,1983-08-03,2007-05-16,Pikeville,KY,USA,74,220,3,First Base,FALSE
+460576,Carlos Gomez,1985-12-04,2007-05-13,Santiago,NA,Dominican Republic,75,220,9,Outfielder,FALSE
+457454,Jarrod Saltalamacchia,1985-05-02,2007-05-02,West Palm Beach,FL,USA,76,235,2,Catcher,FALSE
+452254,Hunter Pence,1983-04-13,2007-04-28,Fort Worth,TX,USA,76,216,9,Outfielder,FALSE
+461833,Phil Hughes,1986-06-24,2007-04-26,Mission Viejo,CA,USA,77,240,1,Pitcher,FALSE
+465657,Joakim Soria,1984-05-18,2007-04-04,Monclova,Coahuila,Mexico,75,205,1,Pitcher,TRUE
+453344,Brandon Morrow,1984-07-26,2007-04-03,Santa Rosa,CA,USA,75,205,1,Pitcher,FALSE
+460086,Alex Gordon,1984-02-10,2007-04-02,Lincoln,NE,USA,73,220,7,Outfielder,FALSE
+501925,Joe Smith,1984-03-22,2007-04-01,Cincinnati,OH,USA,74,211,1,Pitcher,TRUE
+456387,Ryan Feierabend,1985-08-22,2006-09-13,Cleveland,OH,USA,75,225,1,Pitcher,FALSE
+455755,Chris Stewart,1982-02-19,2006-09-06,Fontana,CA,USA,76,215,2,Catcher,FALSE
+471083,Miguel Montero,1983-07-09,2006-09-06,Caracas,NA,Venezuela,71,221,2,Catcher,FALSE
+453064,Troy Tulowitzki,1984-10-10,2006-08-30,Santa Clara,CA,USA,75,205,6,Shortstop,FALSE
+453192,Andrew Miller,1985-05-21,2006-08-30,Gainesville,FL,USA,79,200,1,Pitcher,TRUE
+455104,Chris Iannetta,1983-04-08,2006-08-27,Providence,RI,USA,72,230,2,Catcher,FALSE
+456030,Dustin Pedroia,1983-08-17,2006-08-22,Woodland,CA,USA,69,175,4,Second Base,FALSE
+455759,Chris Young,1983-09-05,2006-08-18,Houston,TX,USA,74,200,9,Outfielder,FALSE
+434658,Rajai Davis,1980-10-19,2006-08-14,Norwich,CT,USA,70,195,8,Outfielder,FALSE
+450314,Ben Zobrist,1981-05-26,2006-08-01,Eureka,IL,USA,75,210,4,Second Base,FALSE
+462382,Jim Johnson,1983-06-27,2006-07-29,Johnson City,NY,USA,78,250,1,Pitcher,FALSE
+458006,Matt Albers,1983-01-20,2006-07-25,Houston,TX,USA,73,225,1,Pitcher,FALSE
+430945,Adam Jones,1985-08-01,2006-07-14,San Diego,CA,USA,74,215,9,Outfielder,FALSE
+450212,Pat Neshek,1980-09-04,2006-07-07,Madison,WI,USA,75,220,1,Pitcher,FALSE
+434671,Anibal Sanchez,1984-02-27,2006-06-25,Maracay,NA,Venezuela,72,205,1,Pitcher,FALSE
+452657,Jon Lester,1984-01-07,2006-06-10,Tacoma,WA,USA,76,249,1,Pitcher,TRUE
+448306,James Shields,1981-12-20,2006-05-31,Newhall,CA,USA,75,210,1,Pitcher,FALSE
+461314,Matt Kemp,1984-09-23,2006-05-28,Midwest City,OK,USA,76,225,7,Outfielder,FALSE
+434778,Kendrys Morales,1983-06-20,2006-05-23,Fomento,NA,Cuba,73,242,10,Designated Hitter,FALSE
+433589,Yusmeiro Petit,1984-11-22,2006-05-14,Maracaibo,NA,Venezuela,73,252,1,Pitcher,TRUE
+430935,Cole Hamels,1983-12-27,2006-05-12,San Diego,CA,USA,76,205,1,Pitcher,FALSE
+431145,Russell Martin,1983-02-15,2006-05-05,East York,ON,Canada,70,215,2,Catcher,FALSE
+435062,Howie Kendrick,1983-07-12,2006-04-26,Jacksonville,FL,USA,71,225,4,Second Base,FALSE
+445988,Martin Prado,1983-10-27,2006-04-23,Maracay,NA,Venezuela,72,215,3,First Base,FALSE
+493247,Peter Moylan,1978-12-02,2006-04-12,Lesmurdie,Western Australia,Australia,75,220,1,Pitcher,FALSE
+434628,Jason Hammel,1982-09-02,2006-04-11,Greenville,SC,USA,78,225,1,Pitcher,FALSE
+457429,Boone Logan,1984-08-13,2006-04-04,San Antonio,TX,USA,77,215,1,Pitcher,FALSE
+435079,Ian Kinsler,1982-06-22,2006-04-03,Tucson,AZ,USA,72,200,4,Second Base,FALSE
+455976,Nick Markakis,1983-11-17,2006-04-03,Woodstock,GA,USA,73,210,9,Outfielder,FALSE
+434670,Hanley Ramirez,1983-12-23,2005-09-20,Samana,NA,Dominican Republic,74,235,3,First Base,FALSE
+443558,Nelson Cruz,1980-07-01,2005-09-17,Las Matas de Santa Cruz,NA,Dominican Republic,74,230,10,Designated Hitter,TRUE
+425794,Adam Wainwright,1981-08-30,2005-09-11,Brunswick,GA,USA,79,230,1,Pitcher,TRUE
+434538,Francisco Liriano,1983-10-26,2005-09-05,San Cristobal,NA,Dominican Republic,75,218,1,Pitcher,FALSE
+475582,Ryan Zimmerman,1984-09-28,2005-09-01,Washington,NC,USA,75,215,3,First Base,TRUE
+450172,Edinson Volquez,1983-07-03,2005-08-30,Barahona,NA,Dominican Republic,72,220,1,Pitcher,FALSE
+425772,Jeff Mathis,1983-03-31,2005-08-12,Marianna,FL,USA,72,205,2,Catcher,TRUE
+433587,Felix Hernandez,1986-04-08,2005-08-04,Valencia,NA,Venezuela,75,225,1,Pitcher,FALSE
+450306,Jason Vargas,1983-02-02,2005-07-14,Apple Valley,CA,USA,72,215,1,Pitcher,FALSE
+466320,Melky Cabrera,1984-08-11,2005-07-07,Bajos De Haina,NA,Dominican Republic,70,210,9,Outfielder,FALSE
+434378,Justin Verlander,1983-02-20,2005-07-04,Manakin-Sabot,VA,USA,77,235,1,Pitcher,FALSE
+435043,Zach Duke,1983-04-19,2005-07-02,Clifton,TX,USA,74,210,1,Pitcher,FALSE
+429665,Edwin Encarnacion,1983-01-07,2005-06-24,La Romana,NA,Dominican Republic,73,230,3,First Base,FALSE
+448179,Rich Hill,1980-03-11,2005-06-15,Boston,MA,USA,77,221,1,Pitcher,TRUE
+430641,Blaine Boyer,1981-07-11,2005-06-12,Atlanta,GA,USA,75,235,1,Pitcher,FALSE
+435263,Brian McCann,1984-02-20,2005-06-10,Athens,GA,USA,75,225,2,Catcher,FALSE
+435221,Brandon McCarthy,1983-07-07,2005-05-22,Glendale,CA,USA,80,225,1,Pitcher,FALSE
+429722,Ervin Santana,1982-12-12,2005-05-17,San Cristobal,NA,Dominican Republic,74,175,1,Pitcher,TRUE
+429664,Robinson Cano,1982-10-22,2005-05-03,San Pedro de Macoris,NA,Dominican Republic,72,212,4,Second Base,FALSE
+425783,Shin-Soo Choo,1982-07-13,2005-04-21,Busan,NA,South Korea,71,205,7,Outfielder,FALSE
+425784,Rene Rivera,1983-07-31,2004-09-22,Bayamon,NA,Puerto Rico,70,215,2,Catcher,TRUE
+434158,Curtis Granderson,1981-03-16,2004-09-13,Blue Island,IL,USA,73,200,8,Outfielder,FALSE
+431148,Scott Kazmir,1984-01-24,2004-08-23,Houston,TX,USA,72,185,1,Pitcher,TRUE
+407822,Jorge De La Rosa,1981-04-05,2004-08-14,Monterrey,Nuevo Leon,Mexico,73,215,1,Pitcher,FALSE
+433586,Santiago Casilla,1980-07-25,2004-08-09,San Cristobal,NA,Dominican Republic,72,210,1,Pitcher,FALSE
+431151,David Wright,1982-12-20,2004-07-21,Norfolk,VA,USA,72,205,5,Third Base,FALSE
+425877,Yadier Molina,1982-07-13,2004-06-03,Bayamon,NA,Puerto Rico,71,225,2,Catcher,TRUE
+425844,Zack Greinke,1983-10-21,2004-05-22,Orlando,FL,USA,74,200,1,Pitcher,TRUE
+408236,Adrian Gonzalez,1982-05-08,2004-04-18,San Diego,CA,USA,74,215,3,First Base,FALSE
+407812,Matt Holliday,1980-01-15,2004-04-16,Stillwater,OK,USA,76,240,7,Outfielder,FALSE
+408045,Joe Mauer,1983-04-19,2004-04-05,St. Paul,MN,USA,77,225,2,Catcher,FALSE
+430832,Jose Bautista,1980-10-19,2004-04-04,Santo Domingo,NA,Dominican Republic,72,205,9,Outfielder,FALSE
+425492,Ryan Madson,1980-08-28,2003-09-27,Long Beach,CA,USA,78,234,1,Pitcher,FALSE
+429719,Edwin Jackson,1983-09-09,2003-09-09,Neu-Ulm,NA,Germany,74,215,1,Pitcher,FALSE
+279571,Matt Belisle,1980-06-06,2003-09-07,Austin,TX,USA,75,230,1,Pitcher,FALSE
+408234,Miguel Cabrera,1983-04-18,2003-06-20,Maracay,NA,Venezuela,76,267,3,First Base,TRUE
+408314,Jose Reyes,1983-06-11,2003-06-10,Santiago,NA,Dominican Republic,72,195,5,Third Base,FALSE
+400284,Chase Utley,1978-12-17,2003-04-04,Pasadena,CA,USA,73,195,4,Second Base,FALSE
+408252,Brandon Phillips,1981-06-28,2002-09-13,Raleigh,NC,USA,72,211,4,Second Base,FALSE
+400121,Victor Martinez,1978-12-23,2002-09-10,Ciudad Bolivar,NA,Venezuela,74,235,10,Designated Hitter,FALSE
+424144,Oliver Perez,1981-08-15,2002-06-16,Culiacan,Sinaloa,Mexico,75,225,1,Pitcher,TRUE
+407845,Fernando Rodney,1977-03-18,2002-05-04,Samana,NA,Dominican Republic,71,240,1,Pitcher,FALSE
+282332,CC Sabathia,1980-07-21,2001-04-08,Vallejo,CA,USA,78,300,1,Pitcher,FALSE
+400085,Ichiro Suzuki,1973-10-22,2001-04-02,Kasugai,NA,Japan,71,175,9,Outfielder,FALSE
+405395,Albert Pujols,1980-01-16,2001-04-02,Santo Domingo,NA,Dominican Republic,75,235,3,First Base,TRUE
+134181,Adrian Beltre,1979-04-07,1998-06-24,Santo Domingo,NA,Dominican Republic,71,220,5,Third Base,FALSE
+112526,Bartolo Colon,1973-05-24,1997-04-04,Altamira,NA,Dominican Republic,71,285,1,Pitcher,FALSE
+519303,Elliot Soto,1989-08-21,NA,Elgin,IL,USA,69,160,6,Shortstop,FALSE
+571503,Ryan Bollinger,1991-02-04,NA,Maple Grove,MN,USA,77,230,1,Pitcher,FALSE
+606336,Luis Marte,1993-12-15,NA,San Francisco de Macoris,NA,Dominican Republic,73,188,6,Shortstop,NA
+606993,Jake Hager,1993-03-04,NA,Henderson,NV,USA,73,170,4,Second Base,TRUE
+621248,Ralph Garza Jr.,1994-04-06,NA,Edinburg,TX,USA,74,220,1,Pitcher,TRUE
+629498,Johan Quezada,1994-08-25,NA,Santo Domingo,NA,Dominican Republic,81,255,1,Pitcher,FALSE
+641726,Daulton Jefferies,1995-08-02,NA,Merced,CA,USA,72,182,1,Pitcher,FALSE
+642758,Domingo Acevedo,1994-03-06,NA,Villa Los Almacigos,NA,Dominican Republic,79,250,1,Pitcher,FALSE
+649963,Bo Takahashi,1997-01-23,NA,Presidente Prudente,NA,Brazil,72,197,1,Pitcher,FALSE
+650347,Luis Madero,1997-04-15,NA,Maracay,NA,Venezuela,73,195,1,Pitcher,TRUE
+650911,Cristopher Sanchez,1996-12-12,NA,La Romana,NA,Dominican Republic,73,165,1,Pitcher,NA
+656180,Riley Adams,1996-06-26,NA,Encinitas,CA,USA,76,246,2,Catcher,TRUE
+656240,Scott Blewett,1996-04-10,NA,Syracuse,NY,USA,78,245,1,Pitcher,FALSE
+656492,Foster Griffin,1995-07-27,NA,Orlando,FL,USA,75,225,1,Pitcher,FALSE
+656730,Trevor Megill,1993-12-05,NA,Long Beach,CA,USA,80,250,1,Pitcher,TRUE
+657022,Trey Supak,1996-05-31,NA,Bryan,TX,USA,77,268,1,Pitcher,FALSE
+657757,Gavin Sheets,1996-04-23,NA,Lutherville,MD,USA,77,230,3,First Base,NA
+658431,Adonis Medina,1996-12-18,NA,Santo Domingo Centro,NA,Dominican Republic,73,187,1,Pitcher,FALSE
+660431,Hector Perez,1996-06-06,NA,Santo Domingo,NA,Dominican Republic,75,223,1,Pitcher,FALSE
+661440,Mauricio Llovera,1996-04-17,NA,El Tigre,NA,Venezuela,71,224,1,Pitcher,FALSE
+663527,Tyler Nevin,1997-05-29,NA,Poway,CA,USA,76,225,3,First Base,NA
+663559,Bailey Falter,1997-04-24,NA,Chino Hills,CA,USA,76,175,1,Pitcher,TRUE
+663959,Tyler Ivey,1996-05-12,NA,Rowlett,TX,USA,76,195,1,Pitcher,TRUE
+665600,Jasseel De La Cruz,1997-06-26,NA,Hato Mayor,NA,Dominican Republic,73,195,1,Pitcher,TRUE
+665834,Jeison Guzman,1998-10-08,NA,Santo Domingo,NA,Dominican Republic,74,200,6,Shortstop,FALSE
+666128,Mario Feliciano,1998-11-20,NA,Bayamon,NA,Puerto Rico,73,200,2,Catcher,TRUE
+666619,Gregory Santos,1999-08-28,NA,San Cristobal,NA,Dominican Republic,74,190,1,Pitcher,TRUE
+666622,Brailyn Marquez,1999-01-30,NA,Santo Domingo,NA,Dominican Republic,76,185,1,Pitcher,FALSE
+666674,Edwar Colina,1997-05-03,NA,Caracas,NA,Venezuela,71,240,1,Pitcher,FALSE
+666801,Rodolfo Castro,1999-05-21,NA,Los Llanos,NA,Dominican Republic,72,205,4,Second Base,TRUE
+667674,Jack Kruger,1994-10-26,NA,Los Angeles,CA,USA,73,195,2,Catcher,TRUE
+672695,Geraldo Perdomo,1999-10-22,NA,Santo Domingo,NA,Dominican Republic,74,203,6,Shortstop,TRUE
+672911,Jesus Cruz,1995-04-15,NA,Salinas de Hidalgo,San Luis Potosi,Mexico,73,230,1,Pitcher,FALSE
+676103,Damon Jones,1994-09-30,NA,Twin Falls,ID,USA,77,233,1,Pitcher,TRUE
+676755,Isaac Mattson,1995-07-14,NA,Erie,PA,USA,74,205,1,Pitcher,TRUE
+680430,Nick Allgeyer,1996-02-03,NA,St. Louis,MO,USA,75,210,1,Pitcher,TRUE
