@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.csv
+.vscode/settings.json
+src/data/mlb-player-digital-engagement-forecasting.zip
+src/data/processed-data/train.pkl
