@@ -131,3 +131,4 @@ dmypy.json
 .vscode/settings.json
 src/data/mlb-player-digital-engagement-forecasting.zip
 src/data/processed-data/train.pkl
+src/data/raw-data/train.pkl
