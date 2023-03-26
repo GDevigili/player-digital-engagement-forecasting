@@ -135,3 +135,4 @@ src/data/raw-data/train.pkl
 src/data/processed-data/rosters.pkl
 src/data/processed-data/targets.pkl
 src/data/processed-data/playerBoxScores.pkl
+*.pkl
