@@ -9,3 +9,7 @@
 # Possibilidades:
 + Juntar jogadas em uma coluna só.
 + Usar 2 modelos
+
+
+
+Verificar as lacunas de dias sem jogos
