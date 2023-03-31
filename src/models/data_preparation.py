@@ -59,7 +59,6 @@ def shift_targets(df, shift_vals: list = [1, 2, 3, 4, 5, 6, 7, 14, 30]):
 def train_test_split(
     df: pd.DataFrame
     ,test_split_date: str = TEST_SPLIT_DATE
-    ,target_cols: list = TARGET_COLS
     ):
     """Split the dataframe into train and test sets.
 
