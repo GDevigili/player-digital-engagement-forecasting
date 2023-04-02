@@ -37,6 +37,7 @@ class MeanModel():
         y_pred = pd.DataFrame(columns=TARGET_COLS)
         for target in TARGET_COLS:
             y_pred[target] = X['IdPlayer'].map(self.player_mean[target])
+            y_pred[target].fillna(self.player_mean[target].mean())
         return y_pred
 
 
@@ -62,7 +63,7 @@ def evaluate_mae(y_true, y_pred):
     return maes
 
 
-def fit_predict(model, x_train, y_train, x_test, target_cols=TARGET_COLS):
+def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
     """Fit the model and predict for each target column
     
     Parameters
@@ -84,10 +85,17 @@ def fit_predict(model, x_train, y_train, x_test, target_cols=TARGET_COLS):
         Predictions for each target column
     """
     y_preds = pd.DataFrame(columns=target_cols)
+    models = []
     for target in target_cols:
         model.fit(x_train, y_train[target])
         y_preds[target] = model.predict(x_test)
-        del model
-    return y_preds
+        if return_models:
+            models.append(model)
+        else:
+            del model
+    if return_models:
+        return y_preds, models
+    else:
+        return y_preds
     
     
