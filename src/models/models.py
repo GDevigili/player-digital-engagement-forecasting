@@ -43,3 +43,14 @@ def evaluate_mae(y_true, y_pred):
         mae = mean_absolute_error(y_true[target], y_pred[target])
         maes[target] = mae
     return maes
+
+
+def fit_predict(model, x_train, y_train, x_test, target_cols=TARGET_COLS):
+    y_preds = pd.DataFrame(columns=target_cols)
+    for target in target_cols:
+        model.fit(x_train, y_train[target])
+        y_preds[target] = model.predict(x_test)
+        del model
+    return y_preds
+    
+    
