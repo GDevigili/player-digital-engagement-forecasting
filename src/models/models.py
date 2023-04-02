@@ -5,11 +5,15 @@ import pickle
 import pandas as pd
 import numpy as np
 
+# model evaluation
+from sklearn.metrics import mean_absolute_error
+
 # constants
 PROCESSED_DATA_PATH = '../data/processed-data/'
 MODEL_PATH = '../models/trained-models/'
 TARGET_COLS = ['target1', 'target2', 'target3', 'target4']
 TEST_SPLIT_DATE = '2021-04-30'
+
 
 
 def naive(test):
@@ -31,3 +35,11 @@ class MeanModel():
         for target in TARGET_COLS:
             y_pred[target] = X['IdPlayer'].map(self.player_mean[target])
         return y_pred
+
+
+def evaluate_mae(y_true, y_pred):
+    maes = {}
+    for target in TARGET_COLS:
+        mae = mean_absolute_error(y_true[target], y_pred[target])
+        maes[target] = mae
+    return maes
