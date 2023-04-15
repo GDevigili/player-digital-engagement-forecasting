@@ -52,8 +52,8 @@ def shift_targets(df, shift_vals: list = [1, 2, 3, 4, 5, 6, 7, 14, 30]):
         df_aux = pd.concat([df_aux, df_player], axis=0)
         # Remove the player data from memory
         del df_player
-    df.dropna(inplace=True)
-    return df
+    # df.dropna(inplace=True)
+    return df_aux
 
 
 def train_test_split(
