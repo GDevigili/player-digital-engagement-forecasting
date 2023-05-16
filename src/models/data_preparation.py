@@ -56,21 +56,21 @@ def shift_targets(df, shift_vals: list = [1, 2, 3, 4, 5, 6, 7, 14, 30]):
     return df_aux
 
 
-def train_test_split(
-    df: pd.DataFrame
-    ,test_split_date: str = TEST_SPLIT_DATE
-    ):
-    """Split the dataframe into train and test sets.
+# def train_test_split(
+#     df: pd.DataFrame
+#     ,test_split_date: str = TEST_SPLIT_DATE
+#     ):
+#     """Split the dataframe into train and test sets.
 
-    Args:
-        df (pd.DataFrame): Dataframe to be split.
-        test_split_date (str, optional): Date to split the dataframe. Defaults to TEST_SPLIT_DATE.
-    """
+#     Args:
+#         df (pd.DataFrame): Dataframe to be split.
+#         test_split_date (str, optional): Date to split the dataframe. Defaults to TEST_SPLIT_DATE.
+#     """
 
-    train = df[df['Dt'] <= test_split_date]
-    test = df[df['Dt'] > test_split_date]
+#     train = df[df['Dt'] <= test_split_date]
+#     test = df[df['Dt'] > test_split_date]
 
-    return train, test
+#     return train, test
 
 
 def x_y_split(df: pd.DataFrame, target_cols: list = TARGET_COLS):
@@ -82,4 +82,25 @@ def x_y_split(df: pd.DataFrame, target_cols: list = TARGET_COLS):
     y = df[target_cols]
     x = df.drop(target_cols, axis=1)
     return x, y
+
+
+def train_test_split(
+    df: pd.DataFrame
+    ,test_split_date: str = TEST_SPLIT_DATE
+    ):
+    """Split the dataframe into train and test sets.
+
+    Args:
+        df (pd.DataFrame): Dataframe to be split.
+        test_split_date (str, optional): Date to split the dataframe. Defaults to TEST_SPLIT_DATE.
+    """
+
+    train = df[(df.Dt <= "2021-01-31") & (df.Dt >= "2018-01-01")] 
+    val = df[(df.Dt <= "2021-04-30") & (df.Dt >= "2021-02-01")] 
+    test = df[(df.Dt <= "2021-07-31") & (df.Dt >= "2021-05-01")]
+    # train.to_csv('train.csv', index=None)
+    # val.to_csv('validation.csv', index=None) 
+    # test.to_csv('test.csv', index=None) 
+
+    return train, test, val
 
