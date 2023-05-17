@@ -1,1 +1,0 @@
-arquivo adicionado apenas para a criação do diretório, deletar assim que outro arquivo for adicionado.
