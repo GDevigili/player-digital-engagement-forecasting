@@ -60,6 +60,7 @@ def evaluate_mae(y_true, y_pred):
     for target in TARGET_COLS:
         mae = mean_absolute_error(y_true[target], y_pred[target])
         maes[target] = mae
+    maes['average'] = np.mean(list(maes.values()))
     return maes
 
 
