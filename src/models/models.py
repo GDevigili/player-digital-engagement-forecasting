@@ -64,6 +64,27 @@ def evaluate_mae(y_true, y_pred):
     return maes
 
 
+def MAE(y_pred, y_obs):
+    return np.mean(np.abs(y_pred - y_obs))
+
+def AMAE(y_obs, y_pred, points=1000, show=True):
+    limits = np.linspace(0, 100, points)
+    dx = limits[1] - limits[0]
+    maes = []
+    for x in limits:
+        inx = y_obs >= x
+        maes.append(MAE(np.array(y_pred)[inx], np.array(y_obs)[inx]))
+
+    if show:
+        import matplotlib.pyplot as plt
+        plt.plot(limits, maes)
+        plt.xlabel('Threshold')
+        plt.ylabel('MAE')
+        plt.show()
+
+    return np.sum(maes) * dx
+
+
 def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
     """Fit the model and predict for each target column
     
