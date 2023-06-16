@@ -84,6 +84,27 @@ def AMAE(y_obs, y_pred, points=1000, show=True):
 
     return np.sum(maes) * dx
 
+def evaluate_amae(y_true, y_pred):
+    """Evaluate the mean absolute error for each target column
+
+    Parameters
+    ----------
+    y_true : pd.DataFrame
+        True labels
+    y_pred : pd.DataFrame
+        Predictions
+    
+    Returns
+    -------
+    dict
+        Mean absolute error for each target column
+    """
+    amaes = {}
+    for target in TARGET_COLS:
+        amae = AMAE(y_true[target], y_pred[target])
+        amaes[target] = amae
+    amaes['average'] = np.mean(list(amaes.values()))
+    return amaes
 
 def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
     """Fit the model and predict for each target column
