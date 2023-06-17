@@ -60,7 +60,7 @@ def evaluate_mae(y_true, y_pred):
     for target in TARGET_COLS:
         mae = mean_absolute_error(y_true[target], y_pred[target])
         maes[target] = mae
-    maes['average'] = np.mean(list(maes.values()))
+    maes['average | MAE'] = np.mean(list(maes.values()))
     return maes
 
 
@@ -101,9 +101,9 @@ def evaluate_amae(y_true, y_pred):
     """
     amaes = {}
     for target in TARGET_COLS:
-        amae = AMAE(y_true[target], y_pred[target])
-        amaes[target] = amae
-    amaes['average'] = np.mean(list(amaes.values()))
+        amae = AMAE(y_true[target], y_pred[target], show=False)
+        amaes[target + ' | AMAE'] = amae
+    amaes['average | AMAE'] = np.mean(list(amaes.values()))
     return amaes
 
 def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
