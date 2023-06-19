@@ -5,6 +5,10 @@ import pickle
 import pandas as pd
 import numpy as np
 
+from joblib import Parallel, delayed
+from pandas.api.types import is_datetime64_any_dtype as is_datetime
+
+
 # constants
 PROCESSED_DATA_PATH = '../data/processed-data/'
 MODEL_PATH = '../models/trained-models/'
@@ -21,8 +25,7 @@ def unpack_data(data, dfs=None, n_jobs=-1):
         data = data.loc[:, dfs]
     unnested_dfs = {}
     for name, column in data.iteritems():
-        daily_dfs = Parallel(n_jobs=n_jobs)(
-            delayed(unpack_json)(item) for date, item in column.iteritems())
+        daily_dfs = Parallel(n_jobs=n_jobs)(delayed(unpack_json)(item) for date, item in column.iteritems())
         df = pd.concat(daily_dfs)
         unnested_dfs[name] = df
     return unnested_dfs
@@ -144,3 +147,130 @@ def x_y_split(df: pd.DataFrame, target_cols: list = TARGET_COLS):
     y = df[target_cols]
     x = df.drop(target_cols, axis=1)
     return x, y
+
+def naive(test):
+    """Naive model that predicts the previous value of the target column"""
+    y_pred = pd.DataFrame(columns=TARGET_COLS)
+    for target in TARGET_COLS:
+        y_pred[target] = test[target + '_shift_1']
+    return y_pred
+
+
+class MeanModel():
+    """Mean model that predicts the mean of the target column 
+    for each player"""
+    def __init__(self, target_cols = TARGET_COLS):
+        pass
+
+    def fit(self, X):
+        self.player_mean = X.groupby('IdPlayer').mean()
+
+    def predict(self, X):
+        y_pred = pd.DataFrame(columns=TARGET_COLS)
+        for target in TARGET_COLS:
+            y_pred[target] = X['IdPlayer'].map(self.player_mean[target])
+            y_pred[target].fillna(self.player_mean[target].mean())
+        return y_pred
+
+
+def evaluate_mae(y_true, y_pred):
+    """Evaluate the mean absolute error for each target column
+
+    Parameters
+    ----------
+    y_true : pd.DataFrame
+        True labels
+    y_pred : pd.DataFrame
+        Predictions
+    
+    Returns
+    -------
+    dict
+        Mean absolute error for each target column
+    """
+    maes = {}
+    for target in TARGET_COLS:
+        mae = mean_absolute_error(y_true[target], y_pred[target])
+        maes[target] = mae
+    maes['average | MAE'] = np.mean(list(maes.values()))
+    return maes
+
+
+def MAE(y_pred, y_obs):
+    return np.mean(np.abs(y_pred - y_obs))
+
+def AMAE(y_obs, y_pred, points=1000, show=True):
+    limits = np.linspace(0, 100, points)
+    dx = limits[1] - limits[0]
+    maes = []
+    for x in limits:
+        inx = y_obs >= x
+        maes.append(MAE(np.array(y_pred)[inx], np.array(y_obs)[inx]))
+
+    if show:
+        import matplotlib.pyplot as plt
+        plt.plot(limits, maes)
+        plt.xlabel('Threshold')
+        plt.ylabel('MAE')
+        plt.show()
+
+    return np.sum(maes) * dx
+
+def evaluate_amae(y_true, y_pred):
+    """Evaluate the mean absolute error for each target column
+
+    Parameters
+    ----------
+    y_true : pd.DataFrame
+        True labels
+    y_pred : pd.DataFrame
+        Predictions
+    
+    Returns
+    -------
+    dict
+        Mean absolute error for each target column
+    """
+    amaes = {}
+    for target in TARGET_COLS:
+        amae = AMAE(y_true[target], y_pred[target], show=False)
+        amaes[target + ' | AMAE'] = amae
+    amaes['average | AMAE'] = np.mean(list(amaes.values()))
+    return amaes
+
+def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
+    """Fit the model and predict for each target column
+    
+    Parameters
+    ----------
+    model : sklearn model
+        Model to fit and predict
+    x_train : pd.DataFrame
+        Training data
+    y_train : pd.DataFrame
+        Training labels
+    x_test : pd.DataFrame
+        Test data
+    target_cols : list, optional
+        List of target columns, by default TARGET_COLS
+        
+    Returns
+    -------
+    pd.DataFrame
+        Predictions for each target column
+    """
+    y_preds = pd.DataFrame(columns=target_cols)
+    models = []
+    for target in target_cols:
+        model.fit(x_train, y_train[target])
+        y_preds[target] = model.predict(x_test)
+        if return_models:
+            models.append(model)
+        else:
+            del model
+    if return_models:
+        return y_preds, models
+    else:
+        return y_preds
+    
+    
