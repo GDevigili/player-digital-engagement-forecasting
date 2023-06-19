@@ -24,9 +24,12 @@ TEST_SPLIT_DATE = '2021-04-30'
 
 # Funções auxiliares para carregar e tratar os dados
 def unpack_json(json_str):
+    """Converts a json string to a pandas dataframe."""
     return pd.DataFrame() if pd.isna(json_str) else pd.read_json(json_str)
 
 def unpack_data(data, dfs=None, n_jobs=-1):
+    """Converts all json strings in the given dataframe to a pandas dataframe."""
+
     if dfs is not None:
         data = data.loc[:, dfs]
     unnested_dfs = {}
@@ -37,6 +40,17 @@ def unpack_data(data, dfs=None, n_jobs=-1):
     return unnested_dfs
 
 def create_id(df, id_cols, id_col_name, dt_col_name = 'Dt'):
+    """Create a unique id based on the columns passed as argument.
+    
+    Args:
+        df (pd.DataFrame): Dataframe to create the id.
+        id_cols (list): Columns to create the id.
+        id_col_name (str): Name of the id column.
+        dt_col_name (str, optional): Name of the date column. Defaults to 'Dt'.
+        
+    Returns:
+        pd.DataFrame: Dataframe with the id column."""
+
     df['Id' + dt_col_name + id_col_name] = df[id_cols].apply(lambda x: '_'.join(x.astype(str)), axis=1)
     return df
 
@@ -203,9 +217,41 @@ def evaluate_mae(y_true, y_pred):
 
 
 def MAE(y_pred, y_obs):
+    """Mean absolute error
+    
+    Parameters
+    ----------
+    y_pred : np.array
+        Predictions
+    y_obs : np.array
+        True labels
+        
+    Returns
+    -------
+    float
+        Mean absolute error
+    """
     return np.mean(np.abs(y_pred - y_obs))
 
 def AMAE(y_obs, y_pred, points=1000, show=True):
+    """Area under the mean absolute error curve
+    
+    Parameters
+    ----------
+    y_pred : np.array
+        Predictions
+    y_obs : np.array
+        True labels
+    points : int, optional
+        Number of points to evaluate the curve, by default 1000
+    show : bool, optional
+        Whether to show the curve, by default True
+    
+    Returns
+    -------
+    float
+        Area under the mean absolute error curve
+    """
     limits = np.linspace(0, 100, points)
     dx = limits[1] - limits[0]
     maes = []
