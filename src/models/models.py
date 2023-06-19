@@ -60,9 +60,51 @@ def evaluate_mae(y_true, y_pred):
     for target in TARGET_COLS:
         mae = mean_absolute_error(y_true[target], y_pred[target])
         maes[target] = mae
-    maes['average'] = np.mean(list(maes.values()))
+    maes['average | MAE'] = np.mean(list(maes.values()))
     return maes
 
+
+def MAE(y_pred, y_obs):
+    return np.mean(np.abs(y_pred - y_obs))
+
+def AMAE(y_obs, y_pred, points=1000, show=True):
+    limits = np.linspace(0, 100, points)
+    dx = limits[1] - limits[0]
+    maes = []
+    for x in limits:
+        inx = y_obs >= x
+        maes.append(MAE(np.array(y_pred)[inx], np.array(y_obs)[inx]))
+
+    if show:
+        import matplotlib.pyplot as plt
+        plt.plot(limits, maes)
+        plt.xlabel('Threshold')
+        plt.ylabel('MAE')
+        plt.show()
+
+    return np.sum(maes) * dx
+
+def evaluate_amae(y_true, y_pred):
+    """Evaluate the mean absolute error for each target column
+
+    Parameters
+    ----------
+    y_true : pd.DataFrame
+        True labels
+    y_pred : pd.DataFrame
+        Predictions
+    
+    Returns
+    -------
+    dict
+        Mean absolute error for each target column
+    """
+    amaes = {}
+    for target in TARGET_COLS:
+        amae = AMAE(y_true[target], y_pred[target], show=False)
+        amaes[target + ' | AMAE'] = amae
+    amaes['average | AMAE'] = np.mean(list(amaes.values()))
+    return amaes
 
 def fit_predict_targets(model, x_train, y_train, x_test, target_cols=TARGET_COLS, return_models=False):
     """Fit the model and predict for each target column
